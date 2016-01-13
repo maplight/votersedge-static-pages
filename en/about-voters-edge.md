@@ -53,7 +53,7 @@ We are deeply grateful to the following foundations and individuals whose contri
 - Orlin and Onnolee Trapp (Voter’s Edge California)
 - Kathleen Weisenberg (Voter’s Edge California)
 
-[Join these and other donors, by supporting Voter's Edge today!](https://donatenow.networkforgood.org/votersedge)
+[Join these and other donors by supporting Voter's Edge today!](https://donatenow.networkforgood.org/votersedge)
 
 
 #### Team
