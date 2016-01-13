@@ -1,5 +1,6 @@
 ---
 title: Privacy Policy
-published: Published
+published: true
 ---
 
+Editing sample
