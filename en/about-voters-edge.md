@@ -4,18 +4,18 @@ published: true
 ---
 
 
-#### History of Voter’s Edge
+## History of Voter’s Edge
 
 
-#### About MapLight
+## About MapLight
 
 ---
 
-#### Advisory Board
+## Advisory Board
 
 * Advisor name
 
-#### Funders
+## Funders
 
 Voter’s Edge is funded by individuals and foundations who support our work providing voters with a one-stop source of unbiased, nonpartisan information to help them make choices that best align with their particular values and interests.
 
@@ -56,6 +56,6 @@ We are deeply grateful to the following foundations and individuals whose contri
 [Join these and other donors by supporting Voter's Edge today!](https://donatenow.networkforgood.org/votersedge)
 
 
-#### Team
+## Team
 
 * Team member name
