@@ -4,6 +4,7 @@ published: true
 ---
 
 
+
 ## History of Voter’s Edge
 
 ### About MapLight
@@ -52,6 +53,7 @@ We are deeply grateful to the following foundations and individuals whose contri
 - Orlin and Onnolee Trapp
 - Kathleen Weisenberg
 
+[Join these and other donors by supporting Voter's Edge California today!](https://donatenow.networkforgood.org/votersedge)
 
 ## Team
 
