@@ -45,7 +45,7 @@ Members of the Voter’s Edge Spanish Language advisory board advise MapLight on
 * Lisa Garcia Bedolla, Chancellor's Professor, Education and Political Science, U.C. Berkeley
 * Gino Squadrito, Art Director, LaserCom
 
-
+---
 
 ## Funders
 
@@ -87,6 +87,7 @@ We are deeply grateful to the following foundations and individuals whose contri
 
 [Join these and other donors by supporting Voter's Edge today!](https://donatenow.networkforgood.org/votersedge)
 
+---
 
 ## Meet the Voter's Edge Team
 
