@@ -30,9 +30,6 @@ We provide journalists and citizens with transparency tools that connect data on
 
 [Visit us to learn more](http://maplight.org/content/about-maplight) about MapLight and our work.
 
-
-
-
 ---
 
 ## Advisory Boards
