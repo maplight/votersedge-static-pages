@@ -5,6 +5,7 @@ published: true
 
 
 
+
 ## Welcome to Voter's Edge
 
 Voter’s Edge is a comprehensive, nonpartisan online guide to federal, state, and local elections in California, Illinois, and New York.
@@ -32,9 +33,19 @@ We provide journalists and citizens with transparency tools that connect data on
 
 ---
 
-## Advisory Board
+## Advisory Boards
 
-* Advisor name
+Voter’s Edge has an advisory board for each state it covers, as well as a Spanish language advisory board. Voter's Edge advisory board members are dedicated leaders who share a commitment to civic engagement, nonpartisan voter information, and good government. They represent a variety of political affiliations and hold expertise in different areas, but all are invested in addressing the challenges faced by voters in their state. At the national level, Voter's Edge is guided by input from MapLight’s [board](http://maplight.org/board) and [advisory board](http://maplight.org/advisory_board).
+
+### Spanish Language Advisory Board
+Members of the Voter’s Edge Spanish Language advisory board advise MapLight on various aspects of translating and presenting Voter’s Edge in Spanish, as well as distribution strategies to Spanish-language users. Members include:
+
+* Melissa Breach, Executive Director, League of Women Voters of California Education Fund
+* Mony Flores-Bauer, Consultant, Progressive Consultants Network
+* Lisa Garcia Bedolla, Chancellor's Professor, Education and Political Science, U.C. Berkeley
+* Gino Squadrito, Art Director, LaserCom
+
+
 
 ## Funders
 
@@ -100,7 +111,3 @@ The Voter’s Edge project utilizes the passion and talents of the entire MapLig
 **MapLight President & Co-Founder:** _Daniel Newman_
 
 [Learn more](http://maplight.org/content/staff) about the Voter’s Edge team and the rest of the MapLight crew!
-
-
-
-
