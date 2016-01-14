@@ -4,6 +4,7 @@ published: true
 ---
 
 
+
 ## Welcome to Voter's Edge Illinois
 
 Voter’s Edge Illinois is a comprehensive, nonpartisan online guide to federal, state, and local elections in the State of Illinois. Voter's Edge Illinois is a project of MapLight.
@@ -31,9 +32,27 @@ We provide journalists and citizens with transparency tools that connect data on
 
 ---
 
-## Advisory Board
+## Advisory Boards
+ 
+Voter’s Edge has an advisory board for each state it covers, as well as a Spanish language advisory board. Voter's Edge advisory board members are dedicated leaders who share a commitment to civic engagement, nonpartisan voter information, and good government. They represent a variety of political affiliations and hold expertise in different areas, but all are invested in addressing the challenges faced by voters in their state. At the national level, Voter's Edge is guided by input from MapLight’s [board](http://maplight.org/board) and [advisory board](http://maplight.org/advisory_board).
 
-* Advisor name
+### Voter's Edge Illinois Advisory Board
+Members of the Voter’s Edge Illinois advisory board advise MapLight on various aspects of Voter's Edge Illinois, including editorial policy, potential partnerships, and effective distribution strategies. Members include:
+
+* Sarah Brune, Deputy Director, [Illinois Campaign for Political Reform](http://www.ilcampaign.org/)
+* Maryam Judar, Executive Director & Community Lawyer, [Citizen Advocacy Center](http://www.citizenadvocacycenter.org/)
+* Malcolm Rich, Executive Director, [Chicago Appleseed Fund for Justice](http://www.chicagoappleseed.org/)
+* Judy Stevens, Policy Coordinator, [Better Government Association](http://www.bettergov.org/)
+
+### Spanish Language Advisory Board
+Members of the Voter’s Edge Spanish Language advisory board advise MapLight on various aspects of translating and presenting Voter’s Edge in Spanish, as well as distribution strategies to Spanish-language users. Members include:
+ 
+* Melissa Breach, Executive Director, [League of Women Voters of California Education Fund](https://cavotes.org/)
+* Mony Flores-Bauer, Consultant, [Progressive Consultants Network](http://www.pcneb.org/floresbauer.html)
+* Lisa Garcia Bedolla, Chancellor's Professor, Education and Political Science, U.C. Berkeley
+* Gino Squadrito, Art Director, [LaserCom](http://www.lasercomdesign.com/)
+
+---
 
 ## Funders
 
@@ -51,6 +70,8 @@ We are deeply grateful to the following foundations and individuals whose contri
 - Craig Newmark Philanthropic Fund (national Voter’s Edge project)
 
 [Join these and other donors by supporting Voter's Edge Illinois today!](https://donatenow.networkforgood.org/votersedge)
+
+---
 
 ## Meet the Voter's Edge Illinois Team
  
@@ -75,5 +96,3 @@ The Voter’s Edge Illinois project utilizes the passion and talents of the enti
 **MapLight President & Co-Founder:** _Daniel Newman_
  
 [Learn more](http://maplight.org/content/staff) about the Voter’s Edge team and the rest of the MapLight crew!
- 
-
