@@ -5,8 +5,6 @@ published: true
 
 
 
-## History of Voter’s Edge
-
 ### About MapLight
 
 ### About LWVC
