@@ -3,6 +3,7 @@ title: "About Voter's Edge California"
 published: true
 ---
 
+
 ## Welcome to Voter's Edge California
 
 Voter’s Edge California (VEC) is a joint project of MapLight and the League of Women Voters of California Education Fund (LWVCEF). Voter's Edge California is a comprehensive, nonpartisan online guide to elections covering federal, state, and local races in the State of California.
@@ -29,8 +30,6 @@ In 2014, the League and MapLight joined forces to create a successful pilot proj
 
 MapLight and the LWVCEF’s continued collaboration into the 2016 election cycle empowers voters to access the information they need to vote with confidence. Our partnership marries Smart Voter's authoritative coverage of election contests, candidates, and ballot measures with MapLight's deep expertise in public data and technology. The result is Voter’s Edge California, which provides top-to-bottom ballot and campaign finance information in one easy-to-use site, giving voters instant access to political information of unparalleled depth and transparency.
 
-
-
 ### About MapLight
 
 MapLight is a nonpartisan research organization that reveals money’s influence on politics. We are a 501(c)(3) nonprofit organization.
@@ -55,9 +54,29 @@ Visit [Smart Voter’s archives](http://smartvoter.org/voter/archives.html) for 
 
 ---
 
-## Advisory Board
+## Advisory Boards
+ 
+Voter’s Edge has an advisory board for each state it covers, as well as a Spanish language advisory board. Voter's Edge advisory board members are dedicated leaders who share a commitment to civic engagement, nonpartisan voter information, and good government. They represent a variety of political affiliations and hold expertise in different areas, but all are invested in addressing the challenges faced by voters in their state. At the national level, Voter's Edge is guided by input from MapLight’s [board](http://maplight.org/board) and [advisory board](http://maplight.org/advisory_board).
 
-* Advisor name
+### Voter's Edge California Advisory Board
+Members of the Voter’s Edge California advisory board advise MapLight on various aspects of Voter's Edge, including editorial policy, potential partnerships, and effective distribution strategies. Members include:
+
+* Kim Alexander, President & Founder, [California Voter Foundation](http://www.calvoter.org/)
+* Jon Fleischman, Founder & Publisher of [FlashReport](http://www.flashreport.org/), Owner of Fleischman Consulting
+* Jill LaVine, Registrar of Voters, Sacramento County
+* Emily Rusch, Executive Director, [CALPIRG](http://www.calpirg.org/)
+* Susan Stuart Clark, Founder & Director, [Common Knowledge Group](http://ckgroup.org/)
+* Phillip Ung, Director of Public Affairs, [California Forward](http://www.cafwd.org/)
+
+### Spanish Language Advisory Board
+Members of the Voter’s Edge Spanish Language advisory board advise MapLight on various aspects of translating and presenting Voter’s Edge in Spanish, as well as distribution strategies to Spanish-language users. Members include:
+ 
+* Melissa Breach, Executive Director, [League of Women Voters of California Education Fund](https://cavotes.org/)
+* Mony Flores-Bauer, Consultant, [Progressive Consultants Network](http://www.pcneb.org/floresbauer.html)
+* Lisa Garcia Bedolla, Chancellor's Professor, Education and Political Science, U.C. Berkeley
+* Gino Squadrito, Art Director, [LaserCom](http://www.lasercomdesign.com/)
+
+---
 
 ## Funders
 
@@ -175,9 +194,3 @@ LWVCEF Executive Director: _Melissa Breach_ | _[Learn more](http://maplight.org/
 * **Tulare County Coordinator:** _Denise Nelson_
 
 * **Ventura County:** _Currently Vacant_
-
-
-
-
-
-
