@@ -116,65 +116,65 @@ LWVCEF Executive Director: _Melissa Breach_ | _[Learn more](http://maplight.org/
 
 **County Coordinators:** County Coordinators and other volunteers are vital to the success of Voter’s Edge California. These volunteers work tirelessly to ensure Voter’s Edge California offers an abundance of accurate, high-quality information to voters.
 
-**Alameda County Coordinator:** _Bonnie Hamlin_
+* **Alameda County Coordinator:** _Bonnie Hamlin_
 
-**Butte County Coordinator:** _Jane Wanderer_
+* **Butte County Coordinator:** _Jane Wanderer_
 
-**Contra Costa County Coordinator:** _Marion Shostrom_
+* **Contra Costa County Coordinator:** _Marion Shostrom_
 
-**El Dorado County Coordinator:** _Elaine Lyman_
+* **El Dorado County Coordinator:** _Elaine Lyman_
 
-**Fresno County Coordinator:** _Jacquie Canfield_
+* **Fresno County Coordinator:** _Jacquie Canfield_
 
-**Humboldt County:** _Currently Vacant_
+* **Humboldt County:** _Currently Vacant_
 
-**Imperial County Coordinator:** _Myles Pomeroy_
+* **Imperial County Coordinator:** _Myles Pomeroy_
 
-**Kern County Coordinator:** _Lois Watson_
+* **Kern County Coordinator:** _Lois Watson_
 
-**Los Angeles County Coordinators:** _Linda Herman & Pat Kromka & Roz Tyson_
+* **Los Angeles County Coordinators:** _Linda Herman & Pat Kromka & Roz Tyson_
 
-**Marin County Coordinator:** _Veda Flores_
+* **Marin County Coordinator:** _Veda Flores_
 
-**Mendocino County Coordinator:** _Pat Dunbar_
+* **Mendocino County Coordinator:** _Pat Dunbar_
 
-**Monterey County Coordinator:** _Dennis Mar_
+* **Monterey County Coordinator:** _Dennis Mar_
 
-**Napa County Coordinator:** _Kim Farmer_
+* **Napa County Coordinator:** _Kim Farmer_
 
-**Orange County Coordinator:** _Petti Van Rekom_
+* **Orange County Coordinator:** _Petti Van Rekom_
 
-**Placer County Coordinator:** _Lynne Roberts_
+* **Placer County Coordinator:** _Lynne Roberts_
 
-**Riverside County Coordinator:** _Joan Donahue_
+* **Riverside County Coordinator:** _Joan Donahue_
 
-**Sacramento County Coordinator:** _Louise Einspahr_
+* **Sacramento County Coordinator:** _Louise Einspahr_
 
-**San Bernardino County Coordinator:** _Jill Vassilakos_
+* **San Bernardino County Coordinator:** _Jill Vassilakos_
 
-**San Diego County Coordinator:** _Rachel McDonald_
+* **San Diego County Coordinator:** _Rachel McDonald_
 
-**San Francisco County Coordinator:** _Sara Kunitake_
+* **San Francisco County Coordinator:** _Sara Kunitake_
 
-**San Joaquin County Coordinator:** _Vickie Markarian_
+* **San Joaquin County Coordinator:** _Vickie Markarian_
 
-**San Luis Obispo County Coordinators:** _Ann Havlik & Alice Bunker_
+* **San Luis Obispo County Coordinators:** _Ann Havlik & Alice Bunker_
 
-**San Mateo County Coordinator:** _Kathee Tyson_
+* **San Mateo County Coordinator:** _Kathee Tyson_
 
-**Santa Barbara County Coordinator:** _Bonnie Lassen_
+* **Santa Barbara County Coordinator:** _Bonnie Lassen_
 
-**Santa Clara County Coordinators:** _Greg Fowler & Julie Lovins_
+* **Santa Clara County Coordinators:** _Greg Fowler & Julie Lovins_
 
-**Santa Cruz County:** _Currently Vacant_
+* **Santa Cruz County:** _Currently Vacant_
 
-**Sonoma County Coordinator:** _Sally Patterson_
+* **Sonoma County Coordinator:** _Sally Patterson_
 
-**Stanislaus County Coordinator:** _Mary Giventer_
+* **Stanislaus County Coordinator:** _Mary Giventer_
 
-**Tulare County Coordinator:** _Denise Nelson_
+* **Tulare County Coordinator:** _Denise Nelson_
 
-**Ventura County:** _Currently Vacant_
+* **Ventura County:** _Currently Vacant_
 
 
 
