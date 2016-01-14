@@ -3,6 +3,7 @@ title: "About Voter's Edge New York"
 published: true
 ---
 
+
 ## Welcome to Voter's Edge New York
 
 Voter’s Edge New York is a comprehensive, nonpartisan online guide to federal, state, and local elections in the State of New York. Voter's Edge New York is a project of MapLight.
@@ -52,7 +53,27 @@ We are deeply grateful to the following foundations and individuals whose contri
 
 [Join these and other donors by supporting Voter's Edge New York today!](https://donatenow.networkforgood.org/votersedge)
 
-
-## Team
-
-* Team member name
+## Meet the Voter's Edge New York Team
+ 
+The Voter’s Edge New York project utilizes the passion and talents of the entire MapLight team in various capacities. At the center of this organization-wide effort, the Voter’s Edge team works to provide this tool to voters - let’s meet the team!
+ 
+**Voting Information Director:** _Michael Canning_
+ 
+**Technical Director:** _Leon Smith_
+ 
+**Software Engineer & Database Administrator:** _Mike Krejci_
+ 
+**Lead Designer & Front-End Engineer:** _Chacha Sikes_
+ 
+**Program Associates:**  _Elliott Day_ & _Isaac Agree_
+ 
+**Researcher:** _Joanna Nix_
+ 
+**Program Assistant:** _Chelsea Miller_
+ 
+**Software Engineer:** _Shane Dosch_
+ 
+**MapLight President & Co-Founder:** _Daniel Newman_
+ 
+[Learn more](http://maplight.org/content/staff) about the Voter’s Edge team and the rest of the MapLight crew!
+ 
