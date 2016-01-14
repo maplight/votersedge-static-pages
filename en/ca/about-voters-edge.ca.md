@@ -97,6 +97,87 @@ We are deeply grateful to the following foundations and individuals whose contri
 
 [Join these and other donors by supporting Voter's Edge California today!](https://donatenow.networkforgood.org/votersedge)
 
-## Team
+## Meet the Voter's Edge California Team
 
-* Team member name
+A diverse group of talents and personalities, from both the League of Women Voters Education Fund (LWVCEF) and MapLight, combine to make Voter’s Edge California possible - let’s meet the team!
+
+**From the LWVCEF:** | **From MapLight:**
+--- | --- 
+LWVCEF Senior Director of Civic Engagement: _Dora Rose_ | Voting Information Director: _Michael Canning_
+LWVCEF Membership & Technology Manager: _Sharon Stone_ | Technical Director: Leon Smith
+Senior Advisor: _Roberta Hollimon_ | Software Engineer & Database Administrator: _Mike Krejci_
+Senior Advisor: _Carol Watts_ | Lead Designer & Front-End Engineer: _Chacha Sikes_
+Senior Programmer: _Carl Hage_ | Program Associates: _Elliot Day & Isaac Agree_
+Data Coordinator: _Greg Fowler_ | Researcher: _Joanna Nix_
+Northern CA Liaison: _Bonnie Hamlin_ | Program Assistant: _Chelsea Miller_
+Southern CA Liaison: _Brianna Conser_ | Software Engineer: _Shane Dosch_
+LWVCEF President: _Helen Hutchison_ | MapLight President & Co-Founder: _Daniel Newman_
+LWVCEF Executive Director: _Melissa Breach_ | _[Learn more](http://maplight.org/content/staff) about the Voter’s Edge team and the rest of the MapLight crew!_
+
+**County Coordinators:** County Coordinators and other volunteers are vital to the success of Voter’s Edge California. These volunteers work tirelessly to ensure Voter’s Edge California offers an abundance of accurate, high-quality information to voters.
+
+**Alameda County Coordinator:** _Bonnie Hamlin_
+
+**Butte County Coordinator:** _Jane Wanderer_
+
+**Contra Costa County Coordinator:** _Marion Shostrom_
+
+**El Dorado County Coordinator:** _Elaine Lyman_
+
+**Fresno County Coordinator:** _Jacquie Canfield_
+
+**Humboldt County:** _Currently Vacant_
+
+**Imperial County Coordinator:** _Myles Pomeroy_
+
+**Kern County Coordinator:** _Lois Watson_
+
+**Los Angeles County Coordinators:** _Linda Herman & Pat Kromka & Roz Tyson_
+
+**Marin County Coordinator:** _Veda Flores_
+
+**Mendocino County Coordinator:** _Pat Dunbar_
+
+**Monterey County Coordinator:** _Dennis Mar_
+
+**Napa County Coordinator:** _Kim Farmer_
+
+**Orange County Coordinator:** _Petti Van Rekom_
+
+**Placer County Coordinator:** _Lynne Roberts_
+
+**Riverside County Coordinator:** _Joan Donahue_
+
+**Sacramento County Coordinator:** _Louise Einspahr_
+
+**San Bernardino County Coordinator:** _Jill Vassilakos_
+
+**San Diego County Coordinator:** _Rachel McDonald_
+
+**San Francisco County Coordinator:** _Sara Kunitake_
+
+**San Joaquin County Coordinator:** _Vickie Markarian_
+
+**San Luis Obispo County Coordinators:** _Ann Havlik & Alice Bunker_
+
+**San Mateo County Coordinator:** _Kathee Tyson_
+
+**Santa Barbara County Coordinator:** _Bonnie Lassen_
+
+**Santa Clara County Coordinators:** _Greg Fowler & Julie Lovins_
+
+**Santa Cruz County:** _Currently Vacant_
+
+**Sonoma County Coordinator:** _Sally Patterson_
+
+**Stanislaus County Coordinator:** _Mary Giventer_
+
+**Tulare County Coordinator:** _Denise Nelson_
+
+**Ventura County:** _Currently Vacant_
+
+
+
+
+
+
