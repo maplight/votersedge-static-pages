@@ -3,13 +3,57 @@ title: "About Voter's Edge California"
 published: true
 ---
 
+## Welcome to Voter's Edge California
+
+Voter’s Edge California (VEC) is a joint project of MapLight and the League of Women Voters of California Education Fund (LWVCEF). Voter's Edge California is a comprehensive, nonpartisan online guide to elections covering federal, state, and local races in the State of California.
+
+####With Voter’s Edge California, voters can:
+
+- Access their full, personalized ballot by entering their address.
+- Get in-depth information on candidates, measures, and who supports them.
+- View candidate biographies, top priorities, answers to questions, photos, policy videos, endorsements, and detailed information about who funds their campaigns.
+- Browse unbiased explanations of ballot measures; find out who supports, opposes, and funds them.
+- Check where, when, and how to vote, including information on their local polling locations.
+- Keep track of their choices to make voting easier.
+- Share information about the election with friends and family.
+
+### History of Voter's Edge Californa
+
+The League of Women Voters of California Education Fund produced one of the nation’s first election information websites, SmartVoter.org. Since 1996, the Smart Voter project has been California’s premier online source for authoritative, nonpartisan coverage of election contests, candidates, and ballot measures. 
+
+MapLight’s Voter’s Edge tool was first designed to help voters understand the sources of funding behind ballot measures in California. In recent years, the project has expanded to cover candidates and elections in states beyond California.
+
+In 2014, the League and MapLight joined forces to create a successful pilot project. The result is Voter’s Edge California. 
+
+### The Partnership
+
+MapLight and the LWVCEF’s continued collaboration into the 2016 election cycle empowers voters to access the information they need to vote with confidence. Our partnership marries Smart Voter's authoritative coverage of election contests, candidates, and ballot measures with MapLight's deep expertise in public data and technology. The result is Voter’s Edge California, which provides top-to-bottom ballot and campaign finance information in one easy-to-use site, giving voters instant access to political information of unparalleled depth and transparency.
+
 
 
 ### About MapLight
 
-### About LWVC
+MapLight is a nonpartisan research organization that reveals money’s influence on politics. We are a 501(c)(3) nonprofit organization.
 
-### About our partnership
+We provide journalists and citizens with transparency tools that connect data on campaign contributions, politicians, legislative votes, industries, companies, and more to show patterns of influence never before possible to see. These tools allow users to gain unique insights into how campaign contributions affect policy so they can draw their own conclusions about how money influences our political system.
+
+[Visit us to learn more](http://maplight.org/content/about-maplight) about MapLight and our work.
+
+### About the League of Women Voters of California Edcuation Fund
+
+The League of Women Voters of California Education Fund conducts voter service and civic education activities. We are a 501(c)(3) corporation, a nonpartisan nonprofit educational organization, which:
+
+- Builds participation in the democratic process.
+- Studies key community issues at all government levels in an unbiased manner.
+- Enables people to seek positive solutions to public policy issues through education and conflict management.
+
+Get more information [about us](https://cavotes.org/about).
+
+Find [your local League of Women Voters](https://cavotes.org/local).
+
+Visit [Smart Voter’s archives](http://smartvoter.org/voter/archives.html) for information and results from past elections.
+
+---
 
 ## Advisory Board
 
