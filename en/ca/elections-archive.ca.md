@@ -1,12 +1,9 @@
 ---
 title: Elections Archive
-published: Published
+published: true
 ---
+
 ### Prior to 2016
-This site is the next generation of Smart Voter. 
+Voter's Edge California is the next generation of Smart Voter. 
 
-Archived elections are available on the <a href="http://smartvoter.org" target="_blank">SmartVoter</a> website.
-
-* <a href="http://smartvoter.org/voter/archives.html" target="_blank">Smart Voter Recent Archive</a>
-
-* <a href="http://smartvoter.org/voter/archives_old.html" target="_blank">Smart Voter Old Archive</a>
+Visit [Smart Voter’s Election Archives](http://www.smartvoter.org/voter/archives.html) for ballot lists, results, and campaign promises from 1996 through February 2016. You can also get your [personalized ballot](http://www.smartvoter.org/voter/search.html#ballot) for any archived election!
