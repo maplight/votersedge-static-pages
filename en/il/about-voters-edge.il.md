@@ -6,9 +6,10 @@ published: true
 
 
 
+
 ## Welcome to Voter's Edge Illinois
 
-Voter’s Edge Illinois is a comprehensive, nonpartisan online guide to federal, state, and local elections in the State of Illinois. Voter's Edge Illinois is a project of MapLight.
+Voter’s Edge Illinois is a comprehensive, nonpartisan online guide to federal, state, and local elections in the state of Illinois. Voter's Edge Illinois is a project of MapLight.
 
 #### With Voter’s Edge Illinois, voters can:
 
