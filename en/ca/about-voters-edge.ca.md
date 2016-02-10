@@ -6,6 +6,7 @@ published: true
 
 
 
+
 ## Welcome to Voter's Edge California
 
 Voter’s Edge California (VEC) is a joint project of MapLight and the League of Women Voters of California Education Fund (LWVCEF). Voter's Edge California is a comprehensive, nonpartisan online guide to elections covering federal, state, and local races in the State of California.
@@ -30,7 +31,7 @@ In 2014, the League and MapLight joined forces to create a successful pilot proj
 
 ### The Partnership
 
-MapLight and the LWVCEF’s continued collaboration into the 2016 election cycle empowers voters to access the information they need to vote with confidence. Our partnership marries Smart Voter's authoritative coverage of election contests, candidates, and ballot measures with MapLight's deep expertise in public data and technology. The result is Voter’s Edge California, which provides top-to-bottom ballot and campaign finance information in one easy-to-use site, giving voters instant access to political information of unparalleled depth and transparency.
+MapLight and the League of Women Voters of California Education Fund’s continued collaboration into the 2016 election cycle empowers voters to access the information they need to vote with confidence. Our partnership marries Smart Voter's authoritative coverage of election contests, candidates, and ballot measures with MapLight's deep expertise in public data and technology. The result is Voter’s Edge California, which provides top-to-bottom ballot and campaign finance information in one easy-to-use site, giving voters instant access to political information of unparalleled depth and transparency.
 
 ### About MapLight
 
