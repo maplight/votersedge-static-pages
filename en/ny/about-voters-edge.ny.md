@@ -5,9 +5,10 @@ published: true
 
 
 
+
 ## Welcome to Voter's Edge New York
 
-Voter’s Edge New York is a comprehensive, nonpartisan online guide to federal, state, and local elections in the State of New York. Voter's Edge New York is a project of MapLight.
+Voter’s Edge New York is a comprehensive, nonpartisan online guide to federal, state, and local elections in the state of New York. Voter's Edge New York is a project of MapLight.
 
 #### With Voter’s Edge New York, voters can:
 
