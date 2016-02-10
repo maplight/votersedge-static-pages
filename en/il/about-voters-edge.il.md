@@ -5,6 +5,7 @@ published: true
 
 
 
+
 ## Welcome to Voter's Edge Illinois
 
 Voter’s Edge Illinois is a comprehensive, nonpartisan online guide to federal, state, and local elections in the State of Illinois. Voter's Edge Illinois is a project of MapLight.
@@ -43,6 +44,7 @@ Members of the Voter’s Edge Illinois advisory board advise MapLight on various
 * Maryam Judar, Executive Director & Community Lawyer, [Citizen Advocacy Center](http://www.citizenadvocacycenter.org/)
 * Malcolm Rich, Executive Director, [Chicago Appleseed Fund for Justice](http://www.chicagoappleseed.org/)
 * Judy Stevens, Policy Coordinator, [Better Government Association](http://www.bettergov.org/)
+* Maurice "Moss" Bresnahan, CEO, [Illinois Public Media](http://will.illinois.edu/) & [WTVP](http://www.wtvp.org/)
 
 ### Spanish Language Advisory Board
 Members of the Voter’s Edge Spanish Language advisory board advise MapLight on various aspects of translating and presenting Voter’s Edge in Spanish, as well as distribution strategies to Spanish-language users. Members include:
