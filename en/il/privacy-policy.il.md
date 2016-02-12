@@ -6,7 +6,7 @@ ________________________________________
  
 We take your privacy seriously. We are a non-profit project and will never sell your information to third parties. We are committed to protecting your privacy in accordance with all applicable laws and regulations. 
  
-This Privacy Policy is a binding agreement between you and VE (a project of [MapLight](http://maplight.org/) and in partnership with the [League of Women Voters California Education Fund](http://lwv.org/content/league-women-voters-education-fund) for VE California) regarding the use of the Votersedge.org websites and associated services (“VE,” the “Platform” or the “Site”). Please read this Privacy Policy before using or submitting content in any form or medium on the Site.
+This Privacy Policy is a binding agreement between you and VE (a project of [MapLight](http://maplight.org/) and in partnership with the [League of Women Voters California Education Fund](https://cavotes.org/) for VE California) regarding the use of the Votersedge.org websites and associated services (“VE,” the “Platform” or the “Site”). Please read this Privacy Policy before using or submitting content in any form or medium on the Site.
  
 By visiting or submitting content on the Site, you agree to abide and be bound by this Privacy Policy. VE reserves the right to change this Privacy Policy at any time, and you agree to be bound by any such changes. Unless explicitly stated otherwise, any new features or functionalities (including, without limitation, video and related projects) that augment or enhance our site shall be subject to this Privacy Policy.
  
