@@ -4,9 +4,10 @@ published: true
 ---
 
 
+
 ## Welcome to Voter's Edge
 
-Voter’s Edge is a comprehensive, nonpartisan online guide to federal, state, and local elections in California, Illinois, and New York. In California, Voter's Edge is produced in partnership with the League of Women Voters of California Education Fund - learn more about this partnership.
+Voter’s Edge is a comprehensive, nonpartisan online guide to federal, state, and local elections in California, Illinois, and New York. 
 
 #### With Voter’s Edge, voters can:
 
