@@ -6,29 +6,29 @@ The data that appears on Voter’s Edge California comes from a variety of sourc
 
 The official election authorities for the state, counties, and other localities are the ultimate authority on what contests, candidates, and ballot measures will appear on the ballot. This data is either directly provided to us by the election authorities or collected from them by the Voter’s Edge California team, which includes volunteers associated with the League of Women Voters of California Education Fund.
 
-Voter’s Edge California is not responsible for the accuracy of the sample ballot and polling location data. Your local election authority remains the sole authoritative source for information regarding the content of ballot and polling place location. If you believe that either the polling place or ballot data is inaccurate, please Contact Us to report the problem.
+Voter’s Edge California is not responsible for the accuracy of the sample ballot and polling location data. Your local election authority remains the sole authoritative source for information regarding the content of ballot and polling place location. If you believe that either the polling place or ballot data is inaccurate, please [Contact Us](www.votersedge.org/en/ca/feedback) to report the problem.
 
 ### Polling locations
 
-Polling locations are sourced directly from the applicable election authorities or supplied by the Google Civic Information API. 
+Polling locations are sourced directly from the applicable election authorities or supplied by the [Google Civic Information API](https://developers.google.com/civic-information/?hl=en). 
 
 ### The address search
 
-* Voter’s Edge California uses data provided from state, county, and local election authorities, information from the census database of the U.S. Census Bureau, and the Google Civic Information API to return ballot data for a specific address.
+* Voter’s Edge California uses data provided from state, county, and local election authorities, information from the census database of the U.S. Census Bureau, and the [Google Civic Information API](https://developers.google.com/civic-information/?hl=en) to return ballot data for a specific address.
 
-* In some situations we will return more contests than will be on your actual ballot. This can happen when there is insufficient data available to correctly connect an office to its specific district. When this happens, we will connect the office to a larger district -- typically a city or a county -- and return the contests for that office for all addresses in that larger district. This means that some of the contests returned might not be on your actual ballot. Contests that may not be on your ballot will be indicated with *TBD*. You can contact your local election authority to confirm if a
+* In some situations we will return more contests than will be on your actual ballot. This can happen when there is insufficient data available to correctly connect an office to its specific district. When this happens, we will connect the office to a larger district -- typically a city or a county -- and return the contests for that office for all addresses in that larger district. This means that some of the contests returned might not be on your actual ballot. Contests that may not be on your ballot will be indicated. You can contact your local election authority to confirm if a
 contest will actually be on your ballot.
 
 * It is possible to search using only a zip code, however this will not produce the most specific results possible. When only a zip code is used, Voter’s Edge California will return all contests that are occurring within that zip code, which typically results in more contests being returned than are on your actual ballot. Enter a full address for the most specific results possible.
 
-Please see our Privacy Policy for more information on how addresses are used.
+Please see our [Privacy Policy](www.votersedge.org/ca/page/privacy-policy) for more information on how addresses are used.
 
 
 ### Candidate data
 
 The candidate data appearing on Voter’s Edge California can come from three sources.
 
-**1. The election authority:** Source of the initial data, such as the candidate’s name, party, and what office they are running for. In some cases the applicable election authority may also be the source of an official ballot designation, a candidate statement, or contact information.
+**1. The election authority:** Source of the initial data, such as the candidate’s name, party, and what office they are running for. In some cases the applicable election authority may also be the source of an official [ballot designation](http://www.sos.ca.gov/administration/regulations/current-regulations/elections/ballot-designations/), a [candidate statement](http://www.sos.ca.gov/elections/candidate-statements/), or contact information.
 
 
 **2. Directly from the candidates:** Candidates are invited to participate by submitting important data about their candidacies directly to Voter’s Edge California. In order to submit content, candidates must agree to the following terms:
