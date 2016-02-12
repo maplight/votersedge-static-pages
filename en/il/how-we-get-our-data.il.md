@@ -14,12 +14,11 @@ Polling locations are sourced directly from the applicable election authorities 
  
 ## The address search
  
-* Voter’s Edge Illinois uses data provided from state, county, and local election authorities, information from the census database of the U.S. Census Bureau, and the [Google Civic Information API](https://developers.google.com/civic-information/?hl=en) to return ballot data for a specific address.
+* Voter’s Edge XXXXX uses data provided by state and local election authorities and the [Google Civic Information API]([Google Civic Information API](https://developers.google.com/civic-information/?hl=en)) to return ballot data for a specific address.
  
-* In some situations we will return more contests than will be on your actual ballot. This can happen when there is insufficient data available to correctly connect an office to its specific district. When this happens, we will connect the office to a larger district -- typically a city or a county -- and return the contests for that office for all addresses in that larger district. This means that some of the contests returned might not be on your actual ballot. Contests that may not be on your ballot will be indicated. You can contact your local election authority to confirm if a
-contest will actually be on your ballot.
+* In some situations we will return more contests than will be on your actual ballot. This can happen when there is insufficient data available to correctly connect an office to its specific district. When this happens, we will connect the office to a larger district -- typically a city or a county -- and return the contests for that office for all addresses in that larger district. This means that some of the contests returned might not be on your actual ballot. Contests that may not be on your ballot will be indicated. You can contact your local election authority to confirm if a contest will actually be on your ballot.
  
-* It is possible to search using only a zip code, however this will not produce the most specific results possible. When only a zip code is used, Voter’s Edge Illinois will return all contests that are occurring within that zip code, which typically results in more contests being returned than are on your actual ballot. Enter a full address for the most specific results possible.
+* It is possible to search using only a zip code, however this will not produce the most specific results possible. When only a zip code is used, Voter’s Edge Illinois may be unable to accurately return all contests, which means there could be contests on your actual ballot that will not be returned. Enter a full address for the most specific results possible. 
  
 Please see our [Privacy Policy](www.votersedge.org/il/page/privacy-policy) for more information on how addresses are used.
  
@@ -56,6 +55,8 @@ Voter’s Edge Illinois provides voters with a variety of valuable information o
 * **Extended biography:** A brief, narrative overview of the candidate’s past. _-Sourced only from participating candidates._
  
 * **Political philosophy:** A short essay describing the candidate’s political philosophy. _-Sourced only from participating candidates._
+
+* **Judicial Ratings:** A list of ratings from various bar associations and other lawyers’ groups. Ratings on Voter’s Edge Illinois are collected from the [Illinois State Bar Association](http://www.isba.org/) and the [Alliance of Bar Associations for Judicial Screenings](http://www.voteforjudges.org/), both of which provide the public with information to aid Illinois voters in making informed decisions when electing and retaining judges. _-Sourced exclusively from research by Voter’s Edge._
  
 * **Position papers:** A maximum of three essays that describe the candidate’s position on specific issues. _-Sourced only from participating candidates._
  
