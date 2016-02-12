@@ -2,9 +2,6 @@
 title: Privacy Policy
 published: true
 ---
-
-
-
 ## Voter's Edge Privacy Policy
 
 Effective Date: February 10, 2016
