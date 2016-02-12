@@ -62,8 +62,6 @@ Voter’s Edge Illinois provides voters with a variety of valuable information o
  
 * **Endorsements:** A list of individuals and organizations that have publicly endorsed the candidate. _-Sourced only from participating candidates._
  
-* **Answers to Questions:** The candidate’s responses to questions asked by local Leagues of Women Voters. _-Sourced only from participating candidates._
- 
 * **Photo:** A headshot of the candidate. _-Sourced from participating candidates or researched by Voter’s Edge Illinois._
  
 * **Videos:** Videos of the candidate speaking about policy issues and/or their relevant experience. These can be source from participating candidates or researched by the Voter’s Edge Illinois Team. When sourced from participating candidates, the candidate agrees to the following terms when submitting each video:
@@ -124,4 +122,3 @@ Voter’s Edge Illinois is committed to providing quality voter information to a
 Voter’s Edge Illinois contains links to, and embeds content from, various third-party websites that contain additional information related to elections and the political process. Voter’s Edge Illinois does not endorse, approve, certify, or control these external websites. We do not exercise editorial control or oversight over the content featured by these third-party sites and make no representation as to their accuracy, objectivity, fairness, completeness, efficacy, timeliness, or correct sequencing of information. Reference therein to any specific commercial product, process, or service by trade name, trademark, service mark, manufacturer, or otherwise does not constitute or imply endorsement, recommendation or favoring by Voter’s Edge Illinois. We are not responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any material available on or through such websites.
  
 For more information please check Voter’s Edge Illinois [Terms of Use](www.votersedge.org/il/page/terms-of-use).
- 
