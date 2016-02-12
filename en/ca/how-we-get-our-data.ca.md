@@ -56,7 +56,7 @@ Voter’s Edge California provides voters with a variety of valuable information
 
 * **Extended biography:** A brief, narrative overview of the candidate’s past. _-Sourced only from participating candidates._
 
-* **Political philosophy:** A short essay describing the candidate’s political philosophy. _-Sourced only from participating candidates.
+* **Political philosophy:** A short essay describing the candidate’s political philosophy. _-Sourced only from participating candidates._
 
 * **Position papers:** A maximum of three essays that describe the candidate’s position on specific issues. _-Sourced only from participating candidates._
 
@@ -97,13 +97,14 @@ The Voter’s Edge California team also collects a variety of other data to help
 The Voter’s Edge California team also collects videos, news articles, links to additional resources, and event information about candidate contests and all measures in the same district. For candidate contests, this content is all neutral, non-partisan, and focused on the race itself or multiple candidates.
 
 ### Analysis of campaign finance data from MapLight
-MapLight obtains its campaign finance data from the bulk files provided by the Federal Election Commission (FEC) for federal candidates and the California Secretary of State for state-level candidates. The data is processed, cleaned, and updated daily to include both new filings and amendments to previous filings.
+MapLight obtains its campaign finance data from the bulk files provided by the [Federal Election Commission (FEC)](http://www.fec.gov/) for federal candidates and the [California Secretary of State](http://www.sos.ca.gov/) for state-level candidates. The data is processed, cleaned, and updated daily to include both new filings and amendments to previous filings.
 
 ### * Candidate data
 
 The candidate campaign finance data visible on Voter's Edge consists of contributions to the principal, authorized campaign committees of candidates running for a given office. At the federal level, this does not include contributions to Super PACs, Leadership PACs, or Joint Fundraising Committees. In California, this similarly does not include contributions to independent expenditure committees, candidate officeholder committees, and candidate legal defense committees.
+
 ### * Measure data
-California ballot measure campaign finance data consists of contributions made to the committees primarily formed to support or oppose measures qualified for the state ballot, according to information published by the California Secretary of State. For the regulations governing ballot measure committees, see the California Fair Political Practices Commission (FPPC) guidelines here.
+California ballot measure campaign finance data consists of contributions made to the committees primarily formed to support or oppose measures qualified for the state ballot, according to information published by the California Secretary of State. For the regulations governing ballot measure committees, see the [California Fair Political Practices Commission (FPPC)](http://www.fppc.ca.gov/) for the latest guidelines.
 
 ### * Top contributor lists
 MapLight generates top-contributor lists by standardizing and then aggregating several types of information. Contributor names are standardized by a combination of automated processes and extensive manual review by MapLight researchers. We correct misspellings, connect PACs to their relevant organizations, and combine similar name variants together in order to better aggregate contributor information.
@@ -124,4 +125,4 @@ Voter’s Edge California is committed to providing quality voter information to
 ### Third Party Content
 Voter’s Edge California contains links to, and embeds content from, various third-party websites that contain additional information related to elections and the political process. Voter’s Edge California does not endorse, approve, certify, or control these external websites. We do not exercise editorial control or oversight over the content featured by these third-party sites and make no representation as to their accuracy, objectivity, fairness, completeness, efficacy, timeliness, or correct sequencing of information. Reference therein to any specific commercial product, process, or service by trade name, trademark, service mark, manufacturer, or otherwise does not constitute or imply endorsement, recommendation or favoring by Voter’s Edge California. We are not responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any material available on or through such websites.
 
-For more information please check Voter’s Edge California Terms of Use. 
+For more information please check Voter’s Edge California [Terms of Use](www.votersedge.org/ca/page/terms-of-use). 
