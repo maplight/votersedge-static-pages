@@ -12,8 +12,9 @@ The specific types of data, sources, and methodologies used create Voter’s Edg
 
 [Illinois](www.votersedge.org/ca/page/how-we-get-our-data)
 
-**New York** – Coming Soon!
+New York – Coming Soon!
 
 Thank you,
-The Voter’s Edge Team
+
+**The Voter’s Edge Team**
 
