@@ -30,45 +30,54 @@ Please see our Privacy Policy for more information on how addresses are used.
 
 The candidate data appearing on Voter’s Edge California can come from three sources.
 
-1. The election authority: Source of the initial data, such as the candidate’s name, party, and what office they are running for. In some cases the applicable election authority may also be the source of an official ballot designation, a candidate statement, or contact information.
+**1. The election authority:** Source of the initial data, such as the candidate’s name, party, and what office they are running for. In some cases the applicable election authority may also be the source of an official ballot designation, a candidate statement, or contact information.
 
 
+**2. Directly from the candidates:** Candidates are invited to participate by submitting important data about their candidacies directly to Voter’s Edge California. In order to submit content, candidates must agree to the following terms:
 
-2. Directly from the candidates: Candidates are invited to participate by submitting important data about their candidacies directly to Voter’s Edge California. In order to submit content, candidates must agree to the following terms:
+**_The content shall not, in any way, make reference to other candidates for this office or to another candidate's qualifications, character, or activities. Moreover, the content shall not contain any demonstrably false, slanderous, or libelous statements or any obscene or profane language, statements or insinuations. _**
 
+**_I accept responsibility for the truth and accuracy of the content submitted to VEC by myself, the candidate, or by my designated preparer. _**
 
-
-The content shall not, in any way, make reference to other candidates for this office or to another candidate's qualifications, character, or activities. Moreover, the content shall not contain any demonstrably false, slanderous, or libelous statements or any obscene or profane language, statements or insinuations.
-    
-    I accept responsibility for the truth and accuracy of the content submitted to VEC by myself, the candidate, or by my designated preparer.
-    
-    I agree that the content submitted to VEC may be published for this election and retained in a permanent public archive.
+**_I agree that the content submitted to VEC may be published for this election and retained in a permanent public archive._**
 
 Content submitted by candidates is not checked for accuracy and spelling and grammatical errors are not corrected by Voter’s Edge California. Content is reviewed to ensure that it does not refer to opponents. Voter’s Edge California does not take any responsibility for the style, content, accuracy or truthfulness of the information provided by candidates.  As common carriers with respect to this data, we do not edit spelling, grammar, or in any way alter the language provided by participating candidates (other than in the context of Spanish language translation). 
 
 Content linked to by candidates, such as their campaign websites, social media, or videos are not reviewed. If you should observe content on Voter’s Edge California that you believe violates our terms of participation, please let us know.
 
-Researched by the Voter’s Edge California team: Our preference is to always have candidates participate and submit their data directly to Voter’s Edge California, however if a candidate has not chosen to participate, our researchers may provide additional data. In these situations, the research would be done for all non-participating candidates running for the same office, so as not to advantage one candidate over another. All candidates within a contest are researched using the same standards, with comparable time and energy put into each, and no preference given to party or ideology. When candidates are researched by Voter’s Edge California, this will be indicated on their profiles. A candidate being researched is still encouraged to start participating in Voter’s Edge California, at which time they would take responsibility for entering and maintaining their own data.
-Overview of main candidate types
+**3. Researched by the Voter’s Edge California team:** Our preference is to always have candidates participate and submit their data directly to Voter’s Edge California, however if a candidate has not chosen to participate, our researchers may provide additional data. In these situations, the research would be done for all non-participating candidates running for the same office, so as not to advantage one candidate over another. All candidates within a contest are researched using the same standards, with comparable time and energy put into each, and no preference given to party or ideology. When candidates are researched by Voter’s Edge California, this will be indicated on their profiles. A candidate being researched is still encouraged to start participating in Voter’s Edge California, at which time they would take responsibility for entering and maintaining their own data.
+
+
 Voter’s Edge California provides voters with a variety of valuable information on candidates, including the following.
-Profession: A description of the candidate’s professional identity.                           Sourced from participating candidates or researched by Voter’s Edge California.
-Top three priorities: A list of the candidate’s top three priorities if elected. Sourced only from participating candidates.
-Records related to their employment history, public service experience, educational background, and activities: Individual records detailing the candidate’s experiences in various areas, limited to five records of each type. Sourced from participating candidates or researched by Voter’s Edge California.
-Extended biography: A brief, narrative overview of the candidate’s past. Sourced only from participating candidates.
-Political philosophy: A short essay describing the candidate’s political philosophy.                                                                                                    Sourced only from participating candidates.
-Position papers: A maximum of three essays that describe the candidate’s position on specific issues.                                                                           Sourced only from participating candidates.
-Endorsements: A list of individuals and organizations that have publicly endorsed the candidate.                                                                                Sourced only from participating candidates.
-Answers to Questions: The candidate’s responses to questions asked by local Leagues of Women Voters.                                                                          Sourced only from participating candidates.
-Photo: A headshot of the candidate.                                                            Sourced from participating candidates or researched by Voter’s Edge California.
-Videos: Videos of the candidate speaking about policy issues and/or their relevant experience. These can be source from participating candidates or researched by the Voter’s Edge California Team. When sourced from participating candidates, the candidate agrees to the following terms when submitting each video:
-This video is focused on my policy positions and/or my experience, not my opponent(s). Moreover, the video shall not contain any demonstrably false, slanderous, or libelous statements or any obscene or profane language, statements or insinuations. 
-I accept responsibility for the truth and accuracy of the content of this video. I agree that the video may be published for this election and retained in a permanent public archive.
+
+* **Profession:** A description of the candidate’s professional identity. _-Sourced from participating candidates or researched by Voter’s Edge California._
+
+* **Top three priorities:** A list of the candidate’s top three priorities if elected. _-Sourced only from participating candidates._
+
+* **Records related to their employment history, public service experience, educational background, and activities:** Individual records detailing the candidate’s experiences in various areas, limited to five records of each type. _-Sourced from participating candidates or researched by Voter’s Edge California._
+
+* **Extended biography:** A brief, narrative overview of the candidate’s past. _-Sourced only from participating candidates._
+
+* **Political philosophy:** A short essay describing the candidate’s political philosophy. _-Sourced only from participating candidates.
+
+* **Position papers:** A maximum of three essays that describe the candidate’s position on specific issues. _-Sourced only from participating candidates._
+
+* **Endorsements:** A list of individuals and organizations that have publicly endorsed the candidate. _-Sourced only from participating candidates._
+
+* **Answers to Questions:** The candidate’s responses to questions asked by local Leagues of Women Voters. _-Sourced only from participating candidates._
+
+* **Photo:** A headshot of the candidate. _-Sourced from participating candidates or researched by Voter’s Edge California._
+
+* **Videos:** Videos of the candidate speaking about policy issues and/or their relevant experience. These can be source from participating candidates or researched by the Voter’s Edge California Team. When sourced from participating candidates, the candidate agrees to the following terms when submitting each video:
+
+_**This video is focused on my policy positions and/or my experience, not my opponent(s). Moreover, the video shall not contain any demonstrably false, slanderous, or libelous statements or any obscene or profane language, statements or insinuations.**_
+
+_**I accept responsibility for the truth and accuracy of the content of this video. I agree that the video may be published for this election and retained in a permanent public archive.**_
 
 Videos submitted by candidates are not hosted on Voter’s Edge California and are not reviewed prior to publishing. If you observe a video on Voter’s Edge California that you believe violates the terms outlined above, please let us know.
-Candidate video agreement
 
-Measures Data
-Measure Data
+### Measure data
+
 Voter’s Edge California provides voters with a variety of valuable information on ballot measures in California. Much of the information comes from official government sources --- either the election authority, city auditor, budget office, legislative analyst's offices, or similar entities. Additional information comes from either the League of Women Voters of California Education Fund or local League of Women Voters’ Pros & Cons documents and Easy Voter Guides.
 The Voter’s Edge California team also collects a variety of other data to help voters make an informed decision at the polls. When this content is researched and collected, comparable resources are spent on both the supporting and opposing sides of the measure. The data collected related to ballot measures, include:
 Endorsements: A list organizations and elected or appointed public officials that are publicly supporting or opposing the measure.
