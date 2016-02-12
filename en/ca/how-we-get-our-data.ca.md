@@ -12,8 +12,6 @@ Voter’s Edge California is not responsible for the accuracy of the sample ball
 
 Polling locations are sourced directly from the applicable election authorities or supplied by the Google Civic Information API. 
 
-Address Search Data / Link to Privacy Policy
-
 ### The address search
 
 * Voter’s Edge California uses data provided from state, county, and local election authorities, information from the census database of the U.S. Census Bureau, and the Google Civic Information API to return ballot data for a specific address.
@@ -79,41 +77,51 @@ Videos submitted by candidates are not hosted on Voter’s Edge California and a
 ### Measure data
 
 Voter’s Edge California provides voters with a variety of valuable information on ballot measures in California. Much of the information comes from official government sources --- either the election authority, city auditor, budget office, legislative analyst's offices, or similar entities. Additional information comes from either the League of Women Voters of California Education Fund or local League of Women Voters’ Pros & Cons documents and Easy Voter Guides.
+
 The Voter’s Edge California team also collects a variety of other data to help voters make an informed decision at the polls. When this content is researched and collected, comparable resources are spent on both the supporting and opposing sides of the measure. The data collected related to ballot measures, include:
-Endorsements: A list organizations and elected or appointed public officials that are publicly supporting or opposing the measure.
-News: Links to news articles related to the measure.
-Events: Information about upcoming and past events that offer neutral information or analysis regarding the measure.
-Opinions: Links to opinion pieces, published from various outlets. Editorials, op-eds, and letters to the editor may be included.
-Links: A collection of useful links to other sites that can provide additional information about the measure.
-Videos: Videos that are informative, neutral, and provide additional information to voters.
-Contest Data
-Additional Resources
+
+**Endorsements:** A list organizations and elected or appointed public officials that are publicly supporting or opposing the measure.
+
+**News:** Links to news articles related to the measure.
+
+**Events:** Information about upcoming and past events that offer neutral information or analysis regarding the measure.
+
+**Opinions:** Links to opinion pieces, published from various outlets. Editorials, op-eds, and letters to the editor may be included.
+
+**Links:** A collection of useful links to other sites that can provide additional information about the measure.
+
+**Videos:** Videos that are informative, neutral, and provide additional information to voters.
+
+
+### Additional resources
 The Voter’s Edge California team also collects videos, news articles, links to additional resources, and event information about candidate contests and all measures in the same district. For candidate contests, this content is all neutral, non-partisan, and focused on the race itself or multiple candidates.
-Campaign Finance Data
-Analysis of campaign finance data from MapLight
+
+### Analysis of campaign finance data from MapLight
 MapLight obtains its campaign finance data from the bulk files provided by the Federal Election Commission (FEC) for federal candidates and the California Secretary of State for state-level candidates. The data is processed, cleaned, and updated daily to include both new filings and amendments to previous filings.
-Candidate data
+
+### * Candidate data
+
 The candidate campaign finance data visible on Voter's Edge consists of contributions to the principal, authorized campaign committees of candidates running for a given office. At the federal level, this does not include contributions to Super PACs, Leadership PACs, or Joint Fundraising Committees. In California, this similarly does not include contributions to independent expenditure committees, candidate officeholder committees, and candidate legal defense committees.
-Measure data
+### * Measure data
 California ballot measure campaign finance data consists of contributions made to the committees primarily formed to support or oppose measures qualified for the state ballot, according to information published by the California Secretary of State. For the regulations governing ballot measure committees, see the California Fair Political Practices Commission (FPPC) guidelines here.
 
-Top contributor lists
+### * Top contributor lists
 MapLight generates top-contributor lists by standardizing and then aggregating several types of information. Contributor names are standardized by a combination of automated processes and extensive manual review by MapLight researchers. We correct misspellings, connect PACs to their relevant organizations, and combine similar name variants together in order to better aggregate contributor information.
 Contribution amounts from an organization to a candidate combine the sum of its employees' contributions and those made directly from its treasury (permissible in California) or from its PAC. This is standard practice in campaign finance, where candidate committee contribution limits typically mean that single organizations or their PACs contribute the maximum (or "max out") very quickly. To the extent that employee contributions may reflect the interests of the employer, their contributions are aggregated with the employer. One significant exception to this practice pertains to contributions without limits, either from candidates who contribute to their own campaigns or large donors to ballot measure committees. In both cases, contributions are not subject to limits, and contributor information is not aggregated at the level of the employer organization. In the event that a top-ranked contributor (by employer) is a category such as "self-employed" or "retired", we exclude it from the list.
 
-Contributions by state
+### * Contributions by state
 An analysis of all itemized contributions broken down by the state the contributor supplied.
 
-Contributions by size
+### * Contributions by size
 An analysis breaking contributions into the categories of ‘small’ and ‘large’ based on whether the recipient committee itemized the contributions. Federally, campaign committees are not required to itemize contributions under $200 (for state-level campaign committees in California, the threshold is $100). Unitemized contributions are considered ‘small’ and itemized contributions are considered ‘large’ for this analysis.
 
-Contributions by type
+### * Contributions by type
 An analysis breaking contributions into the categories of ‘organization’ and ‘individual.’ This analysis identifies the contributions coming from organizations (either directly or via political action committees) or by individuals.
-Bulk Download Info
-Spanish Language Content
+
+### Spanish Language Content
 Voter’s Edge California is committed to providing quality voter information to as many people as possible, which is why we are excited to offer a professionally translated version of the site in 2016. We work with our Spanish Language Advisory Board  and our translators to ensure the highest quality translation possible.
 
-Third Party Content
+### Third Party Content
 Voter’s Edge California contains links to, and embeds content from, various third-party websites that contain additional information related to elections and the political process. Voter’s Edge California does not endorse, approve, certify, or control these external websites. We do not exercise editorial control or oversight over the content featured by these third-party sites and make no representation as to their accuracy, objectivity, fairness, completeness, efficacy, timeliness, or correct sequencing of information. Reference therein to any specific commercial product, process, or service by trade name, trademark, service mark, manufacturer, or otherwise does not constitute or imply endorsement, recommendation or favoring by Voter’s Edge California. We are not responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any material available on or through such websites.
 
 For more information please check Voter’s Edge California Terms of Use. 
