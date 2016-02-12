@@ -3,6 +3,7 @@ title: Terms of Use
 published: true
 ---
 
+
 ## TERMS OF USE
 
 **Welcome to Voter’s Edge.** These Terms of Use are a binding agreement between you and Voter’s Edge (“VE” - a project of MapLight, and in California a joint project of MapLight and the League of Women Voters California Education Fund for Voter’s Edge California) regarding the use of the website Votersedge.org and associated services (the “Site”). Please read these Terms of Use before using or submitting content in any form or medium on the Site.
