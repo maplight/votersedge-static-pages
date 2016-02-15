@@ -7,6 +7,7 @@ published: true
 
 
 
+
 ## Welcome to Voter's Edge Illinois
 
 Voter’s Edge Illinois is a comprehensive, nonpartisan online guide to federal, state, and local elections in the state of Illinois. Voter's Edge Illinois is a project of MapLight.
@@ -53,6 +54,7 @@ Members of the Voter’s Edge Spanish Language advisory board advise MapLight on
 * Melissa Breach, Executive Director, [League of Women Voters of California Education Fund](https://cavotes.org/)
 * Mony Flores-Bauer, Consultant, [Progressive Consultants Network](http://www.pcneb.org/floresbauer.html)
 * Lisa Garcia Bedolla, Chancellor's Professor, Education and Political Science, U.C. Berkeley
+* German Macias, California Program Coordinator, [NALEO Education Fund](http://www.naleo.org/)
 * Gino Squadrito, Art Director, [LaserCom](http://www.lasercomdesign.com/)
 
 ---
