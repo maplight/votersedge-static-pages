@@ -3,6 +3,7 @@ title: "About Voter's Edge California"
 published: true
 ---
 
+
 ## Welcome to Voter's Edge California
 
 Voter’s Edge California (VEC) is a joint project of MapLight and the League of Women Voters of California Education Fund (LWVCEF). Voter's Edge California is a comprehensive, nonpartisan online guide to elections covering federal, state, and local races in the state of California.
@@ -129,8 +130,9 @@ Senior Programmer: _Carl Hage_ | Program Associates: _Elliot Day & Isaac Agree_
 Data Coordinator: _Greg Fowler_ | Researcher: _Joanna Nix_
 Northern CA Liaison: _Bonnie Hamlin_ | Program Assistant: _Chelsea Miller_
 Southern CA Liaison: _Brianna Conser_ | Software Engineer: _Shane Dosch_
-LWVCEF President: _Helen Hutchison_ | MapLight President & Co-Founder: _Daniel Newman_
-LWVCEF Executive Director: _Melissa Breach_ | _[Learn more](http://maplight.org/content/staff) about the Voter’s Edge team and the rest of the MapLight crew!_
+Board Liaison: _Kathy Armstrong_ | MapLight President & Co-Founder: _Daniel Newman_
+LWVCEF President: _Helen Hutchison_ | _[Learn more](http://maplight.org/content/staff) about the Voter’s Edge team and the rest of the MapLight crew!_
+LWVCEF Executive Director: _Melissa Breach_ |             
 
 **County Coordinators:** County Coordinators and other volunteers are vital to the success of Voter’s Edge California. These volunteers work tirelessly to ensure Voter’s Edge California offers an abundance of accurate, high-quality information to voters.
 
