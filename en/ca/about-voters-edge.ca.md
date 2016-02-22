@@ -4,6 +4,7 @@ published: true
 ---
 
 
+
 ## Welcome to Voter's Edge California
 
 Voter’s Edge California (VEC) is a joint project of MapLight and the League of Women Voters of California Education Fund (LWVCEF). Voter's Edge California is a comprehensive, nonpartisan online guide to elections covering federal, state, and local races in the state of California.
@@ -75,6 +76,7 @@ Members of the Voter’s Edge Spanish Language advisory board advise MapLight on
 * Mony Flores-Bauer, Consultant, [Progressive Consultants Network](http://www.pcneb.org/floresbauer.html)
 * Lisa Garcia Bedolla, Chancellor's Professor, Education and Political Science, U.C. Berkeley
 * German Macias, California Program Coordinator, [NALEO Education Fund](http://www.naleo.org/)
+* Astrid Garcia Ochoa, Deputy Director, [Future of California Elections](http://futureofcaelections.org/)
 * Gino Squadrito, Art Director, [LaserCom](http://www.lasercomdesign.com/)
 
 ---
