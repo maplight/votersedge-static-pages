@@ -1,5 +1,7 @@
-## How we get our data
-
+---
+title: "How we get our data"
+published: true
+---
 The data that appears on Voter’s Edge California comes from a variety of sources, with priority placed on collecting data that is nonpartisan, transparent, and accurate. Voter’s Edge California is a joint project of the League of Women Voters of California Education Fund and MapLight. Voter’s Edge California does not take any position on or express any preference about the issues or candidates displayed on this site and neither supports nor opposes candidates or political parties.
 
 ## What’s on the ballot

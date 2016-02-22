@@ -1,3 +1,7 @@
+---
+title: "FAQ"
+published: true
+---
 ## Frequently Asked Questions
 
 ### 1. I am a candidate. How can I access my profile to provide information to Voter’s Edge California?
