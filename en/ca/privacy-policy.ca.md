@@ -1,9 +1,9 @@
 ---
-title: "Voter's Edge Privacy Policy"
+title: "Voter‘s Edge Privacy Policy"
 published: true
---- 
+---
 Effective Date: February 10, 2016
-________________________________________
+<hr />
 **Welcome to Voter’s Edge.**
  
 We take your privacy seriously. We are a non-profit project and will never sell your information to third parties. We are committed to protecting your privacy in accordance with all applicable laws and regulations. 
