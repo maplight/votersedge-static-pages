@@ -1,7 +1,8 @@
 ---
-title: "How we get our data"
+title: How we get our data
 published: true
 ---
+
 The data that appears on Voter’s Edge California comes from a variety of sources, with priority placed on collecting data that is nonpartisan, transparent, and accurate. Voter’s Edge California is a joint project of the League of Women Voters of California Education Fund and MapLight. Voter’s Edge California does not take any position on or express any preference about the issues or candidates displayed on this site and neither supports nor opposes candidates or political parties.
 
 ### What’s on the ballot
@@ -105,6 +106,8 @@ MapLight obtains its campaign finance data from the bulk files provided by the [
 
 The candidate campaign finance data visible on Voter's Edge consists of contributions to the principal, authorized campaign committees of candidates running for a given office. At the federal level, this does not include contributions to Super PACs, Leadership PACs, or Joint Fundraising Committees. In California, this similarly does not include contributions to independent expenditure committees, candidate officeholder committees, and candidate legal defense committees.
 
+**Note:** Regarding federal campaign finance data, there can be a lag between when the FEC publishes a recent filing's summary numbers and when the individual contributions are released in their bulk data. As a result, the totals in the bottom three sections ("Who gave contributions?", "Who gave the most money?", "Top contributions by state") may not add up to the totals above ("Contributions to candidate", "How big are the contributions?").
+
 #### Measure data
 California ballot measure campaign finance data consists of contributions made to the committees primarily formed to support or oppose measures qualified for the state ballot, according to information published by the California Secretary of State. For the regulations governing ballot measure committees, see the [California Fair Political Practices Commission (FPPC)](http://www.fppc.ca.gov/) for the latest guidelines.
 
@@ -127,4 +130,4 @@ Voter’s Edge California is committed to providing quality voter information to
 ### Third Party Content
 Voter’s Edge California contains links to, and embeds content from, various third-party websites that contain additional information related to elections and the political process. Voter’s Edge California does not endorse, approve, certify, or control these external websites. We do not exercise editorial control or oversight over the content featured by these third-party sites and make no representation as to their accuracy, objectivity, fairness, completeness, efficacy, timeliness, or correct sequencing of information. Reference therein to any specific commercial product, process, or service by trade name, trademark, service mark, manufacturer, or otherwise does not constitute or imply endorsement, recommendation or favoring by Voter’s Edge California. We are not responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any material available on or through such websites.
 
-For more information please check Voter’s Edge California [Terms of Use](www.votersedge.org/ca/page/terms-of-use). 
+For more information please check Voter’s Edge California [Terms of Use](www.votersedge.org/ca/page/terms-of-use).
