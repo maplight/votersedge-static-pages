@@ -100,7 +100,7 @@ MapLight obtains its campaign finance data on federal candidates from the bulk f
  
 ### Candidate data
  
-The candidate campaign finance data visible on Voter's Edge Illinois consists of contributions to the principal, authorized campaign committees of candidates running for a given office. This does not include contributions to super PACs, leadership PACs, or joint fundraising committees.
+The candidate campaign finance data visible on Voter’s Edge Illinois consists of contributions to the principal, authorized campaign committees of candidates running for a given office. This does not include contributions to super PACs, leadership PACs, or joint fundraising committees.
 
 **Note:** Regarding federal campaign finance data, there can be a lag between when the FEC publishes a recent filing's summary numbers and when the individual contributions are released in their bulk data. As a result, the totals in the bottom three sections ("Who gave contributions?", "Who gave the most money?", "Top contributions by state") may not add up to the totals above ("Contributions to candidate", "How big are the contributions?").
   

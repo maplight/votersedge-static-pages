@@ -58,7 +58,7 @@ Voter’s Edge California never supports or opposes candidates or political part
 ### 6. What do you do with my address and zip code? 
 
 
-Voter's Edge California does not use street addresses for any purposes other than retrieving election information and making improvements to the website. Voter’s Edge California will not sell the address or disclose it in any analysis or report.
+Voter’s Edge California does not use street addresses for any purposes other than retrieving election information and making improvements to the website. Voter’s Edge California will not sell the address or disclose it in any analysis or report.
 
 
 Voter’s Edge California uses your street address and zip code in order to find your ballot and polling location. 

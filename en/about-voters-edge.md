@@ -1,8 +1,8 @@
 ---
-title: "About Voter's Edge"
+title: "About Voter’s Edge"
 published: true
 ---
-## Welcome to Voter's Edge
+## Welcome to Voter’s Edge
 
 Voter’s Edge is a comprehensive, nonpartisan online guide to federal, state, and local elections in California, Illinois, and New York. 
 
@@ -31,7 +31,7 @@ We provide journalists and citizens with transparency tools that connect data on
 
 ## Advisory Boards
 
-Voter’s Edge has an advisory board for each state it covers, as well as a Spanish language advisory board. Voter's Edge advisory board members are dedicated leaders who share a commitment to civic engagement, nonpartisan voter information, and good government. They represent a variety of political affiliations and hold expertise in different areas, but all are invested in addressing the challenges faced by voters in their state. At the national level, Voter's Edge is guided by input from MapLight’s [board](http://maplight.org/board) and [advisory board](http://maplight.org/advisory_board).
+Voter’s Edge has an advisory board for each state it covers, as well as a Spanish language advisory board. Voter’s Edge advisory board members are dedicated leaders who share a commitment to civic engagement, nonpartisan voter information, and good government. They represent a variety of political affiliations and hold expertise in different areas, but all are invested in addressing the challenges faced by voters in their state. At the national level, Voter’s Edge is guided by input from MapLight’s [board](http://maplight.org/board) and [advisory board](http://maplight.org/advisory_board).
 
 ### Spanish Language Advisory Board
 Members of the Voter’s Edge Spanish Language advisory board advise MapLight on various aspects of translating and presenting Voter’s Edge in Spanish, as well as distribution strategies to Spanish-language users. Members include:
@@ -83,11 +83,11 @@ We are deeply grateful to the following foundations and individuals whose contri
 - Orlin and Onnolee Trapp (Voter’s Edge California)
 - Kathleen Weisenberg (Voter’s Edge California)
 
-[Join these and other donors by supporting Voter's Edge today!](https://donatenow.networkforgood.org/votersedge)
+[Join these and other donors by supporting Voter’s Edge today!](https://donatenow.networkforgood.org/votersedge)
 
 ---
 
-## Meet the Voter's Edge Team
+## Meet the Voter’s Edge Team
 
 The Voter’s Edge project utilizes the passion and talents of the entire MapLight team in various capacities. At the center of this organization-wide effort, the Voter’s Edge team works to provide this tool to voters - let’s meet the team!
 

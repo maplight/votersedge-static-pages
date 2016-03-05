@@ -104,7 +104,7 @@ MapLight obtains its campaign finance data from the bulk files provided by the [
 
 #### Candidate data
 
-The candidate campaign finance data visible on Voter's Edge consists of contributions to the principal, authorized campaign committees of candidates running for a given office. At the federal level, this does not include contributions to Super PACs, Leadership PACs, or Joint Fundraising Committees. In California, this similarly does not include contributions to independent expenditure committees, candidate officeholder committees, and candidate legal defense committees.
+The candidate campaign finance data visible on Voter’s Edge consists of contributions to the principal, authorized campaign committees of candidates running for a given office. At the federal level, this does not include contributions to Super PACs, Leadership PACs, or Joint Fundraising Committees. In California, this similarly does not include contributions to independent expenditure committees, candidate officeholder committees, and candidate legal defense committees.
 
 **Note:** Regarding federal campaign finance data, there can be a lag between when the FEC publishes a recent filing's summary numbers and when the individual contributions are released in their bulk data. As a result, the totals in the bottom three sections ("Who gave contributions?", "Who gave the most money?", "Top contributions by state") may not add up to the totals above ("Contributions to candidate", "How big are the contributions?").
 

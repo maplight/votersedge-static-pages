@@ -1,5 +1,5 @@
 ---
-title: Icons used on Voter's Edge
+title: Icons used on Voter’s Edge
 published: true
 ---
 We use a variety of icons on the site, from <a href-"https://thenounproject.com">The Noun Project</a> and also from the <a href="http://futureofcaelections.org/">Future of California Elections</a> (FOCE) icon set. We are also using the <a href="https://fortawesome.github.io/Font-Awesome/">Font Awesome</a> icon collection.

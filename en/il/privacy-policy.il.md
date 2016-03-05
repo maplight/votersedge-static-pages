@@ -1,4 +1,4 @@
-## Voter's Edge Privacy Policy
+## Voter’s Edge Privacy Policy
  
 Effective Date: February 10, 2016
 ________________________________________

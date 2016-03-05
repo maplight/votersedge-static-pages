@@ -1,5 +1,5 @@
 ---
-title: "About Voter's Edge Illinois"
+title: "About Voter’s Edge Illinois"
 published: true
 ---
 
@@ -9,9 +9,9 @@ published: true
 
 
 
-## Welcome to Voter's Edge Illinois
+## Welcome to Voter’s Edge Illinois
 
-Voter’s Edge Illinois is a comprehensive, nonpartisan online guide to federal, state, and local elections in the state of Illinois. Voter's Edge Illinois is a project of MapLight.
+Voter’s Edge Illinois is a comprehensive, nonpartisan online guide to federal, state, and local elections in the state of Illinois. Voter’s Edge Illinois is a project of MapLight.
 
 #### With Voter’s Edge Illinois, voters can:
 
@@ -38,10 +38,10 @@ We provide journalists and citizens with transparency tools that connect data on
 
 ## Advisory Boards
  
-Voter’s Edge has an advisory board for each state it covers, as well as a Spanish language advisory board. Voter's Edge advisory board members are dedicated leaders who share a commitment to civic engagement, nonpartisan voter information, and good government. They represent a variety of political affiliations and hold expertise in different areas, but all are invested in addressing the challenges faced by voters in their state. At the national level, Voter's Edge is guided by input from MapLight’s [board](http://maplight.org/board) and [advisory board](http://maplight.org/advisory_board).
+Voter’s Edge has an advisory board for each state it covers, as well as a Spanish language advisory board. Voter’s Edge advisory board members are dedicated leaders who share a commitment to civic engagement, nonpartisan voter information, and good government. They represent a variety of political affiliations and hold expertise in different areas, but all are invested in addressing the challenges faced by voters in their state. At the national level, Voter’s Edge is guided by input from MapLight’s [board](http://maplight.org/board) and [advisory board](http://maplight.org/advisory_board).
 
-### Voter's Edge Illinois Advisory Board
-Members of the Voter’s Edge Illinois advisory board advise MapLight on various aspects of Voter's Edge Illinois, including editorial policy, potential partnerships, and effective distribution strategies. Members include:
+### Voter’s Edge Illinois Advisory Board
+Members of the Voter’s Edge Illinois advisory board advise MapLight on various aspects of Voter’s Edge Illinois, including editorial policy, potential partnerships, and effective distribution strategies. Members include:
 
 * Sarah Brune, Deputy Director, [Illinois Campaign for Political Reform](http://www.ilcampaign.org/)
 * Maryam Judar, Executive Director & Community Lawyer, [Citizen Advocacy Center](http://www.citizenadvocacycenter.org/)
@@ -76,11 +76,11 @@ We are deeply grateful to the following foundations and individuals whose contri
 - McCormick Foundation 
 - Craig Newmark Philanthropic Fund (national Voter’s Edge project)
 
-[Join these and other donors by supporting Voter's Edge Illinois today!](https://donatenow.networkforgood.org/votersedge)
+[Join these and other donors by supporting Voter’s Edge Illinois today!](https://donatenow.networkforgood.org/votersedge)
 
 ---
 
-## Meet the Voter's Edge Illinois Team
+## Meet the Voter’s Edge Illinois Team
  
 The Voter’s Edge Illinois project utilizes the passion and talents of the entire MapLight team in various capacities. At the center of this organization-wide effort, the Voter’s Edge team works to provide this tool to voters - let’s meet the team!
  

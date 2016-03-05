@@ -1,5 +1,5 @@
 ---
-title: "About Voter's Edge New York"
+title: "About Voter’s Edge New York"
 published: true
 ---
 
@@ -8,9 +8,9 @@ published: true
 
 
 
-## Welcome to Voter's Edge New York
+## Welcome to Voter’s Edge New York
 
-Voter’s Edge New York is a comprehensive, nonpartisan online guide to federal, state, and local elections in the state of New York. Voter's Edge New York is a project of MapLight.
+Voter’s Edge New York is a comprehensive, nonpartisan online guide to federal, state, and local elections in the state of New York. Voter’s Edge New York is a project of MapLight.
 
 #### With Voter’s Edge New York, voters can:
 
@@ -37,10 +37,10 @@ We provide journalists and citizens with transparency tools that connect data on
 
 ## Advisory Boards
  
-Voter’s Edge has an advisory board for each state it covers, as well as a Spanish language advisory board. Voter's Edge advisory board members are dedicated leaders who share a commitment to civic engagement, nonpartisan voter information, and good government. They represent a variety of political affiliations and hold expertise in different areas, but all are invested in addressing the challenges faced by voters in their state. At the national level, Voter's Edge is guided by input from MapLight’s [board](http://maplight.org/board) and [advisory board](http://maplight.org/advisory_board).
+Voter’s Edge has an advisory board for each state it covers, as well as a Spanish language advisory board. Voter’s Edge advisory board members are dedicated leaders who share a commitment to civic engagement, nonpartisan voter information, and good government. They represent a variety of political affiliations and hold expertise in different areas, but all are invested in addressing the challenges faced by voters in their state. At the national level, Voter’s Edge is guided by input from MapLight’s [board](http://maplight.org/board) and [advisory board](http://maplight.org/advisory_board).
 
-### Voter's Edge Illinois Advisory Board
-MapLight is still seeking members for its Voter’s Edge New York advisory board. Members will advise MapLight on various aspects of Voter's Edge, including editorial policy, potential partnerships, and effective distribution strategies.
+### Voter’s Edge Illinois Advisory Board
+MapLight is still seeking members for its Voter’s Edge New York advisory board. Members will advise MapLight on various aspects of Voter’s Edge, including editorial policy, potential partnerships, and effective distribution strategies.
 
 ### Spanish Language Advisory Board
 Members of the Voter’s Edge Spanish Language advisory board advise MapLight on various aspects of translating and presenting Voter’s Edge in Spanish, as well as distribution strategies to Spanish-language users. Members include:
@@ -67,11 +67,11 @@ We are deeply grateful to the following foundations and individuals whose contri
 - John S. and James L. Knight Foundation (national Voter’s Edge project)
 - Craig Newmark Philanthropic Fund (national Voter’s Edge project)
 
-[Join these and other donors by supporting Voter's Edge New York today!](https://donatenow.networkforgood.org/votersedge)
+[Join these and other donors by supporting Voter’s Edge New York today!](https://donatenow.networkforgood.org/votersedge)
 
 ---
 
-## Meet the Voter's Edge New York Team
+## Meet the Voter’s Edge New York Team
  
 The Voter’s Edge New York project utilizes the passion and talents of the entire MapLight team in various capacities. At the center of this organization-wide effort, the Voter’s Edge team works to provide this tool to voters - let’s meet the team!
  
