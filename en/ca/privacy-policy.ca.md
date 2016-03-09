@@ -1,5 +1,5 @@
 ---
-title: "Voter‘s Edge Privacy Policy"
+title: "Voter’s Edge Privacy Policy"
 published: true
 ---
 Effective Date: February 10, 2016

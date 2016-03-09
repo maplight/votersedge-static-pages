@@ -10,7 +10,7 @@ Use of the Site API and Site widgets by candidates and by groups engaging in ind
 
 Please review VE’s [Privacy Policy](www.votersedge.org/page/privacy-policy) in conjunction with these Terms of Use. If you do not agree to these Terms, please do not use the Site.
 
-### 1)	DESCRIPTION OF THE SITE.
+### 1)	DESCRIPTION OF THE SITE
 **General Description.** The Site is a project of MapLight, and in California, a joint project of MapLight and the League of Women Voters California Education Fund to provide voters objective, comprehensive non-partisan information on elections, politics, and government. The Site is provided free-of-charge to voters as a public service. From time to time, VE will partner with other organizations that will serve as the source of some or all of VE’s content. We call the services available on the Site, whether accessed directly, or through the Mobile Software or such third party applications, the “Service(s).”
 
 **Right to modify site.**  VE reserves the right to immediately change, suspend, remove or discontinue any part of the site or any content (whether submitted by VE or by a user) for any reason, without prior notice or liability.
@@ -18,7 +18,7 @@ Please review VE’s [Privacy Policy](www.votersedge.org/page/privacy-policy) in
 **Changes to these terms of use.** VE reserves the right to modify these Terms of Use at any time, and without prior notice, by posting amended terms to these policies. 
 Once you have submitted an email address to our site, you authorize VE to communicate with you via email. VE will place unsubscribe links in emails sent from the Site.  Please allow ten business days for unsubscribe requests to be processed through our list management systems.
 
-### 2)	USER CONDUCT.
+### 2)	USER CONDUCT
 
 **Conditions of use.** As a condition of use, you agree to all of the following:
 
@@ -38,7 +38,7 @@ Once you have submitted an email address to our site, you authorize VE to commun
 * You agree that you shall be solely responsible for your own content and the consequences of posting it.
 * VE reserves the right, in its sole and absolute discretion, to reject, refuse to post or remove any posting by you, or to restrict, suspend or terminate your access to all or any part of the Site at any time, for any or no reason, without prior notice or warning, and without liability.
 
-### 3)	SUSPENSION OR TERMINATION OF USE.
+### 3)	SUSPENSION OR TERMINATION OF USE
 
 **We may discontinue or suspend the site or terminate your access to it.** 
 We reserve the right at any time and from time to time to modify or discontinue, temporarily or permanently, our Site (or any part thereof) with or without prior notice.
@@ -68,7 +68,7 @@ a.	 **VE Content.** Except for third party content, the Service itself, all cont
 
 b.	 **VE’s license to you.** Subject to the terms and conditions of these Terms, we grant you a license to use the Service, including accessing and viewing VE Content, for your personal, noncommercial use. VE may terminate this license at any time for any reason or no reason. Except for the rights and licenses expressly granted, VE reserves all other rights and no other rights are granted by implication or otherwise.
 
-### 6)	COPYRIGHT POLICY.
+### 6)	COPYRIGHT POLICY
 
 VE respects the Intellectual Property Rights of others and expects its users to do the same. It is VE’s policy, in appropriate circumstances and at its discretion, to disable and/or terminate access of users who repeatedly infringe or are repeatedly charged with infringing the copyrights or other Intellectual Property Rights of others.
 
@@ -182,21 +182,21 @@ San Francisco, CA 94107
 
 Email: [gagnier@gamallp.com](mailto: gagnier@gamallp.com)
 
-### 8)	INDEMNIFICATION.
+### 8)	INDEMNIFICATION
 
 **You will be responsible for any harm we suffer as a result of your violation of these terms of use.** You agree to indemnify and hold harmless VE and its affiliates and employees from and against all losses, expenses, damages and costs, including reasonable attorneys’ fees, resulting from any violation by you of these Terms of Use. We reserve the right to take over the exclusive defense of any claim for which we are entitled to indemnification under this Section 8. In such event, you shall provide us with such cooperation as is reasonably requested by us.
 
-### 9)	DISCLAIMER OF WARRANTY.
+### 9)	DISCLAIMER OF WARRANTY
 
 **Your use of the site is subject to certain disclaimers.** OUR SITE IS AVAILABLE “AS IS.” WE DO NOT WARRANT THAT OUR SITE WILL BE UNINTERRUPTED OR ERROR-FREE. THERE MAY BE DELAYS, OMISSIONS, INTERRUPTIONS AND INACCURACIES IN THE NEWS, INFORMATION OR OTHER MATERIALS AVAILABLE THROUGH OUR SITE. WE DO NOT MAKE ANY WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, THOSE OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, WITH RESPECT TO OUR SITE OR ANY INFORMATION OR GOODS THAT ARE AVAILABLE OR ADVERTISED OR SOLD THROUGH OUR SITE. WE DO NOT MAKE ANY REPRESENTATIONS, NOR DO WE ENDORSE THE ACCURACY, COMPLETENESS, TIMELINESS OR RELIABILITY OF ANY ADVICE, OPINION, STATEMENT OR OTHER MATERIAL OR DATABASE DISPLAYED, UPLOADED OR DISTRIBUTED ON THIS SITE OR AVAILABLE THROUGH LINKS ON OUR SITE. WE RESERVE THE RIGHT TO CORRECT ANY ERRORS OR OMISSIONS ON OUR SITE. WE DO NOT GUARANTEE OR WARRANT THAT OUR SITE OR MATERIALS ARE FREE FROM ERRORS DEFECTS, OR FAILURES, INCLUDING WITHOUT LIMITATION VIRUSES, WORMS, “TROJAN HORSES” OR OTHER DESTRUCTIVE MATERIALS AND WE EXPRESSLY DISCLAIM ANY LIABILITY FOR DAMAGE CAUSED BY SUCH ISSUES. IF YOU RELY ON OUR SITE AND ANY MATERIALS AVAILABLE THROUGH OUR SITE, YOU DO SO SOLELY AT YOUR OWN RISK.
 
 OUR SITE MAY CONTAIN VARIOUS COMBINATIONS OF TEXT, IMAGES, AUDIOVISUAL PRODUCTIONS, OPINIONS, STATEMENTS, FACTS, ARTICLES, DATA OR OTHER INFORMATION CREATED BY US OR BY THIRD PARTIES. DUE TO THE NUMBER OF SOURCES FROM WHICH CONTENT ON OUR SITE IS OBTAINED, AND THE INHERENT HAZARDS OF ELECTRONIC DISTRIBUTION, THERE MAY BE DELAYS, OMISSIONS OR INACCURACIES IN SUCH CONTENT. ACCORDINGLY, SUCH CONTENT, INCLUDING DATA, IS FOR YOUR REFERENCE ONLY AND SHOULD NOT BE RELIED UPON BY YOU FOR ANY PURPOSE. IN ADDITION, WE STRONGLY URGE YOU TO BACK UP ALL OF THE PERSONAL CONTENT THAT YOU MAINTAIN ON THE SITE.
 
-### 10)	 DISCLAIMER OF CONSEQUENTIAL DAMAGES.
+### 10)	 DISCLAIMER OF CONSEQUENTIAL DAMAGES
 
 IN NO EVENT SHALL VE, ITS SUPPLIERS OR ANY THIRD PARTIES MENTIONED ON VE BE LIABLE FOR ANY DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, INCIDENTAL, CONSEQUENTIAL, PUNITIVE AND STATUTORY DAMAGES, LOST PROFITS OR DAMAGES RESULTING FROM LOST DATA OR BUSINESS INTERRUPTION) RESULTING FROM THE USE OR INABILITY TO USE VE AND VE CONTENT, WHETHER BASED ON WARRANTY, CONTRACT, TORT OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT VE IS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-### 11)	 VE LIABILITY FOR USER CONTENT AND INTERACTIONS THROUGHOUT THE WEBSITE.
+### 11)	 VE LIABILITY FOR USER CONTENT AND INTERACTIONS THROUGHOUT THE WEBSITE
 
 VE may take any action with respect to third party content that it deems necessary or appropriate in its sole discretion if it believes that such third party content could create liability for VE, damage VE’s brand or public image or cause VE to lose (in whole or in part) the services of its ISPs or other suppliers.
 
@@ -214,17 +214,17 @@ VE may contain inaccuracies or typographical errors. VE makes no representations
 
 VE cannot guarantee and does not promise any specific results from use of VE. No advice or information, whether oral or written, obtained by a user from VE shall create any warranty not expressly stated herein.
 
-### 12)	 LIMITATION OF LIABILITY.
+### 12)	 LIMITATION OF LIABILITY
 
 VE’S MAXIMUM LIABILITY ARISING OUT OF OR IN CONNECTION WITH VE OR YOUR USE OF VE CONTENT, REGARDLESS OF THE CAUSE OF ACTION (WHETHER IN CONTRACT, TORT, BREACH OF WARRANTY OR OTHERWISE), WILL NOT EXCEED $100.
 
 VE and its affiliates and employees are not liable for incidental, indirect, consequential, special, punitive or exemplary damages of any kind, including, without limitation, lost revenues or profits, loss of business or loss of data, in any way related to this site or for any claim, loss or injury based on errors, omissions, interruptions or other inaccuracies in our site (including, without limitation, as a result of breach of any warranty or other term of these Terms of Use).
 
-### 13)	 PRIVACY POLICY.
+### 13)	 PRIVACY POLICY
 
 VE takes the privacy of its members very seriously. Our Privacy Policy is available here.  By accepting the Terms of Use, you agree to be bound by our Privacy Policy.
 
-### 14)	MISCELLANEOUS.
+### 14)	MISCELLANEOUS
 
 These Terms of Use, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by VE without restriction. Any attempt to assign or transfer these Terms of Use and any rights and licenses will be null and void.
 

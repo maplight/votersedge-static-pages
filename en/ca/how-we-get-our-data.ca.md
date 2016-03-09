@@ -124,10 +124,10 @@ An analysis breaking contributions into the categories of ‘small’ and ‘lar
 #### Contributions by type
 An analysis breaking contributions into the categories of ‘organization’ and ‘individual.’ This analysis identifies the contributions coming from organizations (either directly or via political action committees) or by individuals.
 
-### Spanish Language Content
+### Spanish language content
 Voter’s Edge California is committed to providing quality voter information to as many people as possible, which is why we are excited to offer a professionally translated version of the site in 2016. We work with our Spanish Language Advisory Board  and our translators to ensure the highest quality translation possible.
 
-### Third Party Content
+### Third party content
 Voter’s Edge California contains links to, and embeds content from, various third-party websites that contain additional information related to elections and the political process. Voter’s Edge California does not endorse, approve, certify, or control these external websites. We do not exercise editorial control or oversight over the content featured by these third-party sites and make no representation as to their accuracy, objectivity, fairness, completeness, efficacy, timeliness, or correct sequencing of information. Reference therein to any specific commercial product, process, or service by trade name, trademark, service mark, manufacturer, or otherwise does not constitute or imply endorsement, recommendation or favoring by Voter’s Edge California. We are not responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any material available on or through such websites.
 
 For more information please check Voter’s Edge California [Terms of Use](www.votersedge.org/ca/page/terms-of-use).

@@ -1,5 +1,7 @@
-## How we get our data
- 
+---
+title: "How we get our data"
+published: true
+---  
 The data that appears on Voter’s Edge Illinois comes from a variety of sources, with priority placed on collecting data that is nonpartisan, transparent, and accurate. Voter’s Edge Illinois is a project of MapLight. Voter’s Edge Illinois does not take any position on or express any preference about the issues or candidates displayed on this site and neither supports nor opposes candidates or political parties.
  
 ## What’s on the ballot
@@ -117,10 +119,10 @@ An analysis breaking contributions into the categories of ‘small’ and ‘lar
 ### Contributions by type
 An analysis breaking contributions into the categories of ‘organization’ and ‘individual.’ This analysis identifies the contributions coming from organizations (either directly or via political action committees) or by individuals.
  
-## Spanish Language Content
+## Spanish language content
 Voter’s Edge Illinois is committed to providing quality voter information to as many people as possible, which is why we are excited to offer a partially translated version of the site in 2016. We work with our Spanish Language Advisory Board and our translators to ensure the highest quality translation possible.
  
-## Third Party Content
+## Third party content
 Voter’s Edge Illinois contains links to, and embeds content from, various third-party websites that contain additional information related to elections and the political process. Voter’s Edge Illinois does not endorse, approve, certify, or control these external websites. We do not exercise editorial control or oversight over the content featured by these third-party sites and make no representation as to their accuracy, objectivity, fairness, completeness, efficacy, timeliness, or correct sequencing of information. Reference therein to any specific commercial product, process, or service by trade name, trademark, service mark, manufacturer, or otherwise does not constitute or imply endorsement, recommendation or favoring by Voter’s Edge Illinois. We are not responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any material available on or through such websites.
  
 For more information please check Voter’s Edge Illinois [Terms of Use](www.votersedge.org/il/page/terms-of-use).
