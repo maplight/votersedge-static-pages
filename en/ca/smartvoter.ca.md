@@ -15,7 +15,7 @@ It has everything you loved about Smart Voter – a personalized ballot by addre
 <strong>Looking for a current election?</strong><br /><br />
 
 <i class="fa fa-chevron-circle-right"></i>
-If you are looking for a current election, click through to <strong>Voter’s Edge California.</strong> to find your ballot and look up elections by county and zipcode.
+If you are looking for a current election, click through to <strong>Voter’s Edge California.</strong> to find your ballot and look up elections by county and zip code.
 </a>
 </p>
 
