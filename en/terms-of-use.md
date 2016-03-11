@@ -11,7 +11,7 @@ Use of the Site API and Site widgets by candidates and by groups engaging in ind
 Please review VE’s [Privacy Policy](www.votersedge.org/page/privacy-policy) in conjunction with these Terms of Use. If you do not agree to these Terms, please do not use the Site.
 
 ### 1)	DESCRIPTION OF THE SITE
-**General Description.** The Site is a project of MapLight, and in California, a joint project of MapLight and the League of Women Voters California Education Fund to provide voters objective, comprehensive non-partisan information on elections, politics, and government. The Site is provided free-of-charge to voters as a public service. From time to time, VE will partner with other organizations that will serve as the source of some or all of VE’s content. We call the services available on the Site, whether accessed directly, or through the Mobile Software or such third party applications, the “Service(s).”
+**General Description.** The Site is a project of MapLight, and in California, a joint project of MapLight and the League of Women Voters California Education Fund to provide voters objective, comprehensive nonpartisan information on elections, politics, and government. The Site is provided free-of-charge to voters as a public service. From time to time, VE will partner with other organizations that will serve as the source of some or all of VE’s content. We call the services available on the Site, whether accessed directly, or through the Mobile Software or such third party applications, the “Service(s).”
 
 **Right to modify site.**  VE reserves the right to immediately change, suspend, remove or discontinue any part of the site or any content (whether submitted by VE or by a user) for any reason, without prior notice or liability.
 

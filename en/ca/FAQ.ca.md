@@ -105,7 +105,7 @@ If you live in county in California that is not being covered, we do have inform
 No.  Voter’s Edge California does not take positions on ballot measures.
 
 
-The League of Women Voters of California’s Education Fund, which partners to produce Voter’s Edge California, is a 501(c)(3) non-profit educational organization and never advocates.  The League of Women Voters of California does operate a separate non-profit 501(c)(4) organization that advocates on issues and sometimes makes recommendations on ballot measures. 
+The League of Women Voters of California’s Education Fund, which partners to produce Voter’s Edge California, is a 501(c)(3) nonprofit educational organization and never advocates.  The League of Women Voters of California does operate a separate nonprofit 501(c)(4) organization that advocates on issues and sometimes makes recommendations on ballot measures. 
 
 
 ### 12. Do you give recommendations as to how to vote on candidates? 

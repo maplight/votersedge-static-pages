@@ -97,7 +97,7 @@ The Voter’s Edge California team also collects a variety of other data to help
 
 
 ### Additional resources
-The Voter’s Edge California team also collects videos, news articles, links to additional resources, and event information about candidate contests and all measures in the same district. For candidate contests, this content is all neutral, non-partisan, and focused on the race itself or multiple candidates.
+The Voter’s Edge California team also collects videos, news articles, links to additional resources, and event information about candidate contests and all measures in the same district. For candidate contests, this content is all neutral, nonpartisan, and focused on the race itself or multiple candidates.
 
 ### Analysis of campaign finance data from MapLight
 MapLight obtains its campaign finance data from the bulk files provided by the [Federal Election Commission (FEC)](http://www.fec.gov/) for federal candidates and the [California Secretary of State](http://www.sos.ca.gov/) for state-level candidates. The data is processed, cleaned, and updated daily to include both new filings and amendments to previous filings.

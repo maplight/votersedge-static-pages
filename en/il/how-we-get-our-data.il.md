@@ -95,7 +95,7 @@ The Voter’s Edge Illinois team also collects a variety of other data to help v
  
  
 ## Additional resources
-The Voter’s Edge Illinois team also collects videos, news articles, links to additional resources, and event information about candidate contests and all measures in the same district. For candidate contests, this content is all neutral, non-partisan, and focused on the race itself or multiple candidates.
+The Voter’s Edge Illinois team also collects videos, news articles, links to additional resources, and event information about candidate contests and all measures in the same district. For candidate contests, this content is all neutral, nonpartisan, and focused on the race itself or multiple candidates.
  
 ## Analysis of campaign finance data from MapLight
 

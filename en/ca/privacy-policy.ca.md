@@ -6,7 +6,7 @@ Effective Date: February 10, 2016
 <hr />
 **Welcome to Voter’s Edge.**
  
-We take your privacy seriously. We are a non-profit project and will never sell your information to third parties. We are committed to protecting your privacy in accordance with all applicable laws and regulations. 
+We take your privacy seriously. We are a nonprofit project and will never sell your information to third parties. We are committed to protecting your privacy in accordance with all applicable laws and regulations. 
  
 This Privacy Policy is a binding agreement between you and VE (a project of [MapLight](http://maplight.org/) and in partnership with the [League of Women Voters California Education Fund](https://cavotes.org/) for VE California) regarding the use of the Votersedge.org websites and associated services (“VE,” the “Platform” or the “Site”). Please read this Privacy Policy before using or submitting content in any form or medium on the Site.
  
@@ -65,7 +65,7 @@ Here are the ways that VE might use your information to run our platform, provid
  
 This is how VE shares the information we collect through your use of the VE Site. 
  
-**a.**  This information will not be sold to third parties. We are a non-profit project.
+**a.**  This information will not be sold to third parties. We are a nonprofit project.
 **b.**  Any research and analysis done or shared with the intent to better the platform offerings will only be used and shared in an anonymized format.
 **c.**  California law permits residents of California to request certain details about what personal information a company shares with third parties for the third parties' marketing purposes. If you have questions about our sharing practices or your rights under California law, please contact our Privacy Officer with the contact details listed at the end of this Privacy Policy.
  
