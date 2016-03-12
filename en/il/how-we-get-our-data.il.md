@@ -1,7 +1,8 @@
 ---
-title: "How we get our data"
+title: How we get our data
 published: true
 ---
+
 
 The data that appears on Voter’s Edge Illinois comes from a variety of sources, with priority placed on collecting data that is nonpartisan, transparent, and accurate. Voter’s Edge Illinois is a project of MapLight. Voter’s Edge Illinois does not take any position on or express any preference about the issues or candidates displayed on this site and neither supports nor opposes candidates or political parties.
  
@@ -17,7 +18,7 @@ Polling locations are sourced directly from the applicable election authorities 
  
 ## The address search
  
-* Voter’s Edge Illinois uses data provided by state and local election authorities and the [Google Civic Information API]([Google Civic Information API](https://developers.google.com/civic-information/?hl=en)) to return ballot data for a specific address.
+* Voter’s Edge Illinois uses data provided by state and local election authorities and the [Google Civic Information API](https://developers.google.com/civic-information/?hl=en) to return ballot data for a specific address.
  
 * In some situations we will return more contests than will be on your actual ballot. This can happen when there is insufficient data available to correctly connect an office to its specific district. When this happens, we will connect the office to a larger district — typically a city or a county — and return the contests for that office for all addresses in that larger district. This means that some of the contests returned might not be on your actual ballot. Contests that may not be on your ballot will be indicated. You can contact your local election authority to confirm if a contest will actually be on your ballot.
  
