@@ -1,7 +1,8 @@
 ---
-title: "About Voter’s Edge New York"
+title: About Voter’s Edge New York
 published: true
 ---
+
 
 
 
@@ -39,7 +40,7 @@ We provide journalists and citizens with transparency tools that connect data on
  
 Voter’s Edge has an advisory board for each state it covers, as well as a Spanish language advisory board. Voter’s Edge advisory board members are dedicated leaders who share a commitment to civic engagement, nonpartisan voter information, and good government. They represent a variety of political affiliations and hold expertise in different areas, but all are invested in addressing the challenges faced by voters in their state. At the national level, Voter’s Edge is guided by input from MapLight’s [board](http://maplight.org/board) and [advisory board](http://maplight.org/advisory_board).
 
-### Voter’s Edge Illinois Advisory Board
+### Voter’s Edge New York Advisory Board
 MapLight is still seeking members for its Voter’s Edge New York advisory board. Members will advise MapLight on various aspects of Voter’s Edge, including editorial policy, potential partnerships, and effective distribution strategies.
 
 ### Spanish Language Advisory Board
