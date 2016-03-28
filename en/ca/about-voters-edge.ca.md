@@ -1,7 +1,8 @@
 ---
-title: "About Voter’s Edge California"
+title: About Voter’s Edge California
 published: true
 ---
+
 
 ## Welcome to Voter’s Edge California
 
@@ -127,7 +128,7 @@ LWVCEF Senior Director of Civic Engagement: _Dora Rose_ | Voting Information Dir
 LWVCEF Membership & Technology Manager: _Sharon Stone_ | Technical Director: Leon Smith
 Senior Advisor: _Roberta Hollimon_ | Software Engineer & Database Administrator: _Mike Krejci_
 Senior Advisor: _Carol Watts_ | Lead Designer & Front-End Engineer: _Chacha Sikes_
-Senior Programmer: _Carl Hage_ | Program Associates: _Elliot Day & Isaac Agree_
+Senior Programmer: _Carl Hage_ | Program Associates: _Elliott Day & Isaac Agree_
 Data Coordinator: _Greg Fowler_ | Researcher: _Joanna Nix_
 Northern CA Liaison: _Bonnie Hamlin_ | Program Assistant: _Chelsea Miller_
 Southern CA Liaison: _Brianna Conser_ | Software Engineer: _Shane Dosch_
