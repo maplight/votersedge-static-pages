@@ -3,6 +3,13 @@ title: About Voter’s Edge New York
 published: true
 ---
 
+
+
+
+
+
+
+
 ## Welcome to Voter’s Edge New York
 
 Voter’s Edge New York is a comprehensive, nonpartisan online guide to federal, state, and local elections in the state of New York. Voter’s Edge New York is a project of MapLight.
@@ -39,8 +46,7 @@ MapLight is still seeking members for its Voter’s Edge New York advisory board
 
 ### Spanish Language Advisory Board
 Members of the Voter’s Edge Spanish Language advisory board advise MapLight on various aspects of translating and presenting Voter’s Edge in Spanish, as well as distribution strategies to Spanish-language users. Members include:
- 
-* Melissa Breach, Executive Director, [League of Women Voters of California Education Fund](https://cavotes.org/)
+
 * Mony Flores-Bauer, Consultant, [Progressive Consultants Network](http://www.pcneb.org/floresbauer.html)
 * Lisa Garcia Bedolla, Chancellor's Professor, Education and Political Science, U.C. Berkeley
 * German Macias, California Program Coordinator, [NALEO Education Fund](http://www.naleo.org/)
