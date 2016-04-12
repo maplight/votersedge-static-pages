@@ -1,11 +1,12 @@
 ---
-title: "About Voter’s Edge"
+title: About Voter’s Edge
 published: true
 ---
 
+
 ## Welcome to Voter’s Edge
 
-Voter’s Edge is a comprehensive, nonpartisan online guide to federal, state, and local elections in California, Illinois, and New York. 
+Voter’s Edge is a comprehensive, nonpartisan online guide to federal, state, and local elections in [California](http://votersedge.org/ca), [Illinois](http://votersedge.org/il), and [New York](http://votersedge.org/ny). 
 
 #### With Voter’s Edge, voters can:
 
