@@ -12,6 +12,7 @@ It has everything you loved about Smart Voter – a personalized ballot by addre
 <p class="ContentPage_button-link_3IG">
 <a href="/ca" >
 
+
 <strong>Looking for a current election?</strong><br /><br />
 
 <i class="fa fa-chevron-circle-right"></i>
