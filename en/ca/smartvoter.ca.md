@@ -5,7 +5,7 @@ published: true
 
 <img src="/content/image/partners/smartvoter.png" alt="SmartVoter" />
 
-You’ve reached <strong>Voter’s Edge California</strong>, a partnership between the League of Women Voters of California Education Fund’s <strong>Smart Voter</strong> and <a href="http://maplight.org" target="_blank">MapLight</a>.
+You’ve reached <strong>Voter’s Edge California</strong>, a partnership between the <a href="http://cavotes.org" target="_blank">League of Women Voters of California Education Fund’s</a> <strong>Smart Voter</strong> and <a href="http://maplight.org" target="_blank">MapLight</a>.
 
 It has everything you loved about Smart Voter – a personalized ballot by address including polling place location, candidate profiles, and ballot measures. Now with campaign finance and even more election information!
 

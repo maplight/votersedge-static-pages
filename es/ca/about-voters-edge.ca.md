@@ -1,7 +1,9 @@
 ---
-title: "About Voter’s Edge California"
+title: About Voter’s Edge California
 published: true
 ---
+
+
 
 ## Welcome to Voter’s Edge California
 
@@ -70,7 +72,6 @@ Members of the Voter’s Edge California advisory board advise MapLight on vario
 ### Spanish Language Advisory Board
 Members of the Voter’s Edge Spanish Language advisory board advise MapLight on various aspects of translating and presenting Voter’s Edge in Spanish, as well as distribution strategies to Spanish-language users. Members include:
  
-* Melissa Breach, Executive Director, [League of Women Voters of California Education Fund](https://cavotes.org/)
 * Mony Flores-Bauer, Consultant, [Progressive Consultants Network](http://www.pcneb.org/floresbauer.html)
 * Lisa Garcia Bedolla, Chancellor's Professor, Education and Political Science, U.C. Berkeley
 * German Macias, California Program Coordinator, [NALEO Education Fund](http://www.naleo.org/)
@@ -127,7 +128,7 @@ LWVCEF Senior Director of Civic Engagement: _Dora Rose_ | Voting Information Dir
 LWVCEF Membership & Technology Manager: _Sharon Stone_ | Technical Director: Leon Smith
 Senior Advisor: _Roberta Hollimon_ | Software Engineer & Database Administrator: _Mike Krejci_
 Senior Advisor: _Carol Watts_ | Lead Designer & Front-End Engineer: _Chacha Sikes_
-Senior Programmer: _Carl Hage_ | Program Associates: _Elliot Day & Isaac Agree_
+Senior Programmer: _Carl Hage_ | Program Associates: _Elliott Day & Isaac Agree_
 Data Coordinator: _Greg Fowler_ | Researcher: _Joanna Nix_
 Northern CA Liaison: _Bonnie Hamlin_ | Program Assistant: _Chelsea Miller_
 Southern CA Liaison: _Brianna Conser_ | Software Engineer: _Shane Dosch_

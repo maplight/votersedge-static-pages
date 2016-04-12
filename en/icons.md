@@ -19,4 +19,4 @@ from the Noun Project
 * <a href="https://thenounproject.com/term/document/16385/">Document</a> - Creative Commons, Created by Pieter J. Smits from the Noun Project
 * <a href="https://thenounproject.com/search/?q=donation+&i=174541">Donate</a> - Creative Commons, Created by Gregor Črešnar
 * <a href="https://thenounproject.com/search/?q=Contribution&i=32571">Money Collection</a> - Created by Luis Prado from the Noun Project
-
+* <a href="https://thenounproject.com/search/?q=group+of+people&i=158688">Group</a> (Adapted) Created by Gregory Radek from the Noun Project
