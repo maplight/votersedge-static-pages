@@ -1,112 +1,112 @@
 ---
-title: "About Voter’s Edge"
+title: Sobre Voter’s Edge
 published: true
 ---
+## Bienvenido a Voter’s Edge
 
-## Welcome to Voter’s Edge
+Voter’s Edge es una guía integral para las elecciones, sin ninguna afiliación partidista y disponible en línea para las elecciones federales, estatales y locales en California, Illinois y Nueva York. 
 
-Voter’s Edge is a comprehensive, nonpartisan online guide to federal, state, and local elections in California, Illinois, and New York. 
+#### Con Voter’s Edge, los votantes podrán:
 
-#### With Voter’s Edge, voters can:
+- tener acceso detallado y personalizado a su boleta electoral al ingresar su dirección
+- obtener información detallada sobre los candidatos, las iniciativas de ley y quién los apoya
+- ver las biografías de los candidatos, sus prioridades, fotografías, videos políticos, respaldos e información detallada acerca de quién financia sus campañas
+- leer resúmenes neutrales de las iniciativas de ley de la boleta electoral, ver las últimas noticias de las iniciativas de ley y estar al tanto de quién las apoya y quién se opone a ellas
+- revisar dónde, cuándo y cómo votar, incluida la información sobre la ubicación de los lugares de votación locales
+- dar seguimiento a sus opciones para hacer que el proceso de votación sea más sencillo
+- compartir información acerca de las elecciones con familiares y amigos
 
-- Access their full, personalized ballot by entering their address.
-- Get in-depth information on candidates, measures, and who supports them.
-- See candidate biographies, top priorities, photos, policy videos, endorsements, and detailed information about who funds their campaigns.
-- Read neutral summaries of ballot measures, see the latest news on the measures, and find out who supports and opposes them.
-- Check where, when, and how to vote, including information on their local polling locations.
-- Keep track of their choices to make voting easier.
-- Share information about the election with friends and family.
+### La historia de Voter’s Edge
+La herramienta Voter’s Edge de MapLight se diseñó en un principio para ayudar a exponer a los proveedores de fondos detrás de las iniciativas de ley de las boletas electorales en California. En los últimos años, el proyecto se ha ampliado para cubrir a candidatos y elecciones más allá del estado de California. Actualmente, Voter’s Edge cubre las elecciones federales, estatales y locales de California, Illinois y Nueva York.
 
-### History of Voter’s Edge
-MapLight’s Voter’s Edge tool was first designed to help expose the funders behind ballot measures in California. In recent years the project has expanded to cover candidates and elections in states beyond California. Voter’s Edge is currently covering federal, state, and local elections in California, Illinois, and New York.
+### Acerca de MapLight
 
-### About MapLight
+MapLight es una organización de investigación sin ninguna afiliación partidista que revela la influencia del dinero en la política. Somos una organización sin fines de lucro de acuerdo con la sección 501(c)(3).
 
-MapLight is a nonpartisan research organization that reveals money’s influence on politics. We are a 501(c)(3) nonprofit organization.
+Brindamos a los periodistas y a los ciudadanos herramientas trasparentes que conectan los datos de contribuciones de campaña, políticos, votos legislativos, industrias, compañías y más para mostrar patrones de influencia que antes eran imposibles de ver. Estas herramientas permiten que los usuarios obtengan perspectivas únicas sobre la manera en la que las contribuciones a las campañas afectan a la política, de modo que puedan sacar sus propias conclusiones acerca de la influencia del dinero sobre nuestro sistema político.
 
-We provide journalists and citizens with transparency tools that connect data on campaign contributions, politicians, legislative votes, industries, companies, and more to show patterns of influence never before possible to see. These tools allow users to gain unique insights into how campaign contributions affect policy, so they can draw their own conclusions about how money influences our political system.
-
-[Visit us to learn more](http://maplight.org/content/about-maplight) about MapLight and our work.
-
----
-
-## Advisory Boards
-
-Voter’s Edge has an advisory board for each state it covers, as well as a Spanish language advisory board. Voter’s Edge advisory board members are dedicated leaders who share a commitment to civic engagement, nonpartisan voter information, and good government. They represent a variety of political affiliations and hold expertise in different areas, but all are invested in addressing the challenges faced by voters in their state. At the national level, Voter’s Edge is guided by input from MapLight’s [board](http://maplight.org/board) and [advisory board](http://maplight.org/advisory_board).
-
-### Spanish Language Advisory Board
-Members of the Voter’s Edge Spanish Language advisory board advise MapLight on various aspects of translating and presenting Voter’s Edge in Spanish, as well as distribution strategies to Spanish-language users. Members include:
-
-* Mony Flores-Bauer, Consultant, [Progressive Consultants Network](http://www.pcneb.org/floresbauer.html)
-* Lisa Garcia Bedolla, Chancellor's Professor, Education and Political Science, U.C. Berkeley
-* German Macias, California Program Coordinator, [NALEO Education Fund](http://www.naleo.org/)
-* Astrid Garcia Ochoa, Deputy Director, [Future of California Elections](http://futureofcaelections.org/)
-* Gino Squadrito, Art Director, [LaserCom](http://www.lasercomdesign.com/)
+[Visite nuestro sitio para obtener más información](http://maplight.org/content/about-maplight) acerca de MapLight y nuestro trabajo.
 
 ---
 
-## Funders
+## Juntas asesoras
 
-Voter’s Edge is funded by individuals and foundations who support our work providing voters with a one-stop source of unbiased, nonpartisan information to help them make choices that best align with their particular values and interests.
+Voter’s Edge cuenta con una junta asesora para cada estado de su cobertura, así como una junta asesora en español. Los miembros de las juntas asesoras de Voter’s Edge son líderes dedicados que comparten un compromiso con la participación ciudadana, la información sin afiliación partidista para los votantes y el buen gobierno. Representan una variedad de afiliaciones políticas y cuentan con experiencia en diferentes áreas, pero todos están comprometidos a abordar los desafíos que enfrentan los votantes en su estado. A nivel nacional, Voter’s Edge se guía por los aportes de la [junta](http://maplight.org/board) de MapLight y la [junta asesora](http://maplight.org/advisory_board).
 
-We are deeply grateful to the following foundations and individuals whose contributions make Voter’s Edge possible:
+### Junta Asesora de Español
+Los miembros de la Junta Asesora de Español de Voter’s Edge ayudan a MapLight en varios aspectos de traducción y presentación de Voter’s Edge en español, así como con las estrategias de distribución para los usuarios de habla hispana. Los miembros incluyen:
 
-- Anonymous (Voter’s Edge California)
-- Alameda County: Registrar of Voters (Voter’s Edge California)
-- Rita Allen Foundation 
+* Melissa Breach, directora ejecutiva, [League of Women Voters of California Education Fund](https://cavotes.org/)
+* Mony Flores-Bauer, consultora, [Progressive Consultants Network](http://www.pcneb.org/floresbauer.html)
+* Lisa Garcia Bedolla, profesora (Chancellor's Professor), educación y ciencias políticas, U.C. Berkeley
+* German Macias, coordinador del programa de California, [Fondo de Educación de la Asociación Nacional de Funcionarios Latinos Electos y Designados (National Association of Latino Elected and Appointed Officials, NALEO)](http://www.naleo.org/)
+* Astrid Garcia Ochoa, subdirectora, [Future of California Elections](http://futureofcaelections.org/)
+* Gino Squadrito, director de arte, [LaserCom](http://www.lasercomdesign.com/)
+
+---
+
+## Patrocinadores
+
+Voter’s Edge cuenta con el financiamiento de personas y fundaciones que apoyan nuestra labor al brindar a los votantes una única fuente de información imparcial y sin afiliación partidista que les ayuda a tomar decisiones que se adapten mejor a sus intereses y valores particulares.
+
+Agradecemos profundamente a las siguientes fundaciones y personas cuyas contribuciones hacen que Voter’s Edge sea posible:
+
+- Anónimo (Voter’s Edge California)
+- Condado de Alameda: Registro electoral (Voter’s Edge California)
+- Fundación Rita Allen 
 - Bright Horizon Fund (Voter’s Edge California)
-- Matt and Cindy Cutts 
-- Bonnie and Earl Hamlin (Voter’s Edge California)
-- William and Flora Hewlett Foundation 
+- Matt y Cindy Cutts 
+- Bonnie y Earl Hamlin (Voter’s Edge California)
+- Fundación William y Flora Hewlett 
 - The James Irvine Foundation (Voter’s Edge California)
 - Joyce Foundation (Voter’s Edge Illinois)
-- The Kaphan Foundation 
+- Fundación Kaphan 
 - Ellen Kitamura (Voter’s Edge California)
 - John S. and James L. Knight Foundation 
-- League of Women Voters of Eden Area (Voter’s Edge California)
-- League of Women Voters of Los Altos/Mountain View Area (Voter’s Edge California)
-- League of Women Voters of Los Angeles (Voter’s Edge California)
-- League of Women Voters of Marin County (Voter’s Edge California)
-- League of Women Voters of Oakland (Voter’s Edge California)
-- League of Women Voters of Palo Alto (Voter’s Edge California)
-- League of Women Voters of Sacramento County (Voter’s Edge California)
-- League of Women Voters of San Jose/Santa Clara (Voter’s Edge California)
-- League of Women Voters of Santa Barbara (Voter’s Edge California)
-- League of Women Voters of Southwest Santa Clara Valley (Voter’s Edge California)
-- McCormick Foundation (Voter’s Edge Illinois)
-- The Honorable Becky Morgan (Voter’s Edge California)
-- Craig Newmark Philanthropic Fund
+- League of Women Voters del área de Eden (Voter’s Edge California)
+- League of Women Voters del área de Los Altos/Mountain View (Voter’s Edge California)
+- League of Women Voters de Los Ángeles (Voter’s Edge California)
+- League of Women Voters del condado de Marin (Voter’s Edge California)
+- League of Women Voters del área de Oakland (Voter’s Edge California)
+- League of Women Voters de Palo Alto (Voter’s Edge California)
+- League of Women Voters del condado de Sacramento (Voter’s Edge California)
+- League of Women Voters de San José/Santa Clara (Voter’s Edge California)
+- League of Women Voters de Santa Bárbara (Voter’s Edge California)
+- League of Women Voters del suroeste del valle de Santa Clara (Voter’s Edge California)
+- Fundación McCormick (Voter’s Edge Illinois)
+- La honorable Becky Morgan (Voter’s Edge California)
+- Fondo filantrópico de Craig Newmark
 - The Pick One Fund (Voter’s Edge California)
-- San Mateo County: Office of Assessor-Clerk-Recorder (Voter’s Edge California)
-- Santa Clara County: Registrar of Voters (Voter’s Edge California)
-- Tides Civic Innovation Fund (Voter’s Edge California)
-- Orlin and Onnolee Trapp (Voter’s Edge California)
+- Condado de San Mateo: Oficina del tasador y del registro civil (Voter’s Edge California)
+- Condado de Santa Clara: Registro electoral (Voter’s Edge California)
+- Fondo para la Innovación Cívica de Tides (Voter’s Edge California)
+- Orlin y Onnolee Trapp (Voter’s Edge California)
 - Kathleen Weisenberg (Voter’s Edge California)
 
-[Join these and other donors by supporting Voter’s Edge today!](https://donatenow.networkforgood.org/votersedge)
+[¡Únase hoy mismo a estos y otros donantes y apoye a Voter’s Edge!](https://donatenow.networkforgood.org/votersedge)
 
 ---
 
-## Meet the Voter’s Edge Team
+## Conozca al equipo de Voter’s Edge
 
-The Voter’s Edge project utilizes the passion and talents of the entire MapLight team in various capacities. At the center of this organization-wide effort, the Voter’s Edge team works to provide this tool to voters - let’s meet the team!
+El proyecto Voter’s Edge usa la pasión y el talento de todo el equipo de MapLight. En el centro de este esfuerzo de toda la organización, el equipo de Voter’s Edge trabaja para brindar esta herramienta a los votantes. ¡Conozcamos al equipo!
 
-**Voting Information Director:** _Michael Canning_
+**Director de información electoral:** _Michael Canning_
 
-**Technical Director:** _Leon Smith_
+**Director técnico:** _Leon Smith_
 
-**Software Engineer & Database Administrator:** _Mike Krejci_
+**Ingeniero de sistemas y administrador de bases de datos:** _Mike Krejci_
 
-**Lead Designer & Front-End Engineer:** _Chacha Sikes_
+**Diseñadora principal e ingeniera inicial:** _Chacha Sikes_
 
-**Program Associates:**  _Elliott Day_ & _Isaac Agree_
+**Socios del programa:**  _Elliott Day_ e _Isaac Agree_
 
-**Researcher:** _Joanna Nix_
+**Investigadora:** _Joanna Nix_
 
-**Program Assistant:** _Chelsea Miller_
+**Asistente del programa:** _Chelsea Miller_
 
-**Software Engineer:** _Shane Dosch_
+**Ingeniero de sistemas:** _Shane Dosch_
 
-**MapLight President & Co-Founder:** _Daniel Newman_
+**Presidente y cofundador de MapLight:** _Daniel Newman_
 
-[Learn more](http://maplight.org/content/staff) about the Voter’s Edge team and the rest of the MapLight crew!
+[¡Conozca más](http://maplight.org/content/staff) sobre el equipo de Voter’s Edge y el resto del personal de MapLight!
