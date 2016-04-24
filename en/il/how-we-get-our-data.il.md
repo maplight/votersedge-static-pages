@@ -123,6 +123,8 @@ An analysis breaking contributions into the categories of ‘organization’ and
  
 ## Spanish language content
 Voter’s Edge Illinois is committed to providing quality voter information to as many people as possible, which is why we are excited to offer a partially translated version of the site in 2016. We work with our Spanish Language Advisory Board and our translators to ensure the highest quality translation possible.
+
+Spanish language content is translated by [Avantpage](https://www.avantpage.com/).
  
 ## Third party content
 Voter’s Edge Illinois contains links to, and embeds content from, various third-party websites that contain additional information related to elections and the political process. Voter’s Edge Illinois does not endorse, approve, certify, or control these external websites. We do not exercise editorial control or oversight over the content featured by these third-party sites and make no representation as to their accuracy, objectivity, fairness, completeness, efficacy, timeliness, or correct sequencing of information. Reference therein to any specific commercial product, process, or service by trade name, trademark, service mark, manufacturer, or otherwise does not constitute or imply endorsement, recommendation or favoring by Voter’s Edge Illinois. We are not responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any material available on or through such websites.
