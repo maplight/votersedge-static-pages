@@ -1,5 +1,5 @@
 ---
-title: How we get our data
+title: Como nos seguimos nuestros datos
 published: true
 ---
 
