@@ -1,5 +1,5 @@
 ---
-title: Privacy Policy
+title: Política de privacidad
 published: true
 ---
 ## Política de privacidad de Voter’s Edge
