@@ -14,7 +14,7 @@ It has everything you loved about Smart Voter – a personalized ballot by addre
 
 <strong>Looking for a current election?</strong><br /><br />
 
-<i class="fa fa-chevron-circle-right"></i>
+<i aria-hidden="true" class="fa fa-chevron-circle-right"></i>
 If you are looking for a current election, click through to <strong>Voter’s Edge California.</strong> to find your ballot and look up elections by county and zip code.
 </a>
 </p>
@@ -23,11 +23,11 @@ If you are looking for a current election, click through to <strong>Voter’s Ed
 <a href="http://www.smartvoter.org/voter/archives.html" target="_blank" >
 
 <strong>Looking for a previous election?</strong><br /><br />
-<i class="fa fa-chevron-circle-right"></i> If you are looking for a prior election please click here to reach <strong>Smart Voter’s Election Archives.</strong>
+<i aria-hidden="true" class="fa fa-chevron-circle-right"></i> If you are looking for a prior election please click here to reach <strong>Smart Voter’s Election Archives.</strong>
 </a>
 </p>
 
 <p>
-<i class="fa fa-chevron-circle-right"></i> You can also get your <a href="http://www.smartvoter.org/voter/search.html#ballot" target="_blank">personalized ballot</a> for any archived election.
+<i aria-hidden="true" class="fa fa-chevron-circle-right"></i> You can also get your <a href="http://www.smartvoter.org/voter/search.html#ballot" target="_blank">personalized ballot</a> for any archived election.
 </p>
 

@@ -5,17 +5,17 @@ published: true
 
 Los datos que aparecen en Voter’s Edge California provienen de una variedad de fuentes, con prioridad en la recolección de datos que son precisos, transparentes y sin ninguna afiliación partidista. Voter’s Edge California es un proyecto conjunto de la League of Women Voters of California Education Fund y MapLight. Voter’s Edge California no toma ninguna postura ni expresa ninguna preferencia sobre los asuntos o los candidatos que se muestran en esta página, tampoco apoya ni se opone a ningún candidato o partido político.
 
-### Contenido de la boleta electoral
+## Contenido de la boleta electoral
 
 Las autoridades electorales oficiales para el estado, los condados y otras localidades son la máxima autoridad que decide las contiendas, los candidatos y las iniciativas de ley que aparecerán en la boleta electoral. Obtenemos estos datos ya sea directamente de las autoridades electorales o el equipo de Voter’s Edge California los recopila de ellas; este equipo incluye voluntarios asociados con la League of Women Voters of California Education Fund.
 
 Voter’s Edge California no se hace responsable por la precisión de los datos sobre la muestra de boleta electoral ni la ubicación de los lugares de votación. Su autoridad electoral local sigue siendo la única fuente autorizada de información respecto al contenido de la boleta electoral y la ubicación de los lugares de votación. Si cree que los datos de la boleta electoral o los lugares de votación son incorrectos, [comuníquese con nosotros](www.votersedge.org/en/ca/feedback) para reportar el problema.
 
-### Ubicación de los lugares de votación
+## Ubicación de los lugares de votación
 
 Las ubicaciones de los lugares de votación se obtienen directamente de las respectivas autoridades electorales o a través de la [interfaz de programación de aplicaciones (Application Programming Interface, API) de información cívica de Google](https://developers.google.com/civic-information/?hl=en). 
 
-### Búsqueda por dirección
+## Búsqueda por dirección
 
 * Voter’s Edge California usa datos del estado, del condado y de las autoridades electorales locales; información de la base de datos de censos de la Oficina de Censo de Estados Unidos; y la [API de información cívica de Google](https://developers.google.com/civic-information/?hl=en) con el fin de mostrar los datos de la boleta electoral para una dirección específica.
 
@@ -27,7 +27,7 @@ contienda realmente estará en su boleta electoral.
 Consulte nuestra [Política de privacidad](www.votersedge.org/ca/page/privacy-policy) para obtener más información sobre cómo se usan las direcciones.
 
 
-### Datos de los candidatos
+## Datos de los candidatos
 
 Los datos de los candidatos que aparecen en Voter’s Edge California pueden provenir de tres fuentes.
 

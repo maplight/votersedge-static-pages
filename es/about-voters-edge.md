@@ -6,7 +6,7 @@ published: true
 
 Voter’s Edge es una guía integral para las elecciones, sin ninguna afiliación partidista y disponible en línea para las elecciones federales, estatales y locales en California, Illinois y Nueva York. 
 
-#### Con Voter’s Edge, los votantes podrán:
+### Con Voter’s Edge, los votantes podrán:
 
 - tener acceso detallado y personalizado a su boleta electoral al ingresar su dirección
 - obtener información detallada sobre los candidatos, las iniciativas de ley y quién los apoya
@@ -16,7 +16,7 @@ Voter’s Edge es una guía integral para las elecciones, sin ninguna afiliació
 - dar seguimiento a sus opciones para hacer que el proceso de votación sea más sencillo
 - compartir información acerca de las elecciones con familiares y amigos
 
-### La historia de Voter’s Edge
+## La historia de Voter’s Edge
 La herramienta Voter’s Edge de MapLight se diseñó en un principio para ayudar a exponer a los proveedores de fondos detrás de las iniciativas de ley de las boletas electorales en California. En los últimos años, el proyecto se ha ampliado para cubrir a candidatos y elecciones más allá del estado de California. Actualmente, Voter’s Edge cubre las elecciones federales, estatales y locales de California, Illinois y Nueva York.
 
 ### Acerca de MapLight

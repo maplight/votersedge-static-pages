@@ -3,7 +3,6 @@ title: How we get our data
 published: true
 ---
 
-
 Los datos que aparecen en Voter’s Edge Illinois provienen de una variedad de fuentes, con prioridad en la recolección de datos que son precisos, transparentes y sin ninguna afiliación partidista. Voter’s Edge Illinois es un proyecto de MapLight. Voter’s Edge Illinois no toma ninguna postura ni expresa ninguna preferencia sobre los asuntos o los candidatos que se muestran en esta página, tampoco apoya ni se opone a ningún candidato o partido político.
  
 ## Contenido de la boleta electoral
