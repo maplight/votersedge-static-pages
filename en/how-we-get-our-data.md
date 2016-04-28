@@ -7,7 +7,7 @@ The specific types of data, sources, and methodologies used to create Voter’s 
 
 * [California](www.votersedge.org/ca/page/how-we-get-our-data)
 
-* [Illinois](www.votersedge.org/ca/page/how-we-get-our-data)
+* [Illinois](www.votersedge.org/il/page/how-we-get-our-data)
 
 * [New York](http://votersedge.org/ny/page/how-we-get-our-data)
 
