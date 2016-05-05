@@ -7,9 +7,9 @@ published: true
 
 ## Create Your Own Guide: Set up a version of Voter’s Edge for your organization
 
-An easy way for organizations to partner with Voter’s Edge is to request a subdomain. A subdomain is a complete and co-branded version of the voter guide that can be customized with a unique URL, title, color scheme, and your organization’s logo. If you would like to request a subdomain for your website, please ‘Contact Us’ for more information.
+An easy way for organizations to partner with Voter’s Edge is to request a subdomain. A subdomain is a complete and co-branded version of the voter guide that can be customized with a unique URL, title, color scheme, and your organization’s logo. If you would like to request a subdomain for your website, please ‘[Contact Us](http://votersedge.org/en/root/feedback)’ for more information.
 
-_**Note:** Subdomains cannot be used by candidates, political parties, or PACs, nor by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in IRS code 26 USC 501(c)(3)._
+_**Note:** Subdomains cannot be used by candidates, political parties, or PACs, nor by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](https://www.irs.gov/Charities-&-Non-Profits/Charitable-Organizations/The-Restriction-of-Political-Campaign-Intervention-by-Section-501(c)(3)-Tax-Exempt-Organizations)._
 
 ## Engage Voters: Share, promote, or embed
 
@@ -21,12 +21,12 @@ To embed this tool, just copy and paste the “iframe...” HTML code into your 
 
 **By using this tool, you agree to the following statement:**
 
-“I agree that this will not be used by a candidate, political party, or PAC, nor will it be used by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in IRS code 26 USC 501(c)(3).”
+“I agree that this will not be used by a candidate, political party, or PAC, nor will it be used by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](https://www.irs.gov/Charities-&-Non-Profits/Charitable-Organizations/The-Restriction-of-Political-Campaign-Intervention-by-Section-501(c)(3)-Tax-Exempt-Organizations).”
 
 **240x Wide**
 
 [WIDGET PREVIEW]
-
+​
 **Embed This Tool**
 
 [HTML CODE]
@@ -62,19 +62,19 @@ To embed this tool, just copy and paste the “iframe...” HTML code into your 
 
 Please feel free to download our logo, which can be embedded on your website as a way to link to Voter’s Edge.
 
-The logo is available in various sizes, background colors, and file types. To download a zip file containing the Voter’s Edge logo, choose a version: California, Illinois, New York, or national.
+The logo is available in various sizes, background colors, and file types. To download a zip file containing the Voter’s Edge logo, choose a version: [California](https://s3-us-west-2.amazonaws.com/ve-resources/Voter%27s+Edge+California.zip), [Illinois](https://s3-us-west-2.amazonaws.com/ve-resources/Voter%27s+Edge+Illinois.zip), [New York](https://s3-us-west-2.amazonaws.com/ve-resources/Voter%27s+Edge+New+York.zip), or [national](https://s3-us-west-2.amazonaws.com/ve-resources/Voter%27s+Edge+National.zip).
 
 Each zip file contains:
-EPS - Clear Background
-EPS - White Background
-PNG - Small (Clear Background), 800 x 800
-PNG - Medium (Clear Background) 1200 x 1200
-PNG - Large (Clear Background) 1600 x 1600
-PNG - Small (White Background) 800 x 800
-PNG - Medium (White Background) 1200 x 1200
-PNG - Large (White Background) 1600 x 1600
+- EPS - Clear Background
+- EPS - White Background
+- PNG - Small (Clear Background), 800 x 800
+- PNG - Medium (Clear Background) 1200 x 1200
+- PNG - Large (Clear Background) 1600 x 1600
+- PNG - Small (White Background) 800 x 800
+- PNG - Medium (White Background) 1200 x 1200
+- PNG - Large (White Background) 1600 x 1600
 
-These logos can be used as buttons that link your users to our national homepage, or our state-specific homepages for California, Illinois, or New York.
+These logos can be used as buttons that link your users to our [national homepage](http://votersedge.org/), or our state-specific homepages for [California](http://votersedge.org/en/ca), [Illinois](http://votersedge.org/en/il), or [New York](http://votersedge.org/en/ny).
 
 Share a custom link.
 
@@ -104,5 +104,5 @@ You can also use the Excel spreadsheet to generate a URL for a zip code-only bal
 
 Developers can use our API to access our data and integrate it into their own tools and websites. Check out our API documentation here and ‘Contact Us’ below to request an API key. 
 
-_**Note:** Data accessed from the API cannot be used by candidates, political parties, or PACs, nor by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in IRS code 26 USC 501(c)(3)._
+_**Note:** Data accessed from the API cannot be used by candidates, political parties, or PACs, nor by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](https://www.irs.gov/Charities-&-Non-Profits/Charitable-Organizations/The-Restriction-of-Political-Campaign-Intervention-by-Section-501(c)(3)-Tax-Exempt-Organizations)._
 
