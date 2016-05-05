@@ -1,3 +1,7 @@
+---
+title: Resources
+published: true
+---
 
 # Resources
 
