@@ -73,7 +73,7 @@ Each zip file contains:
 
 These logos can be used as buttons that link your users to our [national homepage](http://votersedge.org/), or our state-specific homepages for [California](http://votersedge.org/en/ca), [Illinois](http://votersedge.org/en/il), or [New York](http://votersedge.org/en/ny).
 
-Share a custom link.
+### Share a custom link.
 
 You can bypass the Voter’s Edge homepage entirely by entering a street address directly into a URL that will take you right to the results. Use the structure described below to generate a URL that will take you to the results for any street address or zip code.
 
