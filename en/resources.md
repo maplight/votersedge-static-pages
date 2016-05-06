@@ -26,7 +26,7 @@ To embed this tool, just copy and paste the “iframe...” HTML code into your 
 **240x Wide**
 
 [WIDGET PREVIEW]
-​
+
 **Embed This Tool**
 
 [HTML CODE]
