@@ -83,9 +83,11 @@ You can bypass the Voter’s Edge homepage entirely by entering a street address
 This is a great feature for organizations that do bulk mailings to larger groups of people for whom they have addresses. The tool allows you to send your subscribers a customized link based on their street address.
 
 **Address Lookup**
+
 Voter’s Edge has created an [Excel spreadsheet](https://s3-us-west-2.amazonaws.com/ve-resources/URL-Address+Tool.xlsx) to make this process easier and to allow you to quickly generate large numbers of unique, address-specific URLs. To use this spreadsheet, follow these instructions:
 
  1. Select the tab for your state (currently CA, IL, or NY) at the bottom of the Excel spreadsheet.
+ 
  2. Enter an address in the first four columns: 
 
  a. **Example address:** 2119 Stanbridge Avenue, Long Beach, CA 90815
