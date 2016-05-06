@@ -83,22 +83,29 @@ You can bypass the Voter’s Edge homepage entirely by entering a street address
 This is a great feature for organizations that do bulk mailings to larger groups of people for whom they have addresses. The tool allows you to send your subscribers a customized link based on their street address.
 
 **Address Lookup**
-Voter’s Edge has created an Excel spreadsheet to make this process easier and to allow you to quickly generate large numbers of unique, address-specific URLs. To use this spreadsheet, follow these instructions:
+Voter’s Edge has created an [Excel spreadsheet](https://s3-us-west-2.amazonaws.com/ve-resources/URL-Address+Tool.xlsx) to make this process easier and to allow you to quickly generate large numbers of unique, address-specific URLs. To use this spreadsheet, follow these instructions:
 
-Select the tab for your state (currently CA, IL, or NY) at the bottom of the Excel spreadsheet.
-Enter an address in the first four columns: 
-Example address: 2119 Stanbridge Avenue, Long Beach, CA 90815
-Street_Number: This is number of the house or building (2119 from the example above)
-Street_1: This is the name of the street (Stanbridge from the example above)
-Street_2: This is the type of street (Avenue from the example above)
-Note: You may enter this either as “Ave”, “Ave.” or “Avenue” and it will work.
-Zip: This is the zip code (90815 from the example above)
-Click the link that appears in the column labeled URL, or copy and paste it.
+ 1. Select the tab for your state (currently CA, IL, or NY) at the bottom of the Excel spreadsheet.
+ 2. Enter an address in the first four columns: 
+
+ a. **Example address:** 2119 Stanbridge Avenue, Long Beach, CA 90815
+
+ b. **Street_Number:** This is number of the house or building (2119 from the example above)
+
+ c. **Street_1:** This is the name of the street (Stanbridge from the example above)
+
+ d. **Street_2:** This is the type of street (Avenue from the example above)
+**_Note:_** You may enter this either as “Ave”, “Ave.” or “Avenue” and it will work.
+
+ e. **Zip:** This is the zip code (90815 from the example above)
+
+ 3. Click the link that appears in the column labeled URL, or copy and paste it.
 
 **Zip Code Lookup**
+
 The URL structure for a zip code-only search is the same as for an address search, but the address information is left blank.
 
-You can also use the Excel spreadsheet to generate a URL for a zip code-only ballot search. Simply follow the same instructions as above, but leave the first three fields blank (i.e., only fill in the Zip field).
+You can also use the [Excel spreadsheet](https://s3-us-west-2.amazonaws.com/ve-resources/URL-Address+Tool.xlsx) to generate a URL for a zip code-only ballot search. Simply follow the same instructions as above, but leave the first three fields blank (i.e., only fill in the Zip field).
 
 ## For Developers: Access our API
 
