@@ -55,7 +55,7 @@ Each zip file contains:
 - PNG - Medium (White Background) 1200 x 1200  
 - PNG - Large (White Background) 1600 x 1600  
 
-These logos can be used as buttons that link your users to [our homepage](http://votersedge.org/en/ca).  
+These logos can be used as buttons that link your users to [our homepage](http://votersedge.org/en/il).  
 
 **Share a custom link.**  
 
