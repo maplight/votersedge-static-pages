@@ -2,9 +2,6 @@
 title: Resources
 published: true
 ---
-
-# Resources
-
 ## Create Your Own Guide: Set up a version of Voter’s Edge for your organization
 
 An easy way for organizations to partner with Voter’s Edge is to request a subdomain. A subdomain is a complete and co-branded version of the voter guide that can be customized with a unique URL, title, color scheme, and your organization’s logo. If you would like to request a subdomain for your website, please ‘[Contact Us](http://votersedge.org/en/root/feedback)’ for more information.
