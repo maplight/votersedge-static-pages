@@ -70,8 +70,7 @@ Voter’s Edge New York has created an [Excel spreadsheet](https://s3-us-west-2.
   a. **Example address:** 1000 5th Avenue, New York, NY 10028  
   b. **Street_Number:** This is number of the house or building (1000 from the example above)  
   c. **Street_1:** This is the name of the street (5th from the example above)  
-  d. **Street_2:** This is the type of street (Avenue from the example above)  
-    - Note: You may enter this either as “Ave”, “Ave.” or “Avenue” and it will work.  
+  d. **Street_2:** This is the type of street (Avenue from the example above) _**Note:**_ You may enter this either as “Ave”, “Ave.” or “Avenue” and it will work.  
   e. **Zip:** This is the zip code (10028 from the example above)  
  3. Click the link that appears in the column labeled URL, or copy and paste it.
 
