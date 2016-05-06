@@ -82,6 +82,6 @@ You can also use the [Excel spreadsheet](https://s3-us-west-2.amazonaws.com/ve-r
 
 ## For Developers: Access our API  
 
-Developers can use our API to access our data and integrate it into their own tools and websites. Check out our API [documentation here](https://gist.github.com/maplight/3ed07b3e51f3f4b9f66f1fc596d3e572) and ‘[Contact Us](http://votersedge.org/en/ca/feedback)’ below to request an API key.  
+Developers can use our API to access our data and integrate it into their own tools and websites. Check out our API [documentation here](https://gist.github.com/maplight/3ed07b3e51f3f4b9f66f1fc596d3e572) and ‘[Contact Us](http://votersedge.org/en/il/feedback)’ below to request an API key.  
 
 **Note:** Data accessed from the API cannot be used by candidates, political parties, or PACs, nor by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](https://www.irs.gov/Charities-&-Non-Profits/Charitable-Organizations/The-Restriction-of-Political-Campaign-Intervention-by-Section-501(c)(3)-Tax-Exempt-Organizations).  
