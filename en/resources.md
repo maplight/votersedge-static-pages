@@ -9,7 +9,7 @@ published: true
 
 An easy way for organizations to partner with Voter’s Edge is to request a subdomain. A subdomain is a complete and co-branded version of the voter guide that can be customized with a unique URL, title, color scheme, and your organization’s logo. If you would like to request a subdomain for your website, please ‘[Contact Us](http://votersedge.org/en/root/feedback)’ for more information.
 
-_**Note:** Subdomains cannot be used by candidates, political parties, or PACs, nor by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](https://www.irs.gov/Charities-&-Non-Profits/Charitable-Organizations/The-Restriction-of-Political-Campaign-Intervention-by-Section-501(c)(3)-Tax-Exempt-Organizations)._
+_**Note:** Subdomains cannot be used by candidates, political parties, or PACs, nor by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](http://1.usa.gov/1lvMCT3)._
 
 ## Engage Voters: Share, promote, or embed
 
@@ -21,7 +21,7 @@ To embed this tool, just copy and paste the “iframe...” HTML code into your 
 
 **By using this tool, you agree to the following statement:**
 
-“I agree that this will not be used by a candidate, political party, or PAC, nor will it be used by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](https://www.irs.gov/Charities-&-Non-Profits/Charitable-Organizations/The-Restriction-of-Political-Campaign-Intervention-by-Section-501(c)(3)-Tax-Exempt-Organizations).”
+“I agree that this will not be used by a candidate, political party, or PAC, nor will it be used by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](http://1.usa.gov/1lvMCT3).”
 
 **240x Wide**
 
@@ -109,7 +109,7 @@ You can also use the [Excel spreadsheet](https://s3-us-west-2.amazonaws.com/ve-r
 
 ## For Developers: Access our API
 
-Developers can use our API to access our data and integrate it into their own tools and websites. Check out our API documentation here and ‘Contact Us’ below to request an API key. 
+Developers can use our API to access our data and integrate it into their own tools and websites. Check out our API [documentation here](https://gist.github.com/maplight/3ed07b3e51f3f4b9f66f1fc596d3e572) and ‘[Contact Us](http://votersedge.org/en/root/feedback)’ below to request an API key. 
 
-_**Note:** Data accessed from the API cannot be used by candidates, political parties, or PACs, nor by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](https://www.irs.gov/Charities-&-Non-Profits/Charitable-Organizations/The-Restriction-of-Political-Campaign-Intervention-by-Section-501(c)(3)-Tax-Exempt-Organizations)._
+_**Note:** Data accessed from the API cannot be used by candidates, political parties, or PACs, nor by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](http://1.usa.gov/1lvMCT3)._
 
