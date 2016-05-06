@@ -7,7 +7,7 @@ published: true
 
 An easy way for organizations to partner with Voter’s Edge California is to request a subdomain. A subdomain is a complete and co-branded version of the voter guide that can be customized with a unique URL, title, color scheme, and your organization’s logo. If you would like to request a subdomain for your website, please ‘[Contact Us](http://votersedge.org/en/ca/feedback)’ for more information.  
 
-Note: Subdomains cannot be used by candidates, political parties, or PACs, nor by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](https://www.irs.gov/Charities-&-Non-Profits/Charitable-Organizations/The-Restriction-of-Political-Campaign-Intervention-by-Section-501(c)(3)-Tax-Exempt-Organizations).  
+Note: Subdomains cannot be used by candidates, political parties, or PACs, nor by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](http://1.usa.gov/1lvMCT3).  
 
 ## Engage Voters: Share, promote, or embed  
 
