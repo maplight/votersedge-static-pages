@@ -43,7 +43,7 @@ By using this tool, you agree to the following statement:
 
 Please feel free to download our logo, which can be embedded on your website as a way to link to Voter’s Edge California.  
 
-The logo is available in various sizes, background colors, and file types. To download a zip file containing the Voter’s Edge California logo, [click here](https://docs.google.com/document/d/1HmQPPOEpsDKWNgOpFpE6jSUZPDK7wJNsJFDBiR-D5PA/edit?ts=572bda7c).  
+The logo is available in various sizes, background colors, and file types. To download a zip file containing the Voter’s Edge California logo, [click here](https://s3-us-west-2.amazonaws.com/ve-resources/Voter%27s+Edge+California.zip).  
 
 Each zip file contains:  
 - EPS - Clear Background  
