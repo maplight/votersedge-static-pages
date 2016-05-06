@@ -14,10 +14,10 @@ Note: Subdomains cannot be used by candidates, political parties, or PACs, nor b
 **Embed our ballot lookup tool on your website.**  
 Easily embed our ballot lookup tool on your website by using the code below. This tool will allow users on your website to enter their address and then have their ballot results open in a new tab, where they can then learn about candidates and ballot measures and get answers to important questions about upcoming elections.  
 
-To embed this tool, just copy and paste the “<iframe...” HTML code into your site. The sizes displayed below are being used as common examples, but you may adjust the height and width of the tool in the HTML code before embedding it on your site.  
+To embed this tool, just copy and paste the “iframe...” HTML code into your site. The sizes displayed below are being used as common examples, but you may adjust the height and width of the tool in the HTML code before embedding it on your site.  
 
 By using this tool, you agree to the following statement:  
-> “I agree that this will not be used by a candidate, political party, or PAC, nor will it be used by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](http://1.usa.gov/1lvMCT3).”  
+“I agree that this will not be used by a candidate, political party, or PAC, nor will it be used by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](http://1.usa.gov/1lvMCT3).”  
 
 **240x Wide**  
 [WIDGET PREVIEW]  
