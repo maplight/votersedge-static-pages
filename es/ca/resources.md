@@ -2,13 +2,14 @@
 title: Resources
 published: true
 ---
-
+<a id="create-guide"></a>
 ## Create Your Own Guide: Set up a version of Voter’s Edge California for your organization  
 
 An easy way for organizations to partner with Voter’s Edge California is to request a subdomain. A subdomain is a complete and co-branded version of the voter guide that can be customized with a unique URL, title, color scheme, and your organization’s logo. If you would like to request a subdomain for your website, please ‘[Contact Us](http://votersedge.org/en/ca/feedback)’ for more information.  
 
 Note: Subdomains cannot be used by candidates, political parties, or PACs, nor by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](http://1.usa.gov/1lvMCT3).  
 
+<a id="engage-voters"></a>
 ## Engage Voters: Share, promote, or embed  
 
 **Embed our ballot lookup tool on your website.**  
@@ -19,25 +20,7 @@ To embed this tool, just copy and paste the “iframe...” HTML code into your 
 By using this tool, you agree to the following statement:  
 “I agree that this will not be used by a candidate, political party, or PAC, nor will it be used by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](http://1.usa.gov/1lvMCT3).”  
 
-**240x Wide**  
-[WIDGET PREVIEW]  
-**Embed This Tool**  
-[HTML CODE]  
-
-**300x Wide**  
-[WIDGET PREVIEW]
-**Embed This Tool**  
-[HTML CODE]  
-
-**480x Wide**  
-[WIDGET PREVIEW]  
-**Embed This Tool**  
-[HTML CODE]  
-
-**600x Wide**  
-[WIDGET PREVIEW]  
-**Embed This Tool**  
-[HTML CODE]  
+<div id="address-widgets"></div>
 
 **Embed our logo on your website.**  
 
@@ -66,7 +49,7 @@ This is a great feature for organizations that do bulk mailings to larger groups
 **Address Lookup**  
 Voter’s Edge California has created an [Excel spreadsheet](https://s3-us-west-2.amazonaws.com/ve-resources/URL-Address+Tool.xlsx) to make this process easier and to allow you to quickly generate large numbers of unique, address-specific URLs. To use this spreadsheet, follow these instructions:  
 
- 1. Select the “CA” tab at the bottom of the Excel spreadsheet.  
+ 1. Select the “CA” tab at the bottom of the Excel spreadsheet. 
  
  2. Enter an address in the first four columns:  
  
@@ -83,6 +66,7 @@ The URL structure for a zip code-only search is the same as for an address searc
 
 You can also use the [Excel spreadsheet](https://s3-us-west-2.amazonaws.com/ve-resources/URL-Address+Tool.xlsx) to generate a URL for a zip code-only ballot search. Simply follow the same instructions as above, but leave the first three fields blank (i.e., only fill in the **Zip** field).  
 
+<a id="developers"></a>
 ## For Developers: Access our API  
 
 Developers can use our API to access our data and integrate it into their own tools and websites. Check out our API [documentation here](https://gist.github.com/maplight/3ed07b3e51f3f4b9f66f1fc596d3e572) and ‘[Contact Us](http://votersedge.org/en/ca/feedback)’ below to request an API key.  
