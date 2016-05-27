@@ -38,7 +38,7 @@ Please use the images below to link to Voter's Edge New York. The images can be 
 ![Button 3 NY](https://s3-us-west-2.amazonaws.com/ve-resources/Button_3_NewYork.png)
 
 
-You may also download just our logo, which can be embedded on your website as a way to link to Voter’s Edge New York.
+You may also download just our logo, which can be embedded on your website as a way to link to [Voter's Edge New York](http://votersedge.org/ny).
 
 The logo is available in various sizes, background colors, and file types. To download a zip file containing the Voter’s Edge New York logo, [click here](https://s3-us-west-2.amazonaws.com/ve-resources/Voter%27s+Edge+New+York.zip).  
 
