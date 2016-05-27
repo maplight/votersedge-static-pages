@@ -18,15 +18,29 @@ Easily embed our ballot lookup tool on your website by using the code below. Thi
 
 To embed this tool, just copy and paste the “iframe...” HTML code into your site. The sizes displayed below are being used as common examples, but you may adjust the height and width of the tool in the HTML code before embedding it on your site.
 
-**By using this tool, you agree to the following statement:**
+**By using this tool, you agree to the following statement:***
 
 “I agree that this will not be used by a candidate, political party, or PAC, nor will it be used by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](http://1.usa.gov/1lvMCT3).”
 
+
+ ***Note:** While funder rules prohibit the entities above from using the ballot lookup tool, they are still encouraged to [link to Voter's Edge](http://votersedge.org/ca/page/resources#link-to).
+
 <div id="address-widgets"></div>
 
-### Embed our logo on your website.
 
-Please feel free to download our logo, which can be embedded on your website as a way to link to Voter’s Edge.
+<a id="link-to"></a>
+
+**Link to Voter's Edge.**  
+
+Please use the images below to link to Voter's Edge California. The images can be embedded on your site and set up as hyperlinks back to [Voter's Edge](http://votersedge.org).
+
+![Button 1 National](https://s3-us-west-2.amazonaws.com/ve-resources/Button_1_National.png)
+
+![Button 2 National](https://s3-us-west-2.amazonaws.com/ve-resources/Button_2_National.png)
+
+![Button 3 National](https://s3-us-west-2.amazonaws.com/ve-resources/Button_3_National.png)
+
+You may also download just our logo, which can be embedded on your website as a way to link to Voter’s Edge.
 
 The logo is available in various sizes, background colors, and file types. To download a zip file containing the Voter’s Edge logo, choose a version: [California](https://s3-us-west-2.amazonaws.com/ve-resources/Voter%27s+Edge+California.zip), [Illinois](https://s3-us-west-2.amazonaws.com/ve-resources/Voter%27s+Edge+Illinois.zip), [New York](https://s3-us-west-2.amazonaws.com/ve-resources/Voter%27s+Edge+New+York.zip), or [national](https://s3-us-west-2.amazonaws.com/ve-resources/Voter%27s+Edge+National.zip).
 
@@ -78,7 +92,7 @@ You can also use the [Excel spreadsheet](https://s3-us-west-2.amazonaws.com/ve-r
 <a id="developers"></a>
 ## For Developers: Access our API
 
+
 Developers can use our API to access our data and integrate it into their own tools and websites. Check out our API [documentation here](https://gist.github.com/maplight/3ed07b3e51f3f4b9f66f1fc596d3e572) and ‘[Contact Us](http://votersedge.org/en/root/feedback)’ below to request an API key. 
 
 _**Note:** Data accessed from the API cannot be used by candidates, political parties, or PACs, nor by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](http://1.usa.gov/1lvMCT3)._
-
