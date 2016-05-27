@@ -23,7 +23,7 @@ To embed this tool, just copy and paste the “iframe...” HTML code into your 
 “I agree that this will not be used by a candidate, political party, or PAC, nor will it be used by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](http://1.usa.gov/1lvMCT3).”
 
 
- ***Note:** While funder rules prohibit the entities above from using the ballot lookup tool, they are still encouraged to [link to Voter's Edge](http://votersedge.org/ca/page/resources#link-to).
+ ***Note:** While funder rules prohibit the entities above from using the ballot lookup tool, they are still encouraged to [link to Voter's Edge](http://votersedge.org/page/resources#link-to).
 
 <div id="address-widgets"></div>
 
@@ -40,7 +40,7 @@ Please use the images below to link to Voter's Edge California. The images can b
 
 ![Button 3 National](https://s3-us-west-2.amazonaws.com/ve-resources/Button_3_National.png)
 
-You may also download just our logo, which can be embedded on your website as a way to link to Voter’s Edge.
+You may also download just our logo, which can be embedded on your website as a way to link to [Voter's Edge](http://votersedge.org).
 
 The logo is available in various sizes, background colors, and file types. To download a zip file containing the Voter’s Edge logo, choose a version: [California](https://s3-us-west-2.amazonaws.com/ve-resources/Voter%27s+Edge+California.zip), [Illinois](https://s3-us-west-2.amazonaws.com/ve-resources/Voter%27s+Edge+Illinois.zip), [New York](https://s3-us-west-2.amazonaws.com/ve-resources/Voter%27s+Edge+New+York.zip), or [national](https://s3-us-west-2.amazonaws.com/ve-resources/Voter%27s+Edge+National.zip).
 
