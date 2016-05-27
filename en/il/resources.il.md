@@ -38,7 +38,7 @@ Please use the images below to link to Voter's Edge Illinois. The images can be 
 ![Button 3 IL](https://s3-us-west-2.amazonaws.com/ve-resources/Button_3_Illinois.png)
 
 
-You may also download just our logo, which can be embedded on your website as a way to link to Voter’s Edge Illinois.
+You may also download just our logo, which can be embedded on your website as a way to link to [Voter's Edge Illinois](http://votersedge.org/il).
 
 The logo is available in various sizes, background colors, and file types. To download a zip file containing the Voter’s Edge Illinois logo, [click here](https://s3-us-west-2.amazonaws.com/ve-resources/Voter%27s+Edge+Illinois.zip).  
 
