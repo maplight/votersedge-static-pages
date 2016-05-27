@@ -17,7 +17,7 @@ Easily embed our ballot lookup tool on your website by using the code below. Thi
 
 To embed this tool, just copy and paste the “iframe...” HTML code into your site. The sizes displayed below are being used as common examples, but you may adjust the height and width of the tool in the HTML code before embedding it on your site.  
 
-By using this tool, you agree to the following statement:*  
+**By using this tool, you agree to the following statement:***  
 “I agree that this will not be used by a candidate, political party, or PAC, nor will it be used by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](http://1.usa.gov/1lvMCT3).”  
 
  ***Note:** While funder rules prohibit the entities above from using the ballot lookup tool, they are still encouraged to [link to Voter's Edge California](http://votersedge.org/ca/page/resources#link-to).
