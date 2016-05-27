@@ -31,11 +31,11 @@ To embed this tool, just copy and paste the “iframe...” HTML code into your 
 
 Please use the images below to link to Voter's Edge Illinois. The images can be embedded on your site and set up as hyperlinks back to [Voter's Edge Illinois](http://votersedge.org/il).
 
-![Button 1 CA](https://s3-us-west-2.amazonaws.com/ve-resources/Button_1_Illinois.png)
+![Button 1 IL](https://s3-us-west-2.amazonaws.com/ve-resources/Button_1_Illinois.png)
 
-![Button 2 CA](https://s3-us-west-2.amazonaws.com/ve-resources/Button_2_Illinois.png)
+![Button 2 IL](https://s3-us-west-2.amazonaws.com/ve-resources/Button_2_Illinois.png)
 
-![Button 3 CA](https://s3-us-west-2.amazonaws.com/ve-resources/Button_3_Illinois.png)
+![Button 3 IL](https://s3-us-west-2.amazonaws.com/ve-resources/Button_3_Illinois.png)
 
 
 You may also download just our logo, which can be embedded on your website as a way to link to Voter’s Edge Illinois.
