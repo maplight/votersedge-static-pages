@@ -38,7 +38,7 @@ Please use the images below to link to Voter's Edge California. The images can b
 ![Button 3 CA](https://s3-us-west-2.amazonaws.com/ve-resources/Button_3_California.png)
 
 
-You may also download just our logo, which can be embedded on your website as a way to link to Voter’s Edge California.
+You may also download just our logo, which can be embedded on your website as a way to link to [Voter's Edge California](http://votersedge.org/ca).
 
 The logo is available in various sizes, background colors, and file types. To download a zip file containing the Voter’s Edge California logo, [click here](https://s3-us-west-2.amazonaws.com/ve-resources/Voter%27s+Edge+California.zip).  
 
