@@ -51,7 +51,6 @@ Voter’s Edge cuenta con el financiamiento de personas y fundaciones que apoyan
 
 Agradecemos profundamente a las siguientes fundaciones y personas cuyas contribuciones hacen que Voter’s Edge sea posible:
 
-- Anónimo (Voter’s Edge California)
 - Condado de Alameda: Registro electoral (Voter’s Edge California)
 - Fundación Rita Allen 
 - Bright Horizon Fund (Voter’s Edge California)
@@ -82,6 +81,7 @@ Agradecemos profundamente a las siguientes fundaciones y personas cuyas contribu
 - Fondo para la Innovación Cívica de Tides (Voter’s Edge California)
 - Orlin y Onnolee Trapp (Voter’s Edge California)
 - Kathleen Weisenberg (Voter’s Edge California)
+- - Anónimo (Voter’s Edge California)
 
 [¡Únase hoy mismo a estos y otros donantes y apoye a Voter’s Edge!](https://donatenow.networkforgood.org/votersedge)
 
