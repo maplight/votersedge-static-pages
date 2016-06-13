@@ -88,7 +88,6 @@ Voter’s Edge California is funded by individuals and foundations who support o
 
 We are deeply grateful to the following foundations and individuals whose contributions make Voter’s Edge California possible:
 
-- Anonymous
 - Alameda County: Registrar of Voters
 - Rita Allen Foundation (national Voter’s Edge project)
 - Bright Horizon Fund 
@@ -117,6 +116,7 @@ We are deeply grateful to the following foundations and individuals whose contri
 - Tides Civic Innovation Fund
 - Orlin and Onnolee Trapp
 - Kathleen Weisenberg
+- Anonymous  
 
 [Join these and other donors by supporting Voter’s Edge California today!](https://donatenow.networkforgood.org/votersedge)
 
