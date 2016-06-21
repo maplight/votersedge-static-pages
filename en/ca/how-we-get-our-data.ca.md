@@ -15,6 +15,7 @@ Voter’s Edge California is not responsible for the accuracy of the sample ball
 
 Polling locations are sourced directly from the applicable election authorities or supplied by the [Google Civic Information API](https://developers.google.com/civic-information/?hl=en). 
 
+<a id="address-search"></a>
 ### The address search
 
 * Voter’s Edge California uses data provided from state, county, and local election authorities, information from the census database of the U.S. Census Bureau, and the [Google Civic Information API](https://developers.google.com/civic-information/?hl=en) to return ballot data for a specific address.
