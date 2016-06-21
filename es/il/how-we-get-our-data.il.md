@@ -11,11 +11,11 @@ Las autoridades electorales oficiales para el estado, los condados y otras local
  
 Voter’s Edge Illinois no se hace responsable por la precisión de los datos sobre la muestra de boleta electoral ni la ubicación de los lugares de votación. Su autoridad electoral local sigue siendo la única fuente autorizada de información respecto al contenido de la boleta electoral y la ubicación de los lugares de votación. Si cree que los datos de la boleta electoral o los lugares de votación son incorrectos, [comuníquese con nosotros](www.votersedge.org/en/il/feedback) para reportar el problema.
 
-<a id="address-search"></a> 
 ## Ubicación de los lugares de votación
  
 Las ubicaciones de los lugares de votación se obtienen directamente de las respectivas autoridades electorales o a través de la [interfaz de programación de aplicaciones (Application Programming Interface, API) de información cívica de Google](https://developers.google.com/civic-information/?hl=en). 
- 
+
+<a id="address-search"></a>  
 ## Búsqueda por dirección
  
 * Voter’s Edge Illinois usa datos proporcionados por el estado y las autoridades electorales locales y la [API de información cívica de Google](https://developers.google.com/civic-information/?hl=en) con el fin de mostrar los datos de la boleta electoral para una dirección específica.
