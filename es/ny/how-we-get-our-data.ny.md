@@ -13,7 +13,8 @@ Voter’s Edge New York is not responsible for the accuracy of the sample ballot
 ## Polling locations
  
 Polling locations are sourced directly from the applicable election authorities or supplied by the [Google Civic Information API](https://developers.google.com/civic-information/?hl=en). 
- 
+
+<a id="address-search"></a>
 ## The address search
  
 * Voter’s Edge New York uses data provided by state and local election authorities and the [Google Civic Information API](https://developers.google.com/civic-information/?hl=en) to return ballot data for a specific address.
