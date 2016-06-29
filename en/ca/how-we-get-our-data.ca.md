@@ -9,7 +9,7 @@ The data that appears on Voter’s Edge California comes from a variety of sourc
 
 The official election authorities for the state, counties, and other localities are the ultimate authority on what contests, candidates, and ballot measures will appear on the ballot. This data is either directly provided to us by the election authorities or collected from them by the Voter’s Edge California team, which includes volunteers associated with the League of Women Voters of California Education Fund.
 
-Voter’s Edge California is not responsible for the accuracy of the sample ballot and polling location data. Your local election authority remains the sole authoritative source for information regarding the content of ballot and polling place location. If you believe that either the polling place or ballot data is inaccurate, please [Contact Us](www.votersedge.org/en/ca/feedback) to report the problem.
+Voter’s Edge California is not responsible for the accuracy of the sample ballot and polling location data. Your local election authority remains the sole authoritative source for information regarding the content of ballot and polling place location. If you believe that either the polling place or ballot data is inaccurate, please [Contact Us](www.votersedge.org/en/ca/contact-us) to report the problem.
 
 ### Polling locations
 

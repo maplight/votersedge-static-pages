@@ -20,4 +20,5 @@ from the Noun Project
 * <a href="https://thenounproject.com/search/?q=donation+&i=174541">Donate</a> - Creative Commons, Created by Gregor Črešnar
 * <a href="https://thenounproject.com/search/?q=Contribution&i=32571">Money Collection</a> - Created by Luis Prado from the Noun Project
 * <a href="https://thenounproject.com/search/?q=group+of+people&i=158688">Group</a> (Adapted) Created by Gregory Radek from the Noun Project
+* <a href="https://thenounproject.com/kevinlao.lo/collection/writing/?oq=write-in&cidx=1&i=108223">Writing</a> Created by Kevin Augustine LO from the Noun Project
 

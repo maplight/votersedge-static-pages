@@ -28,7 +28,7 @@ For more information visit Voter’s Edge California Voting Information.
 We currently cover all federal and state contests on the ballot in California and we offer local election data covering more than 90% of California voters. To fully support a county we need data from your local elections office and volunteer team members to get data online. 
 
 
-To volunteer and help bring local coverage to your county, you don’t need to be an elections expert and we are always looking for new volunteers! If you would like to help, [Contact Us](www.votersedge.org/ca/ballot/election/area/en/ca/feedback) to learn more.
+To volunteer and help bring local coverage to your county, you don’t need to be an elections expert and we are always looking for new volunteers! If you would like to help, [Contact Us](www.votersedge.org/ca/ballot/election/area/en/ca/contact-us) to learn more.
 
 
 Currently Voter’s Edge California covers local elections in these counties: Alameda, Butte, Contra Costa, El Dorado, Fresno, Humboldt, Imperial, Kern, Los Angeles, Marin, Mendocino, Monterey, Napa, Orange, Placer, Riverside, Sacramento, San Bernardino, San Diego, San Francisco, San Joaquin, San Luis Obispo, San Mateo, Santa Barbara, Santa Clara, Santa Cruz, Solano, Sonoma, Stanislaus, Tulare, and Ventura.
@@ -93,10 +93,10 @@ Please visit our section on [How we get our data](www.votersedge.org/ca/page/how
 ### 10. I keyed in my address and zip code, but you didn't find my ballot. Why not? 
 
 
-If you live in a covered county in California then be sure to [Contact Us](www.votersedge.org/ca/ballot/election/area/en/ca/feedback) and report this problem. You will need to give us your street address and zip code for us to be able to diagnose the problem. 
+If you live in a covered county in California then be sure to [Contact Us](www.votersedge.org/ca/ballot/election/area/en/ca/contact-us) and report this problem. You will need to give us your street address and zip code for us to be able to diagnose the problem. 
 
 
-If you live in county in California that is not being covered, we do have information on the "upper ticket" contests and candidates for statewide elections, but not your local contests. [Contact Us](www.votersedge.org/ca/ballot/election/area/en/ca/feedback) if you zip code was not recognized. 
+If you live in county in California that is not being covered, we do have information on the "upper ticket" contests and candidates for statewide elections, but not your local contests. [Contact Us](www.votersedge.org/ca/ballot/election/area/en/ca/contact-us) if you zip code was not recognized. 
 
 
 ### 11. Does Voter’s Edge California give recommendations as to how to vote on ballot measures?

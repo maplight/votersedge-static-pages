@@ -9,7 +9,7 @@ Los datos que aparecen en Voter’s Edge California provienen de una variedad de
 
 Las autoridades electorales oficiales para el estado, los condados y otras localidades son la máxima autoridad que decide las contiendas, los candidatos y las iniciativas de ley que aparecerán en la boleta electoral. Obtenemos estos datos ya sea directamente de las autoridades electorales o el equipo de Voter’s Edge California los recopila de ellas; este equipo incluye voluntarios asociados con la League of Women Voters of California Education Fund.
 
-Voter’s Edge California no se hace responsable por la precisión de los datos sobre la muestra de boleta electoral ni la ubicación de los lugares de votación. Su autoridad electoral local sigue siendo la única fuente autorizada de información respecto al contenido de la boleta electoral y la ubicación de los lugares de votación. Si cree que los datos de la boleta electoral o los lugares de votación son incorrectos, [comuníquese con nosotros](www.votersedge.org/en/ca/feedback) para reportar el problema.
+Voter’s Edge California no se hace responsable por la precisión de los datos sobre la muestra de boleta electoral ni la ubicación de los lugares de votación. Su autoridad electoral local sigue siendo la única fuente autorizada de información respecto al contenido de la boleta electoral y la ubicación de los lugares de votación. Si cree que los datos de la boleta electoral o los lugares de votación son incorrectos, [comuníquese con nosotros](www.votersedge.org/en/ca/contact-us) para reportar el problema.
 
 ## Ubicación de los lugares de votación
 

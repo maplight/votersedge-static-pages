@@ -5,7 +5,7 @@ published: true
 <a id="create-guide"></a>
 ## Create Your Own Guide: Set up a version of Voter’s Edge for your organization
 
-An easy way for organizations to partner with Voter’s Edge is to request a subdomain. A subdomain is a complete and co-branded version of the voter guide that can be customized with a unique URL, title, color scheme, and your organization’s logo. If you would like to request a subdomain for your website, please ‘[Contact Us](http://votersedge.org/en/root/feedback)’ for more information.
+An easy way for organizations to partner with Voter’s Edge is to request a subdomain. A subdomain is a complete and co-branded version of the voter guide that can be customized with a unique URL, title, color scheme, and your organization’s logo. If you would like to request a subdomain for your website, please ‘[Contact Us](http://votersedge.org/en/root/contact-us)’ for more information.
 
 _**Note:** Subdomains cannot be used by candidates, political parties, or PACs, nor by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](http://1.usa.gov/1lvMCT3)._
 
@@ -93,6 +93,6 @@ You can also use the [Excel spreadsheet](https://s3-us-west-2.amazonaws.com/ve-r
 ## For Developers: Access our API
 
 
-Developers can use our API to access our data and integrate it into their own tools and websites. Check out our API [documentation here](https://gist.github.com/maplight/3ed07b3e51f3f4b9f66f1fc596d3e572) and ‘[Contact Us](http://votersedge.org/en/root/feedback)’ below to request an API key. 
+Developers can use our API to access our data and integrate it into their own tools and websites. Check out our API [documentation here](https://gist.github.com/maplight/3ed07b3e51f3f4b9f66f1fc596d3e572) and ‘[Contact Us](http://votersedge.org/en/root/contact-us)’ below to request an API key. 
 
 _**Note:** Data accessed from the API cannot be used by candidates, political parties, or PACs, nor by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](http://1.usa.gov/1lvMCT3)._
