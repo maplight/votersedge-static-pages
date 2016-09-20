@@ -72,6 +72,10 @@ _**This video is focused on my policy positions and/or my experience, not my opp
 _**I accept responsibility for the truth and accuracy of the content of this video. I agree that the video may be published for this election and retained in a permanent public archive.**_
  
 Videos submitted by candidates are not hosted on Voter’s Edge New York and are not reviewed prior to publishing. If you observe a video on Voter’s Edge New York that you believe violates the terms outlined above, please let us know.
+
+### Candidate ordering
+
+On pages with all candidates in a particular race, candidates are ordered based on whether they've filled out their Voter's Edge New York profile. They are grouped into three sections, and the ordering of the candidates is random within each section. Section one contains all candidates who have filled out their profile, section two contains candidates who will appear on the ballot and who have not filled out their profile, and the last section contains write-in candidates who have not filled out their profile.
  
 ## Measure data
  
