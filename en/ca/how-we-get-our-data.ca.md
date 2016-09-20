@@ -78,6 +78,10 @@ _**I accept responsibility for the truth and accuracy of the content of this vid
 
 Videos submitted by candidates are not hosted on Voter’s Edge California and are not reviewed prior to publishing. If you observe a video on Voter’s Edge California that you believe violates the terms outlined above, please let us know.
 
+### Candidate ordering
+
+On pages with all candidates in a particular race, candidates are ordered based on whether they've filled out their Voter's Edge California profile. They are grouped into three sections, and the ordering of the candidates is random within each section. Section one contains all candidates who have filled out their profile, section two contains candidates who will appear on the ballot and who have not filled out their profile, and the last section contains write-in candidates who have not filled out their profile.
+
 ### Measure data
 
 Voter’s Edge California provides voters with a variety of valuable information on ballot measures in California. Much of the information comes from official government sources --- either the election authority, city auditor, budget office, legislative analyst's offices, or similar entities. Additional information comes from either the League of Women Voters of California Education Fund or local League of Women Voters’ Pros & Cons documents and Easy Voter Guides.
