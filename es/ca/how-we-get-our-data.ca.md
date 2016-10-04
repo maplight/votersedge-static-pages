@@ -109,6 +109,10 @@ Los datos financieros de la campaña del candidato que están disponibles en Vot
 
 **Nota:** Es posible que haya un retraso con los datos financieros de las campañas federales entre el momento en el que la FEC publique las cifras de resúmenes presentados recientemente y el momento en el que las contribuciones individuales se agreguen a sus datos masivos. Como resultado, es posible que los montos totales en las tres secciones inferiores ("¿Quién contribuyó?", "¿Quién dio más dinero?", "Las mayores contribuciones por estado") no coincidan con los totales de las secciones superiores ("Contribuciones al candidato", "¿De cuánto fueron las contribuciones?").
 
+#### Orden de los candidatos  
+
+En las páginas con todos los candidatos en una contienda particular, el orden de los candidatos se basa en si llenaron o no su perfil [estatal] en Voter's Edge. Están agrupados en tres secciones y el orden de los candidatos es aleatorio dentro de cada sección. La sección uno contiene a todos los candidatos que llenaron su perfil, la sección dos contiene a los candidatos que aparecerán en la boleta electoral y que no han llenado su perfil, y la última sección contiene a los candidatos por escrito que no han llenado su perfil.
+
 ### Datos de iniciativas de ley
 Los datos financieros de las campañas de iniciativas de ley en la boleta electoral de California consisten en las contribuciones que se hayan hecho a los comités constituidos principalmente para apoyar u oponerse a las iniciativas de ley calificadas para aparecer en la boleta electoral del estado, de acuerdo con la información que haya publicado la Secretaría del Estado de California. Si desea conocer las normas que rigen a los comités de iniciativas de ley en la boleta electoral, consulte la [Comisión de Prácticas Políticas Justas de California (California Fair Political Practices Commission, FPPC)] (http://www.fppc.ca.gov/) para ver las pautas más recientes.
 
