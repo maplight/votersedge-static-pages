@@ -1,5 +1,5 @@
 ---
-title: Resources
+title: Recursos
 published: true
 ---
 <a id="create-guide"></a>
