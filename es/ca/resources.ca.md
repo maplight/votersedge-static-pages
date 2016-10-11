@@ -3,72 +3,74 @@ title: Resources
 published: true
 ---
 <a id="create-guide"></a>
-## Create Your Own Guide: Set up a version of Voter’s Edge California for your organization  
+## Cree su propia guía: configure una versión de Voter’s Edge California para su organización  
 
-An easy way for organizations to partner with Voter’s Edge California is to request a subdomain. A subdomain is a complete and co-branded version of the voter guide that can be customized with a unique URL, title, color scheme, and your organization’s logo. If you would like to request a subdomain for your website, please ‘[Contact Us](http://votersedge.org/en/ca/feedback)’ for more information.  
+Una manera fácil de que las organizaciones formen una sociedad con Voter’s Edge es solicitar un subdominio. Un subdominio es una versión completa y de marca compartida de la guía para el elector que se puede personalizar con una URL única, el título, los colores y el logotipo de su organización. Si desea solicitar un subdominio para su sitio web, ‘Contáctenos’ para obtener más información.  
 
-Note: Subdomains cannot be used by candidates, political parties, or PACs, nor by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](http://1.usa.gov/1lvMCT3).  
+Nota: Los subdominios no pueden ser usados por los candidatos, los partidos políticos, los comités de acción política (Political Action Committee, PAC) ni por ninguna organización para intentar influenciar el resultado de una elección o para participar en otras actividades políticas que estén prohibidas según se describe en el título 26, sección 501(c)(3) del Código de Estados Unidos (United States Code, USC) del Servicio Interno de Ingresos (Internal Revenue Service, ISR). [IRS code 26 USC 501(c)(3)](http://1.usa.gov/1lvMCT3).  
 
 <a id="engage-voters"></a>
-## Engage Voters: Share, promote, or embed  
+## Haga que los electores participen: comparta, promueva o integre  
 
-**Embed our ballot lookup tool on your website.**  
-Easily embed our ballot lookup tool on your website by using the code below. This tool will allow users on your website to enter their address and then have their ballot results open in a new tab, where they can then learn about candidates and ballot measures and get answers to important questions about upcoming elections.  
+**Integre en su sitio web nuestra herramienta de búsqueda de boleta electoral.**  
+Integre fácilmente en su sitio web nuestra herramienta de búsqueda de boleta electoral introduciendo el código que se muestra a continuación. Esta herramienta permitirá a los usuarios de su sitio web ingresar su dirección para que se abra una nueva pestaña con sus resultados de boletas electorales, y así podrán tener información sobre los candidatos y las iniciativas de ley en las boletas electorales y obtener respuestas a preguntas importantes sobre las próximas elecciones.  
 
-To embed this tool, just copy and paste the “iframe...” HTML code into your site. The sizes displayed below are being used as common examples, but you may adjust the height and width of the tool in the HTML code before embedding it on your site.  
+Para integrar esta herramienta, solamente copie y pegue el código HTML del “iframe...” en su sitio web. Los tamaños que se muestran a continuación se usan como ejemplos comunes, pero usted puede ajustar la altura y el ancho de la herramienta en el código HTML antes de integrarla en su sitio.  
 
-By using this tool, you agree to the following statement:  
-“I agree that this will not be used by a candidate, political party, or PAC, nor will it be used by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](http://1.usa.gov/1lvMCT3).”  
+Al utilizar esta herramienta, está de acuerdo con la siguiente declaración:  
+
+“Estoy de acuerdo en que los subdominios no pueden ser usados por los candidatos, los partidos políticos, los PAC ni por ninguna organización para intentar influenciar el resultado de una elección o para participar en otras actividades políticas que estén prohibidas según se describe en el título 26, sección 501(c)(3) del USC del ISR”. [IRS code 26 USC 501(c)(3)](http://1.usa.gov/1lvMCT3).”  
 
 <div id="address-widgets"></div>
 
-**Embed our logo on your website.**  
+**Integrar nuestro logo en su sitio web**  
 
-Please feel free to download our logo, which can be embedded on your website as a way to link to Voter’s Edge California.  
+Siéntase libre de descargar nuestro logotipo, el cual se puede integrar en su sitio web para crear un vínculo hacia Voter's Edge California.  
 
-The logo is available in various sizes, background colors, and file types. To download a zip file containing the Voter’s Edge California logo, [click here](https://s3-us-west-2.amazonaws.com/ve-resources/Voter%27s+Edge+California.zip).  
+El logotipo se encuentra disponible en varios tamaños, colores de fondo y tipos de archivos. Para descargar una carpeta zip con el logotipo de Voter’s Edge, [haz clic aquí](https://s3-us-west-2.amazonaws.com/ve-resources/Voter%27s+Edge+California.zip).  
 
-Each zip file contains:  
-- EPS - Clear Background  
-- EPS - White Background  
-- PNG - Small (Clear Background), 800 x 800  
-- PNG - Medium (Clear Background) 1200 x 1200  
-- PNG - Large (Clear Background) 1600 x 1600  
-- PNG - Small (White Background) 800 x 800  
-- PNG - Medium (White Background) 1200 x 1200  
-- PNG - Large (White Background) 1600 x 1600  
+Cada carpeta zip contiene:
 
-These logos can be used as buttons that link your users to [our homepage](http://votersedge.org/en/ca).  
+EPS - Fondo claro  
+EPS - Fondo blanco  
+PNG - Chico (fondo claro), 800 x 800  
+PNG - Mediano (fondo claro) 1200 x 1200  
+PNG - Grande (fondo claro) 1600 x 1600  
+PNG - Chico (fondo blanco) 800 x 800  
+PNG - Mediano (fondo blanco) 1200 x 1200  
+PNG - Grande (fondo blanco) 1600 x 1600  
 
-**Share a custom link.**  
+Estos logotipos se pueden utilizar como botones que dirijan a sus usuarios hacia a [nuestra página de inicio](http://votersedge.org/en/ca).  
 
-You can bypass the Voter’s Edge California homepage entirely by entering a street address directly into a URL that will take you right to the results. Use the structure described below to generate a URL that will take you to the results for any street address or zip code.  
+**Comparta un vínculo personalizado**  
 
-This is a great feature for organizations that do bulk mailings to larger groups of people for whom they have addresses. The tool allows you to send your subscribers a customized link based on their street address.  
+Puede saltarse por completo la página de inicio de Voter’s Edge al ingresar una dirección directamente en una URL que lo direccionará de inmediato a los resultados. Utilice la estructura descrita a continuación para generar una URL que lo direccionará a los resultados para cualquier calle o código postal.  
 
-**Address Lookup**  
-Voter’s Edge California has created an [Excel spreadsheet](https://s3-us-west-2.amazonaws.com/ve-resources/URL-Address+Tool.xlsx) to make this process easier and to allow you to quickly generate large numbers of unique, address-specific URLs. To use this spreadsheet, follow these instructions:  
+Esta es una excelente función para las organizaciones que envían correos masivos a grupos más grandes de personas de quienes tienen sus direcciones. La herramienta le permite enviar a sus suscriptores un vínculo personalizado con base en sus direcciones.  
 
- 1. Select the “CA” tab at the bottom of the Excel spreadsheet. 
+**Búsqueda de dirección**  
+Voter’s Edge ha creado [una hoja de cálculo de Excel](https://s3-us-west-2.amazonaws.com/ve-resources/URL-Address+Tool.xlsx) para facilitar este proceso y permitirle generar rápidamente grandes números de URL únicas y específicas para cada dirección. Para utilizar esta hoja de cálculo, siga estas instrucciones:  
+
+ 1. Seleccione la pestaña "CA" en la parte inferior de la hoja de cálculo de Excel. 
  
- 2. Enter an address in the first four columns:  
+ 2. Ingrese una dirección en las primeras cuatro columnas:  
  
-  a. **Example address:** 2119 Stanbridge Avenue, Long Beach, CA 90815  
-  b. **Street_Number:** This is number of the house or building (2119 from the example above)  
-  c. **Street_1:** This is the name of the street (Stanbridge from the example above)  
-  d. **Street_2:** This is the type of street (Avenue from the example above) _**Note:**_ You may enter this either as “Ave”, “Ave.” or “Avenue” and it will work.  
-  e. **Zip:** This is the zip code (90815 from the example above)  
+  a. **Dirección de ejemplo:** 2119 Stanbridge Avenue, Long Beach, CA 90815  
+  b. **Street_Number (número de calle):** se debe indicar el número de la casa o el edificio ("2119" en el ejemplo mencionado).  
+  c. **Street_1 (calle):** se debe indicar el nombre de la calle ("Stanbridge" en el ejemplo mencionado).  
+  d. **Street_2:** se debe indicar el tipo de vialidad ("Avenue" [avenida] en el ejemplo mencionado). Nota: Puede escribirlo completo o abreviarlo, por ejemplo, “Ave”, “Ave.” o “Avenue” y de cualquier forma funcionará.  
+  e. **Zip (código)** se debe indicar el código postal ("90815" en el ejemplo mencionado).  
   
- 3. Click the link that appears in the column labeled URL, or copy and paste it.
+ 3. Haga clic en el enlace que aparece en la columna de URL o copie y péguelo.
 
-**Zip Code Lookup**  
-The URL structure for a zip code-only search is the same as for an address search, but the address information is left blank.  
+**Búsqueda del código postal:**  
+La estructura de la URL para una búsqueda únicamente por código postal es la misma que para una búsqueda por dirección, pero la información de la dirección se deja en blanco.  
 
-You can also use the [Excel spreadsheet](https://s3-us-west-2.amazonaws.com/ve-resources/URL-Address+Tool.xlsx) to generate a URL for a zip code-only ballot search. Simply follow the same instructions as above, but leave the first three fields blank (i.e., only fill in the **Zip** field).  
+También puede utilizar [la hoja de cálculo de Excel](https://s3-us-west-2.amazonaws.com/ve-resources/URL-Address+Tool.xlsx) para generar una URL para una búsqueda de boleta electoral únicamente por código postal. Simplemente siga las mismas instrucciones mencionadas anteriormente, pero deje en blanco los tres primeros campos (es decir, solamente llene el campo del código postal).  
 
 <a id="developers"></a>
-## For Developers: Access our API  
+## Para los desarrolladores: acceso a nuestra API  
 
-Developers can use our API to access our data and integrate it into their own tools and websites. Check out our API [documentation here](https://gist.github.com/maplight/3ed07b3e51f3f4b9f66f1fc596d3e572) and ‘[Contact Us](http://votersedge.org/en/ca/feedback)’ below to request an API key.  
+Los desarrolladores pueden utilizar nuestra interfaz para la programación de aplicaciones (application programming interface, API) para acceder a nuestros datos e integrarlos en sus propias herramientas y sitios web. Consulte aquí](https://gist.github.com/maplight/3ed07b3e51f3f4b9f66f1fc596d3e572) nuestra documentación de la API y utilice la opción ‘[Contáctenos](http://votersedge.org/en/ca/feedback)’ de abajo para solicitar una clave de la API.  
 
-**Note:** Data accessed from the API cannot be used by candidates, political parties, or PACs, nor by any organization to attempt to influence the outcome of an election or to engage in other prohibited political activities as described in [IRS code 26 USC 501(c)(3)](http://1.usa.gov/1lvMCT3).
+**Nota:** Los datos accedidos desde la API no pueden ser usados por los candidatos, los partidos políticos, los PAC ni por ninguna organización para intentar influenciar el resultado de una elección o para participar en otras actividades políticas que estén prohibidas según se describe en [el título 26, sección 501(c)(3) del USC del ISR](http://1.usa.gov/1lvMCT3).
