@@ -75,7 +75,11 @@ _**Este video se enfoca en mis posturas políticas o en mi experiencia, no en mi
 _**Acepto la responsabilidad por la veracidad y la precisión del contenido de este video. Acepto que el video puede publicarse para esta elección y puede conservarse de manera permanente en el archivo público.**_
  
 Los videos que envían los candidatos no se almacenan en Voter’s Edge Illinois y no se revisan antes de ser publicados. En caso de que observe un video en Voter’s Edge Illinois que considere que infringe los términos que se mencionaron anteriormente, háganoslo saber.
- 
+
+### Orden de los candidatos  
+
+En las páginas con todos los candidatos en una contienda particular, el orden de los candidatos se basa en si llenaron o no su perfil en Voter's Edge Illinois. Están agrupados en tres secciones y el orden de los candidatos es aleatorio dentro de cada sección. La sección uno contiene a todos los candidatos que llenaron su perfil, la sección dos contiene a los candidatos que aparecerán en la boleta electoral y que no han llenado su perfil, y la última sección contiene a los candidatos por escrito que no han llenado su perfil.
+
 ## Datos de iniciativas de ley
  
 Voter’s Edge Illinois proporciona a los electores una variedad de valiosa información sobre las iniciativas de ley en la boleta electoral de Illinois. Gran parte de la información proviene de fuentes gubernamentales oficiales, incluidas las autoridades electorales estatales y locales.

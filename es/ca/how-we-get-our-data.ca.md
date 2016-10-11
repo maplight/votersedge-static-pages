@@ -78,6 +78,10 @@ _**Acepto la responsabilidad por la veracidad y la precisión del contenido de e
 
 Los videos que envían los candidatos no se almacenan en Voter’s Edge California y no se revisan antes de ser publicados. En caso de que observe un video en Voter’s Edge California que considere que infringe los términos que se mencionaron anteriormente, háganoslo saber.
 
+### Orden de los candidatos  
+
+En las páginas con todos los candidatos en una contienda particular, el orden de los candidatos se basa en si llenaron o no su perfil  en Voter's Edge California. Están agrupados en tres secciones y el orden de los candidatos es aleatorio dentro de cada sección. La sección uno contiene a todos los candidatos que llenaron su perfil, la sección dos contiene a los candidatos que aparecerán en la boleta electoral y que no han llenado su perfil, y la última sección contiene a los candidatos por escrito que no han llenado su perfil.
+
 ### Datos de iniciativas de ley
 
 Voter’s Edge California proporciona a los electores una variedad de valiosa información sobre las iniciativas de ley en la boleta electoral de California. La mayoría de la información proviene de fuentes gubernamentales oficiales, ya sea de la autoridad electoral, el auditor de la ciudad, la oficina de presupuesto, las oficinas de analistas legislativos o entidades similares. La información adicional proviene de la League of Women Voters of California Education Fund o de los documentos a favor y en contra de la League of Women Voters local y de la Guías fácil para el votante.
