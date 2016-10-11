@@ -78,7 +78,7 @@ Los videos que envían los candidatos no se almacenan en Voter’s Edge Illinois
 
 ### Orden de los candidatos  
 
-En las páginas con todos los candidatos en una contienda particular, el orden de los candidatos se basa en si llenaron o no su perfil [estatal] en Voter's Edge. Están agrupados en tres secciones y el orden de los candidatos es aleatorio dentro de cada sección. La sección uno contiene a todos los candidatos que llenaron su perfil, la sección dos contiene a los candidatos que aparecerán en la boleta electoral y que no han llenado su perfil, y la última sección contiene a los candidatos por escrito que no han llenado su perfil.
+En las páginas con todos los candidatos en una contienda particular, el orden de los candidatos se basa en si llenaron o no su perfil en Voter's Edge Illinois. Están agrupados en tres secciones y el orden de los candidatos es aleatorio dentro de cada sección. La sección uno contiene a todos los candidatos que llenaron su perfil, la sección dos contiene a los candidatos que aparecerán en la boleta electoral y que no han llenado su perfil, y la última sección contiene a los candidatos por escrito que no han llenado su perfil.
 
 ## Datos de iniciativas de ley
  
