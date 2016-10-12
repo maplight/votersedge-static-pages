@@ -54,7 +54,7 @@ Voter’s Edge ha creado [una hoja de cálculo de Excel](https://s3-us-west-2.am
  1. Seleccione la pestaña "CA" en la parte inferior de la hoja de cálculo de Excel. 
  
  2. Ingrese una dirección en las primeras cuatro columnas:  
- 
+
   a. **Dirección de ejemplo:** 2119 Stanbridge Avenue, Long Beach, CA 90815  
   b. **Street_Number (número de calle):** se debe indicar el número de la casa o el edificio ("2119" en el ejemplo mencionado).  
   c. **Street_1 (calle):** se debe indicar el nombre de la calle ("Stanbridge" en el ejemplo mencionado).  
@@ -71,6 +71,6 @@ También puede utilizar [la hoja de cálculo de Excel](https://s3-us-west-2.amaz
 <a id="developers"></a>
 ## Para los desarrolladores: acceso a nuestra API  
 
-Los desarrolladores pueden utilizar nuestra interfaz para la programación de aplicaciones (application programming interface, API) para acceder a nuestros datos e integrarlos en sus propias herramientas y sitios web. Consulte aquí](https://gist.github.com/maplight/3ed07b3e51f3f4b9f66f1fc596d3e572) nuestra documentación de la API y utilice la opción ‘[Contáctenos](http://votersedge.org/en/ca/feedback)’ de abajo para solicitar una clave de la API.  
+Los desarrolladores pueden utilizar nuestra interfaz para la programación de aplicaciones (application programming interface, API) para acceder a nuestros datos e integrarlos en sus propias herramientas y sitios web. [Consulte aquí](https://gist.github.com/maplight/3ed07b3e51f3f4b9f66f1fc596d3e572) nuestra documentación de la API y utilice la opción '[Contáctenos](http://votersedge.org/en/ca/feedback)' de abajo para solicitar una clave de la API.  
 
 **Nota:** Los datos accedidos desde la API no pueden ser usados por los candidatos, los partidos políticos, los PAC ni por ninguna organización para intentar influenciar el resultado de una elección o para participar en otras actividades políticas que estén prohibidas según se describe en [el título 26, sección 501(c)(3) del USC del ISR](http://1.usa.gov/1lvMCT3).
