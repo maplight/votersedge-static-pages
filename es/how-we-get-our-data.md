@@ -1,9 +1,9 @@
 ---
-title: How we get our data
+title: Cómo obtenemos nuestros datos
 published: true
 ---
-
-The specific types of data, sources, and methodologies used to create Voter’s Edge vary by state. Please visit the applicable state page for details.
+ 
+Los tipos específicos de datos, fuentes y metodologías que se usan para crear Voter's Edge varían por estado. Consulte la página del estado que corresponda para conocer los detalles.
 
 * [California](www.votersedge.org/ca/page/how-we-get-our-data)
 
@@ -11,6 +11,6 @@ The specific types of data, sources, and methodologies used to create Voter’s 
 
 * [New York](http://votersedge.org/ny/page/how-we-get-our-data)
 
-Thank you,
-
-**The Voter’s Edge Team**
+Gracias.
+ 
+El equipo de Voter’s Edge
