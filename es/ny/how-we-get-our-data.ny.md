@@ -1,127 +1,132 @@
 ---
-title: How we get our data
+title: Cómo conseguimos nuestros datos
 published: true
 ---
-The data that appears on Voter’s Edge New York comes from a variety of sources, with priority placed on collecting data that is nonpartisan, transparent, and accurate. Voter’s Edge New York is a project of MapLight. Voter’s Edge New York does not take any position on or express any preference about the issues or candidates displayed on this site and neither supports nor opposes candidates or political parties.
- 
-## What’s on the ballot
- 
-The official election authorities for the state, counties, and other localities are the ultimate authority on what contests, candidates, and ballot measures will appear on the ballot. This data is either directly provided to us by the election authorities or collected from them by the Voter’s Edge New York team.
- 
-Voter’s Edge New York is not responsible for the accuracy of the sample ballot and polling location data. Your local election authority remains the sole authoritative source for information regarding the content of ballot and polling place location. If you believe that either the polling place or ballot data is inaccurate, please [Contact Us](www.votersedge.org/en/ny/contact-us) to report the problem.
- 
-## Polling locations
- 
-Polling locations are sourced directly from the applicable election authorities or supplied by the [Google Civic Information API](https://developers.google.com/civic-information/?hl=en). 
 
-<a id="address-search"></a>
-## The address search
+Los datos que aparecen en Voter’s Edge New York provienen de una variedad de fuentes, con prioridad en la recolección de datos que son precisos, transparentes y sin ninguna afiliación partidista. Voter’s Edge New York es un proyecto de MapLight. Voter’s Edge New York no toma ninguna postura ni expresa ninguna preferencia sobre los asuntos o los candidatos que se muestran en esta página, tampoco apoya ni se opone a ningún candidato o partido político.
  
-* Voter’s Edge New York uses data provided by state and local election authorities and the [Google Civic Information API](https://developers.google.com/civic-information/?hl=en) to return ballot data for a specific address.
- 
-* In some situations we will return more contests than will be on your actual ballot. This can happen when there is insufficient data available to correctly connect an office to its specific district. When this happens, we will connect the office to a larger district — typically a city or a county — and return the contests for that office for all addresses in that larger district. This means that some of the contests returned might not be on your actual ballot. Contests that may not be on your ballot will be indicated. You can contact your local election authority to confirm if a contest will actually be on your ballot.
- 
-* It is possible to search using only a zip code, however this will not produce the most specific results possible. When only a zip code is used, Voter’s Edge New York may be unable to accurately return all contests, which means there could be contests on your actual ballot that will not be returned. Enter a full address for the most specific results possible. 
- 
-Please see our [Privacy Policy](www.votersedge.org/ny/page/privacy-policy) for more information on how addresses are used.
- 
- 
-## Candidate data
- 
-The candidate data appearing on Voter’s Edge New York can come from three sources.
- 
-**1. The election authority:** Source of the initial data, such as the candidate’s name, party, and what office they are running for. In some cases the applicable election authority may also be the source of contact information.
- 
-**2. Directly from the candidates:** Candidates are invited to participate by submitting important data about their candidacies directly to Voter’s Edge New York. In order to submit content, candidates must agree to the following terms:
- 
-**_The content shall not, in any way, make reference to other candidates for this office or to another candidate's qualifications, character, or activities. Moreover, the content shall not contain any demonstrably false, slanderous, or libelous statements or any obscene or profane language, statements or insinuations. _**
- 
-**_I accept responsibility for the truth and accuracy of the content submitted to Voter’s Edge New York by myself, the candidate, or by my designated preparer. _**
- 
-**_I agree that the content submitted to Voter’s Edge New York may be published for this election and retained in a permanent public archive._**
- 
-Content submitted by candidates is not checked for accuracy and spelling and grammatical errors are not corrected by Voter’s Edge New York. Content is reviewed to ensure that it does not refer to opponents. Voter’s Edge New York does not take any responsibility for the style, content, accuracy or truthfulness of the information provided by candidates.  As common carriers with respect to this data, we do not edit spelling, grammar, or in any way alter the language provided by participating candidates (other than in the context of Spanish language translation). 
- 
-Content linked to by candidates, such as their campaign websites, social media, or videos are not reviewed. If you should observe content on Voter’s Edge New York that you believe violates our terms of participation, please let us know.
- 
-**3. Researched by the Voter’s Edge New York team:** Our preference is to always have candidates participate and submit their data directly to Voter’s Edge New York, however if a candidate has not chosen to participate, our researchers may provide additional data. In these situations, the research would be done for all non-participating candidates running for the same office, so as not to advantage one candidate over another. All candidates within a contest are researched using the same standards, with comparable time and energy put into each, and no preference given to party or ideology. When candidates are researched by Voter’s Edge New York, this will be indicated on their profiles. A candidate being researched is still encouraged to start participating in Voter’s Edge New York, at which time they would take responsibility for entering and maintaining their own data.
- 
- 
-Voter’s Edge New York provides voters with a variety of valuable information on candidates, including the following.
- 
-* **Profession:** A description of the candidate’s professional identity. _-Sourced from participating candidates or researched by Voter’s Edge New York._
- 
-* **Top three priorities:** A list of the candidate’s top three priorities if elected. _-Sourced only from participating candidates._
- 
-* **Records related to their employment history, public service experience, educational background, and activities:** Individual records detailing the candidate’s experiences in various areas, limited to five records of each type. _-Sourced from participating candidates or researched by Voter’s Edge New York._
- 
-* **Extended biography:** A brief, narrative overview of the candidate’s past. _-Sourced only from participating candidates._
- 
-* **Political philosophy:** A short essay describing the candidate’s political philosophy. _-Sourced only from participating candidates._
+## Contenido de la boleta electoral
 
-* **Position papers:** A maximum of three essays that describe the candidate’s position on specific issues. _-Sourced only from participating candidates._
+Las autoridades electorales oficiales para el estado, los condados y otras localidades son la máxima autoridad que decide las contiendas, los candidatos y las iniciativas de ley que aparecerán en la boleta electoral. Obtenemos estos datos ya sea directamente de las autoridades electorales o el equipo de Voter’s Edge New York los recopila de ellas.
  
-* **Endorsements:** A list of individuals and organizations that have publicly endorsed the candidate. _-Sourced only from participating candidates._
- 
-* **Photo:** A headshot of the candidate. _-Sourced from participating candidates or researched by Voter’s Edge New York._
- 
-* **Videos:** Videos of the candidate speaking about policy issues and/or their relevant experience. These can be source from participating candidates or researched by the Voter’s Edge New York Team. When sourced from participating candidates, the candidate agrees to the following terms when submitting each video:
- 
-_**This video is focused on my policy positions and/or my experience, not my opponent(s). Moreover, the video shall not contain any demonstrably false, slanderous, or libelous statements or any obscene or profane language, statements or insinuations.**_
- 
-_**I accept responsibility for the truth and accuracy of the content of this video. I agree that the video may be published for this election and retained in a permanent public archive.**_
- 
-Videos submitted by candidates are not hosted on Voter’s Edge New York and are not reviewed prior to publishing. If you observe a video on Voter’s Edge New York that you believe violates the terms outlined above, please let us know.
- 
-## Measure data
- 
-Voter’s Edge New York provides voters with a variety of valuable information on ballot measures in New York. Much of the information comes from official government sources, including the state and local election authorities.
- 
-The Voter’s Edge New York team also collects a variety of other data to help voters make an informed decision at the polls. When this content is researched and collected, comparable resources are spent on both the supporting and opposing sides of the measure. The data collected related to ballot measures, include:
- 
-**Endorsements:** A list organizations and elected or appointed public officials that are publicly supporting or opposing the measure.
- 
-**News:** Links to news articles related to the measure.
- 
-**Events:** Information about upcoming and past events that offer neutral information or analysis regarding the measure.
- 
-**Opinions:** Links to opinion pieces, published from various outlets. Editorials, op-eds, and letters to the editor may be included.
- 
-**Links:** A collection of useful links to other sites that can provide additional information about the measure.
- 
-**Videos:** Videos that are informative, neutral, and provide additional information to voters.
- 
- 
-## Additional resources
-The Voter’s Edge New York team also collects videos, news articles, links to additional resources, and event information about candidate contests and all measures in the same district. For candidate contests, this content is all neutral, nonpartisan, and focused on the race itself or multiple candidates.
- 
-## Analysis of campaign finance data from MapLight
+Voter’s Edge New York no se hace responsable por la precisión de los datos sobre la muestra de boleta electoral ni la ubicación de los lugares de votación. Su autoridad electoral local sigue siendo la única fuente autorizada de información respecto al contenido de la boleta electoral y la ubicación de los lugares de votación. Si cree que los datos de la boleta electoral o los lugares de votación son incorrectos, [comuníquese con nosotros](www.votersedge.org/en/il/feedback) para reportar el problema.
 
-MapLight obtains its campaign finance data on federal candidates from the bulk files provided by the [Federal Election Commission (FEC)](http://www.fec.gov/). The data is processed, cleaned, and updated daily to include both new filings and amendments to previous filings.
+## Ubicación de los lugares de votación
  
-### Candidate data
- 
-The candidate campaign finance data visible on Voter’s Edge New York consists of contributions to the principal, authorized campaign committees of candidates running for a given office. This does not include contributions to super PACs, leadership PACs, or joint fundraising committees.
+Las ubicaciones de los lugares de votación se obtienen directamente de las respectivas autoridades electorales o a través de la [interfaz de programación de aplicaciones (Application Programming Interface, API) de información cívica de Google](https://developers.google.com/civic-information/?hl=en). 
 
-**Note:** Regarding federal campaign finance data, there can be a lag between when the FEC publishes a recent filing's summary numbers and when the individual contributions are released in their bulk data. As a result, the totals in the bottom three sections ("Who gave contributions?", "Who gave the most money?", "Top contributions by state") may not add up to the totals above ("Contributions to candidate", "How big are the contributions?").
+<a id="address-search"></a>  
+## Búsqueda por dirección
+ 
+* Voter’s Edge New York usa datos proporcionados por el estado y las autoridades electorales locales y la [API de información cívica de Google](https://developers.google.com/civic-information/?hl=en) con el fin de mostrar los datos de la boleta electoral para una dirección específica.
+ 
+* En algunas situaciones, se mostrarán más contiendas de las que estarán en la boleta electoral real. Esto puede suceder cuando no haya datos disponibles suficientes para conectar correctamente una oficina con su distrito específico. Cuando esto suceda, conectaremos la oficina con un distrito más grande (por lo general, una ciudad o un condado) y proporcionaremos los datos de las contiendas de esa oficina para todas las direcciones de ese distrito más grande. Lo anterior significa que es posible que algunas de las contiendas que se muestren no estén en su boleta electoral real. Se indicarán las contiendas que es posible que no aparezcan en su boleta electoral. Puede comunicarse a su autoridad electoral local para confirmar si una contienda realmente estará en su boleta electoral.
+ 
+* Es posible hacer búsquedas solamente con el código postal, pero esto no producirá los resultados más específicos posibles. Cuando solamente se use el código postal, es posible que Voter’s Edge New York no pueda mostrar todas las contiendas, lo cual significa que podría haber contiendas en su boleta electoral que no se mostrarán con la herramienta de búsqueda. Escriba la dirección completa para obtener los resultados más específicos posibles. 
+ 
+Consulte nuestra [Política de privacidad](www.votersedge.org/il/page/privacy-policy) para obtener más información sobre cómo se usan las direcciones.
+ 
+ 
+## Datos de los candidatos
+ 
+Los datos de los candidatos que aparecen en Voter’s Edge New York pueden provenir de tres fuentes.
+ 
+**1. La autoridad electoral:** fuente de los datos iniciales, como el nombre del candidato, el partido y el cargo al que se postulan. En algunos casos, la autoridad electoral competente podría ser también la fuente de información de contacto.
+ 
+**2. Directamente de los candidatos:**se invita a los candidatos a participar enviando información importante acerca de sus candidaturas directamente a Voter’s Edge New York. Para poder enviar el contenido, los candidatos deben aceptar los siguientes términos:
+ 
+**_El contenido no deberá, de ninguna manera, hacer referencia a otros candidatos para ese cargo o a las habilidades, el carácter o las actividades de otros candidatos. Además, el contenido no deberá incluir ninguna declaración que pueda demostrarse que es falsa, difamatoria o calumniosa, ni ningún tipo de lenguaje profano u obsceno, declaraciones ni insinuaciones. _**
+ 
+**_Acepto la responsabilidad por la veracidad y precisión del contenido enviado a Voter’s Edge New York por mí mismo, el candidato, o mi preparador designado. _**
+ 
+**_Acepto que el contenido enviado a Voter’s Edge New York puede publicarse para esta elección y puede conservarse de manera permanente en el archivo público._**
+ 
+No se comprueba la precisión del contenido enviado por los candidatos, y Voter’s Edge New York no corrige los errores ortográficos ni gramaticales. Se verifica el contenido para garantizar que no se refiera a los oponentes. Voter’s Edge New York no se responsabiliza por el estilo, el contenido, la precisión o la veracidad de la información proporcionada por los candidatos.  Como portadores comunes con respecto a estos datos, no editamos la ortografía, la gramática ni alteramos de ninguna manera el lenguaje proporcionado por los candidatos participantes (excepto para traducir la información a español). 
+ 
+No se revisa el contenido de los enlaces proporcionados por los candidatos, como los sitios web de sus campañas, redes sociales o videos. En caso de que observe contenido en Voter’s Edge New York que considere que infringe nuestros términos de participación, háganoslo saber.
+ 
+**3. Investigación del equipo de Voter’s Edge New York:** nuestra preferencia es hacer que los candidatos participen siempre y envíen sus datos directamente a Voter’s Edge New York; sin embargo, si un candidato elige no participar, nuestros investigadores podrían proporcionar datos adicionales. En estas situaciones, se realizaría la investigación para todos los candidatos no participantes que se postulen al mismo cargo, con el fin de no dar ventaja a uno u otro candidato sobre los demás. Se investiga a todos los candidatos dentro de una contienda usando los mismos estándares, tras dedicar la misma cantidad de tiempo y energía a cada uno, y sin ninguna preferencia por ningún partido ni ideología. Se indicará en los perfiles de los candidatos cuando Voter’s Edge New York los investigue. Aunque se investigue a un candidato, se le invita a participar en Voter’s Edge New York, en cuyo caso se harían responsables de enviar y mantener sus propios datos.
+ 
+ 
+Voter’s Edge New York proporciona a los votantes una variedad de valiosa información sobre los candidatos, incluidos los siguientes datos:
+ 
+* **Profesión:** una descripción de la identidad profesional del candidato. _-Se obtiene de los candidatos participantes o a través de la investigación de Voter’s Edge New York._
+ 
+* **Las tres prioridades principales:** una lista de las tres prioridades principales del candidato si fuera electo. _-Solamente los candidatos participantes pueden proporcionar esta información._
+ 
+* **Registros relacionados con su historial laboral, experiencia en el servicio público, antecedentes educativos y actividades:** registros individuales en los cuales se explique la experiencia de los candidatos en varias áreas, limitado a cinco registros de cada tipo. _- Se obtienen de los candidatos participantes o a través de la investigación de Voter’s Edge New York._
+ 
+* **Biografía ampliada:** un resumen breve y narrativo del pasado del candidato. _-Solamente los candidatos participantes pueden proporcionar esta información._
+ 
+* **Filosofía política:** un corto ensayo en el que se describa la filosofía política del candidato. _-Solamente los candidatos participantes pueden proporcionar esta información._
+ 
+* **Documentos de posturas:** un máximo de tres ensayos en los que se describa la postura del candidato sobre asuntos específicos. _-Solamente los candidatos participantes pueden proporcionar esta información._
+ 
+* **Respaldos:** una lista de los individuos y las organizaciones que hayan respaldado al candidato de manera pública. _-Solamente los candidatos participantes pueden proporcionar esta información._
+ 
+* **Fotografía:** una fotografía del rostro del candidato. _-Se obtiene de los candidatos participantes o a través de la investigación de Voter’s Edge New York._
+ 
+* **Videos:** videos del candidato hablando sobre asuntos políticos o su experiencia relevante. Se obtienen de los candidatos participantes o a través de la investigación del equipo de Voter’s Edge New York. Cuando se obtengan de un candidato participante, el candidato acepta los siguientes términos al momento de enviar cada video:
+ 
+_**Este video se enfoca en mis posturas políticas o en mi experiencia, no en mis oponentes. Además, el video no deberá incluir ninguna declaración que pueda demostrarse que es falsa, difamatoria o calumniosa, ni ningún tipo de lenguaje profano u obsceno, declaraciones ni insinuaciones.**_
+ 
+_**Acepto la responsabilidad por la veracidad y la precisión del contenido de este video. Acepto que el video puede publicarse para esta elección y puede conservarse de manera permanente en el archivo público.**_
+ 
+Los videos que envían los candidatos no se almacenan en Voter’s Edge New York y no se revisan antes de ser publicados. En caso de que observe un video en Voter’s Edge New York que considere que infringe los términos que se mencionaron anteriormente, háganoslo saber.
+
+### Orden de los candidatos  
+
+En las páginas con todos los candidatos en una contienda particular, el orden de los candidatos se basa en si llenaron o no su perfil en Voter's Edge New York. Están agrupados en tres secciones y el orden de los candidatos es aleatorio dentro de cada sección. La sección uno contiene a todos los candidatos que llenaron su perfil, la sección dos contiene a los candidatos que aparecerán en la boleta electoral y que no han llenado su perfil, y la última sección contiene a los candidatos por escrito que no han llenado su perfil.
+
+## Datos de iniciativas de ley
+ 
+Voter’s Edge New York proporciona a los electores una variedad de valiosa información sobre las iniciativas de ley en la boleta electoral de New York. Gran parte de la información proviene de fuentes gubernamentales oficiales, incluidas las autoridades electorales estatales y locales.
+ 
+El equipo de Voter’s Edge New York también reúne otros datos para ayudar a los votantes a tomar una decisión informada en las urnas. Cuando se busca y se recopila esta información, se gastan los mismos recursos en el lado a favor que en el lado en contra de la iniciativa de ley. Los datos que se recopilan respecto a las iniciativas de ley en la boleta electoral incluyen:
+ 
+**Respaldos:** una lista de las organizaciones y los funcionarios públicos electos o designados que apoyen o se opongan públicamente a la iniciativa de ley.
+ 
+**Noticias:** enlaces a artículos periodísticos relacionados con la iniciativa de ley.
+ 
+**Eventos:** información sobre eventos futuros o pasados que ofrezcan información neutral o análisis relacionados con la iniciativa de ley.
+ 
+**Opiniones:** enlaces a opiniones, publicadas en varios medios. Puede incluir editoriales, páginas de opinión y cartas al editor.
+ 
+**Enlaces:** una colección de enlaces útiles a otros sitios que pueden proporcionar información adicional sobre la iniciativa de ley.
+ 
+**Videos:** videos que sean informativos, neutrales y que proporcionen información adicional a los votantes.
+ 
+ 
+## Recursos adicionales
+El equipo de Voter’s Edge New York también recopila videos, artículos periodísticos, enlaces a recursos adicionales e información sobre eventos de las contiendas de los candidatos y todas las iniciativas de ley en el mismo distrito. Para los candidatos de las contiendas, todo este contenido es neutral, sin ninguna afiliación partidista y se enfoca solamente en la contienda misma o en los múltiples candidatos.
+ 
+## Análisis de los datos financieros de las campañas realizados por MapLight
+
+MapLight obtiene los datos financieros de las campañas de los archivos masivos que proporciona la [Comisión Federal Electoral (Federal Election Commission, FEC)](http://www.fec.gov/). Estos datos se procesan, se limpian y se actualizan todos los días para incluir los nuevos documentos presentados y las enmiendas a los documentos que se hayan presentado anteriormente.
+ 
+### Datos de los candidatos
+ 
+Los datos financieros de la campaña del candidato que están disponibles en Voter’s Edge New York consisten en las contribuciones a los comités principales y autorizados de campaña de los candidatos que se postulen a un cargo determinado. Esto no incluye las contribuciones a los supercomités de acción política (Political Action Committee, PAC), los PAC de liderazgo o los comités conjuntos de recaudación de fondos.
+
+**Nota:** Es posible que haya un retraso con los datos financieros de las campañas federales entre el momento en el que la FEC publique las cifras de resúmenes presentados recientemente y el momento en el que las contribuciones individuales se agreguen a sus datos masivos. Como resultado, es posible que los montos totales en las tres secciones inferiores ("¿Quién contribuyó?", "¿Quién dio más dinero?", "Las mayores contribuciones por estado") no coincidan con los totales de las secciones superiores ("Contribuciones al candidato", "¿De cuánto fueron las contribuciones?").
   
-### Top contributor lists
-MapLight generates top-contributor lists by standardizing and then aggregating several types of information. Contributor names are standardized by a combination of automated processes and extensive manual review by MapLight researchers. We correct misspellings, connect PACs to their relevant organizations, and combine similar name variants together in order to better aggregate contributor information.
-Contribution amounts from an organization to a candidate combine the sum of its employees' contributions or from its PAC. This is standard practice in campaign finance, where candidate committee contribution limits typically mean that single organizations or their PACs contribute the maximum (or "max out") very quickly. To the extent that employee contributions may reflect the interests of the employer, their contributions are aggregated with the employer. One significant exception to this practice pertains to contributions without limits, including from candidates who contribute to their own campaigns. Contributions not subject to limits are not aggregated at the level of the employer organization. In the event that a top-ranked contributor (by employer) is a category such as "self-employed" or "retired", we exclude it from the list.
+### Listas de los principales contribuyentes
+MapLight genera una lista de los principales contribuyentes al estandarizar y después acumular diferentes tipos de información. Los nombres de los contribuyentes se estandarizan con una combinación de procesos automatizados y una exhaustiva revisión manual de los investigadores de MapLight. Corregimos faltas de ortografía, conectamos a los PAC con las organizaciones pertinentes y combinamos diferentes variantes de nombres para acumular de mejor forma la información de los contribuyentes.
+El monto de las contribuciones por parte de una organización a un candidato combina la suma de las contribuciones de sus empleados o de su PAC. Esta es una práctica estándar en la financiación de las campañas, donde los límites de la contribución al comité del candidato generalmente significan que las organizaciones individuales o sus PAC contribuyen con el máximo (o "llegan al límite") con mucha rapidez. Al grado que las contribuciones de los empleados puedan reflejar los intereses del empleador, sus contribuciones se suman a la del empleador. Una excepción importante a esta práctica se refiere a las contribuciones sin límites, incluidas las de los candidatos que contribuyan a sus propias campañas. Las contribuciones que no estén sujetas a límites no se agregan al nivel de la organización del empleador. En caso de que uno de los principales contribuyentes (por empleador) se encuentre en una categoría como "autónomo" o "jubilado", lo excluimos de la lista.
  
-### Contributions by state
-An analysis of all itemized contributions broken down by the state the contributor supplied.
+### Contribuciones por estado
+Un análisis de todas las contribuciones desglosadas por estado donde el contribuyente las proporcione.
  
-### Contributions by size
-An analysis breaking contributions into the categories of ‘small’ and ‘large’ based on whether the recipient committee itemized the contributions. Federally, campaign committees are not required to itemize contributions under $200. Unitemized contributions are considered ‘small’ and itemized contributions are considered ‘large’ for this analysis.
+### Contribuciones por tamaño
+Un análisis en el cual se dividen las contribuciones en las categorías de ‘pequeña’ o ‘grande’ basado en si el comité receptor desglosó las contribuciones. A nivel federal, los comités de campaña no están obligados a desglosar las contribuciones menores a $200. Para este análisis, las contribuciones que no se hayan desglosado se consideran ‘pequeñas’ y las contribuciones que se hayan desglosado se consideran ‘grandes’.
  
-### Contributions by type
-An analysis breaking contributions into the categories of ‘organization’ and ‘individual.’ This analysis identifies the contributions coming from organizations (either directly or via political action committees) or by individuals.
+### Contribuciones por tipo
+Un análisis en el cual se dividen las contribuciones en las categorías de ‘organización’ e ‘individuo’. Este análisis identifica las contribuciones que provienen de organizaciones (directamente o a través de comités de acción política) o de individuos.
  
-## Spanish language content
-Voter’s Edge New York is committed to providing quality voter information to as many people as possible, which is why we are excited to offer a partially translated version of the site in 2016. We work with our Spanish Language Advisory Board and our translators to ensure the highest quality translation possible.
+## Contenido en español
+Voter’s Edge New York está comprometido a proporcionar información electoral de calidad al mayor número de personas que sea posible, y por ello nos emociona ofrecer una traducción profesional parcial del sitio en 2016. Trabajamos con nuestra Junta Asesora de Español y nuestros traductores para garantizar que la traducción sea de la mayor calidad posible.
  
-## Third party content
-Voter’s Edge New York contains links to, and embeds content from, various third-party websites that contain additional information related to elections and the political process. Voter’s Edge New York does not endorse, approve, certify, or control these external websites. We do not exercise editorial control or oversight over the content featured by these third-party sites and make no representation as to their accuracy, objectivity, fairness, completeness, efficacy, timeliness, or correct sequencing of information. Reference therein to any specific commercial product, process, or service by trade name, trademark, service mark, manufacturer, or otherwise does not constitute or imply endorsement, recommendation or favoring by Voter’s Edge New York. We are not responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any material available on or through such websites.
+## Contenido de terceros
+Voter’s Edge New York contiene enlaces a, e integra contenido de, varios sitios de terceros que contienen información adicional relacionada con las elecciones y el proceso político. Voter’s Edge New York no respalda, aprueba, certifica ni controla estos sitios web externos. No ejercemos control editorial ni supervisamos el contenido que presentan estos sitios de terceros y no garantizamos su precisión, objetividad, imparcialidad, integridad, efectividad, puntualidad o secuencia correcta de la información. La referencia en este sitio web a cualquier producto comercial, proceso o servicio específicos por nombre comercial, marca registrada, marca de servicio, fabricante u otro no constituye o implica el respaldo, la recomendación o el favoritismo por parte de Voter’s Edge New York. No somos responsables, directa o indirectamente, por ningún daño o pérdida causado o supuestamente causado por o en relación con el uso o la fiabilidad de cualquier material disponible en dichos sitios web o a través de ellos.
  
-For more information please check Voter’s Edge New York [Terms of Use](www.votersedge.org/ny/page/terms-of-use).
+Para obtener más información, consulte los [Términos de uso](www.votersedge.org/ca/es/page/terms-of-use) de Voter’s Edge New York.

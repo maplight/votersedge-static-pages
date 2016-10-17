@@ -25,7 +25,15 @@ Al utilizar esta herramienta, está de acuerdo con la siguiente declaración:
 
 **Integrar nuestro logo en su sitio web**  
 
-Siéntase libre de descargar nuestro logotipo, el cual se puede integrar en su sitio web para crear un vínculo hacia Voter's Edge California.  
+Use las imágenes que se muestran a continuación para entrar al enlace de Voter's Edge California. Las imágenes se pueden integrar en su sitio web para crear un hipervínculo hacia Voter's Edge California.
+
+![Button 1 CA](https://s3-us-west-2.amazonaws.com/ve-resources/VECButton1_Spanish.png)
+
+![Button 2 CA](https://s3-us-west-2.amazonaws.com/ve-resources/VECButton2_Spanish.png)
+
+![Button 3 CA](https://s3-us-west-2.amazonaws.com/ve-resources/VECButton3_Spanish.png)
+
+También puede descargar solo nuestro logotipo, el cual se puede integrar en su sitio web para crear un vínculo hacia [Voter's Edge California](http://votersedge.org/ca/es).
 
 El logotipo se encuentra disponible en varios tamaños, colores de fondo y tipos de archivos. Para descargar una carpeta zip con el logotipo de Voter’s Edge, [haz clic aquí](https://s3-us-west-2.amazonaws.com/ve-resources/Voter%27s+Edge+California.zip).  
 
