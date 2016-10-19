@@ -1,199 +1,197 @@
 ---
-title: About Voter’s Edge California
-published: true
+título: Acerca de Voter’s Edge California
+publicado: verdadero
 ---
 
 
 
-## Welcome to Voter’s Edge California
+## Bienvenido a Voter’s Edge California
 
-Voter’s Edge California (VEC) is a joint project of MapLight and the League of Women Voters of California Education Fund (LWVCEF). Voter’s Edge California is a comprehensive, nonpartisan online guide to elections covering federal, state, and local races in the state of California.
+Voter’s Edge California (VEC) es un proyecto conjunto de MapLight y la League of Women Voters of California Education Fund (LWVCEF). Voter’s Edge California es una guía integral para las elecciones, sin ninguna afiliación partidista y disponible en línea, que cubre las contiendas federales, estatales y locales en el estado de California.
 
-### With Voter’s Edge California, voters can:
+### Con Voter’s Edge California, los votantes podrán:
 
-- Access their full, personalized ballot by entering their address.
-- Get in-depth information on candidates, measures, and who supports them.
-- View candidate biographies, top priorities, answers to questions, photos, policy videos, endorsements, and detailed information about who funds their campaigns.
-- Browse unbiased explanations of ballot measures; find out who supports, opposes, and funds them.
-- Check where, when, and how to vote, including information on their local polling locations.
-- Keep track of their choices to make voting easier.
-- Share information about the election with friends and family.
+- tener acceso detallado y personalizado a su boleta electoral al ingresar su dirección
+- obtener información detallada sobre los candidatos, las iniciativas de ley y quién los apoya
+- ver las biografías de los candidatos, sus prioridades, respuestas a preguntas, fotografías, videos políticos, respaldos e información detallada acerca de quién financia sus campañas
+- explorar las explicaciones imparciales de las iniciativas de ley en la boleta electoral; saber quién las apoya, se opone a ellas y las financia
+- revisar dónde, cuándo y cómo votar, incluida la información sobre la ubicación de los lugares de votación locales
+- dar seguimiento a sus opciones para hacer que el proceso de votación sea más sencillo
+- compartir información acerca de las elecciones con familiares y amigos
 
-## History of Voter’s Edge Californa
+## La historia de Voter’s Edge California
 
-The League of Women Voters of California Education Fund produced one of the nation’s first election information websites, SmartVoter.org. Since 1996, the Smart Voter project has been California’s premier online source for authoritative, nonpartisan coverage of election contests, candidates, and ballot measures. 
+La League of Women Voters of California Education Fund creó uno de los primeros sitios web sobre información electoral de la nación, SmartVoter.org. Desde 1996, el proyecto Smart Voter ha sido la principal fuente en línea de cobertura acreditada y no partidaria de California sobre contiendas electorales, candidatos e iniciativas de ley en la boleta electoral. 
 
-MapLight’s Voter’s Edge tool was first designed to help voters understand the sources of funding behind ballot measures in California. In recent years, the project has expanded to cover candidates and elections in states beyond California.
+La herramienta Voter’s Edge de MapLight se diseñó en un principio para ayudar a los electores a comprender las fuentes de financiamiento detrás de las iniciativas de ley de las boletas electorales en California. En los últimos años, el proyecto se ha ampliado para cubrir a candidatos y elecciones más allá del estado de California.
 
-In 2014, the League and MapLight joined forces to create a successful pilot project. The result is Voter’s Edge California. 
+En 2014, la League y MapLight unieron fuerzas para crear un proyecto piloto exitoso. El resultado es Voter’s Edge California. 
 
-## The Partnership
+## La colaboración
 
-MapLight and the League of Women Voters of California Education Fund’s continued collaboration into the 2016 election cycle empowers voters to access the information they need to vote with confidence. Our partnership marries Smart Voter’s authoritative coverage of election contests, candidates, and ballot measures with MapLight's deep expertise in public data and technology. The result is Voter’s Edge California, which provides top-to-bottom ballot and campaign finance information in one easy-to-use site, giving voters instant access to political information of unparalleled depth and transparency.
+La colaboración continua de MapLight y de la League of Women Voters of California Education Fund en el ciclo electoral de 2016 da recursos a los electores para tener acceso a la información que necesitan con el objetivo de votar con confianza. Nuestra colaboración une la cobertura acreditada de Smart Voter’s sobre las contiendas electorales, los candidatos y las iniciativas de ley en la boleta electoral con la profunda experiencia de MapLight sobre datos públicos y tecnología. El resultado es Voter’s Edge California, que brinda información integral sobre la boleta electoral y el financiamiento de las campañas en un sitio fácil de usar, lo que da a los electores acceso instantáneo a información política de profundidad y transparencia sin precedentes.
 
-### About MapLight
+### Acerca de MapLight
 
-MapLight is a nonpartisan research organization that reveals money’s influence on politics. We are a 501(c)(3) nonprofit organization.
+MapLight es una organización de investigación sin ninguna afiliación partidista que revela la influencia del dinero en la política. Somos una organización sin fines de lucro de acuerdo con la sección 501(c)(3).
 
-We provide journalists and citizens with transparency tools that connect data on campaign contributions, politicians, legislative votes, industries, companies, and more to show patterns of influence never before possible to see. These tools allow users to gain unique insights into how campaign contributions affect policy so they can draw their own conclusions about how money influences our political system.
+Brindamos a los periodistas y a los ciudadanos herramientas trasparentes que conectan los datos de contribuciones de campaña, políticos, votos legislativos, industrias, compañías y más para mostrar patrones de influencia que antes eran imposibles de ver. Estas herramientas permiten que los usuarios obtengan perspectivas únicas sobre la manera en la que las contribuciones a las campañas afectan a la política, de modo que puedan sacar sus propias conclusiones acerca de la influencia del dinero sobre nuestro sistema político.
+[Visítenos para obtener más información ](http://maplight.org/content/about-maplight) sobre MapLight y nuestro trabajo.
 
-[Visit us to learn more](http://maplight.org/content/about-maplight) about MapLight and our work.
+### Acerca de la League of Women Voters of California Education Fund
 
-### About the League of Women Voters of California Edcuation Fund
+La League of Women Voters of California Education Fund realiza actividades de servicio y de educación cívica para los electores. Somos una corporación constituida conforme a la sección 501(c)(3), una organización educativa sin afiliación partidista y sin fines de lucro, que:
 
-The League of Women Voters of California Education Fund conducts voter service and civic education activities. We are a 501(c)(3) corporation, a nonpartisan nonprofit educational organization, which:
+- Fomenta la participación en el proceso democrático.
+- Estudia de manera imparcial los problemas fundamentales de la comunidad en todos los niveles de gobierno.
+- Permite que las personas busquen soluciones positivas a problemas de políticas públicas a través de la educación y la administración de conflictos.
 
-- Builds participation in the democratic process.
-- Studies key community issues at all government levels in an unbiased manner.
-- Enables people to seek positive solutions to public policy issues through education and conflict management.
-
-Get more information [about us](https://cavotes.org/about).
-
-Find [your local League of Women Voters](https://cavotes.org/local).
-
-Visit [Smart Voter’s archives](http://smartvoter.org/voter/archives.html) for information and results from past elections.
+Obtenga más información [sobre nosotros ](https://cavotes.org/about).
+Encuentre a [su League of Women Voters local ](https://cavotes.org/local).
+Visite los [archivos de Smart Voter’s ](http://smartvoter.org/voter/archives.html) para obtener información y resultados de las elecciones anteriores.
 
 ---
 
-## Advisory Boards
- 
-Voter’s Edge has an advisory board for each state it covers, as well as a Spanish language advisory board. Voter’s Edge advisory board members are dedicated leaders who share a commitment to civic engagement, nonpartisan voter information, and good government. They represent a variety of political affiliations and hold expertise in different areas, but all are invested in addressing the challenges faced by voters in their state. At the national level, Voter’s Edge is guided by input from MapLight’s [board](http://maplight.org/board) and [advisory board](http://maplight.org/advisory_board).
+## Juntas asesoras
 
-### Voter’s Edge California Advisory Board
-Members of the Voter’s Edge California advisory board advise MapLight on various aspects of Voter’s Edge, including editorial policy, potential partnerships, and effective distribution strategies. Members include:
+Voter’s Edge cuenta con una junta asesora para cada estado de su cobertura, así como una junta asesora en español. Los miembros de las juntas asesoras de Voter’s Edge son líderes dedicados que comparten un compromiso con la participación ciudadana, la información sin afiliación partidista para los votantes y el buen gobierno. Representan una variedad de afiliaciones políticas y cuentan con experiencia en diferentes áreas, pero todos están comprometidos a abordar los desafíos que enfrentan los votantes en su estado. A nivel nacional, Voter’s Edge se guía por los aportes de la [junta] de MapLight (http://maplight.org/board) y [de la junta asesora ](http://maplight.org/advisory_board)._
 
-* Kim Alexander, President & Founder, [California Voter Foundation](http://www.calvoter.org/)
-* Jon Fleischman, Founder & Publisher of [FlashReport](http://www.flashreport.org/), Owner of Fleischman Consulting
-* Jill LaVine, Registrar of Voters, Sacramento County
-* Emily Rusch, Executive Director, [CALPIRG](http://www.calpirg.org/)
-* Susan Stuart Clark, Founder & Director, [Common Knowledge Group](http://ckgroup.org/)
-* Phillip Ung, Director of Public Affairs, [California Forward](http://www.cafwd.org/)
+### Junta asesora de Voter’s Edge California
 
-### Spanish Language Advisory Board
-Members of the Voter’s Edge Spanish Language advisory board advise MapLight on various aspects of translating and presenting Voter’s Edge in Spanish, as well as distribution strategies to Spanish-language users. Members include:
- 
-* Mony Flores-Bauer, Consultant, [Progressive Consultants Network](http://www.pcneb.org/floresbauer.html)
-* Lisa Garcia Bedolla, Chancellor's Professor, Education and Political Science, U.C. Berkeley
-* German Macias, California Program Coordinator, [NALEO Education Fund](http://www.naleo.org/)
-* Astrid Garcia Ochoa, Deputy Director, [Future of California Elections](http://futureofcaelections.org/)
-* Gino Squadrito, Art Director, [LaserCom](http://www.lasercomdesign.com/)
+Los miembros de la junta asesora de Voter’s Edge California aconsejan a MapLight en varios aspectos de Voter’s Edge, que incluyen la política editorial, posibles colaboraciones y estrategias de distribución efectivas. Los miembros incluyen:
+
+- Kim Alexander, presidente y fundador de [California Voter Foundation ](http://www.calvoter.org/)
+- Jon Fleischman, fundador y editor de [FlashReport ](http://www.flashreport.org/), propietario de Fleischman Consulting
+- Jill LaVine, registradora electoral, Condado de Sacramento
+- Emily Rusch, directora ejecutiva de [CALPIRG ](http://www.calpirg.org/)
+- Susan Stuart Clark, fundadora y directora de [Common Knowledge Group ](http://ckgroup.org/)
+- Phillip Ung, director de Asuntos Públicos de [California Forward ](http://www.cafwd.org/)
+
+### Junta Asesora de Español
+
+Los miembros de la Junta Asesora de Español de Voter’s Edge ayudan a MapLight en varios aspectos de traducción y presentación de Voter’s Edge en español, así como con las estrategias de distribución para los usuarios de habla hispana. Los miembros incluyen:
+
+- Mony Flores-Bauer, consultora de [Progressive Consultants Network ](http://www.pcneb.org/floresbauer.html)
+- Lisa Garcia Bedolla, profesora (Chancellor's Professor), educación y ciencias políticas, U.C. Berkeley
+- German Macias, coordinador del programa de California del [Fondo de Educación de la Asociación Nacional de Funcionarios Latinos Electos y Designados (National Association of Latino Elected and Appointed Officials, NALEO)] (http://www.naleo.org/)
+- Astrid Garcia Ochoa, subdirectora de [Future of California Elections ](http://futureofcaelections.org/)
+- Gino Squadrito, director de arte de [LaserCom ](http://www.lasercomdesign.com/)
 
 ---
 
-## Funders
+## Patrocinadores
 
-Voter’s Edge California is funded by individuals and foundations who support our work providing voters with a one-stop source of unbiased, nonpartisan information to help them make choices that best align with their particular values and interests.
+Voter’s Edge California cuenta con el financiamiento de personas y fundaciones que apoyan nuestra labor al brindar a los votantes una única fuente de información imparcial y sin afiliación partidista que les ayuda a tomar decisiones que se adapten mejor a sus intereses y valores particulares.
+Agradecemos profundamente a las siguientes fundaciones y personas cuyas contribuciones hacen que Voter’s Edge California sea posible:
 
-We are deeply grateful to the following foundations and individuals whose contributions make Voter’s Edge California possible:
-
-- Alameda County: Registrar of Voters
-- Rita Allen Foundation (national Voter’s Edge project)
-- Bright Horizon Fund 
-- Matt and Cindy Cutts (national Voter’s Edge project)
-- Bonnie and Earl Hamlin
-- William and Flora Hewlett Foundation (national Voter’s Edge project)
+- Condado de Alameda: Registro electoral
+- Fundación Rita Allen (proyecto nacional Voter’s Edge)
+- Fondo Bright Horizon 
+- Matt y Cindy Cutts (proyecto nacional Voter’s Edge)
+- Bonnie y Earl Hamlin
+- William and Flora Hewlett Foundation (proyecto nacional Voter’s Edge)
 - The James Irvine Foundation
-- The Kaphan Foundation (national Voter’s Edge project)
+- Fundación Kaphan (proyecto nacional Voter’s Edge)
 - Ellen Kitamura
-- John S. and James L. Knight Foundation (national Voter’s Edge project)
-- League of Women Voters of Eden Area
-- League of Women Voters of Los Altos/Mountain View Area
-- League of Women Voters of Los Angeles
-- League of Women Voters of Marin County
-- League of Women Voters of Oakland
-- League of Women Voters of Palo Alto
-- League of Women Voters of Sacramento County
-- League of Women Voters of San Jose/Santa Clara
-- League of Women Voters of Santa Barbara
-- League of Women Voters of Southwest Santa Clara Valley
-- The Honorable Becky Morgan
-- Craig Newmark Philanthropic Fund (national Voter’s Edge project)
-- The Pick One Fund
-- San Mateo County: Office of Assessor-Clerk-Recorder
-- Santa Clara County: Registrar of Voters
-- Tides Civic Innovation Fund
-- Orlin and Onnolee Trapp
+- John S. and James L. Knight Foundation (proyecto nacional Voter’s Edge)
+- League of Women Voters del área de Eden
+- League of Women Voters del área de Los Altos/Mountain View
+- League of Women Voters de Los Ángeles
+- League of Women Voters del condado de Marin
+- League of Women Voters de Oakland
+- League of Women Voters de Palo Alto
+- League of Women Voters del condado de Sacramento
+- League of Women Voters de San José/Santa Clara
+- League of Women Voters de Santa Bárbara
+- League of Women Voters del suroeste del valle de Santa Clara
+- La honorable Becky Morgan
+- Fondo Filantrópico Craig Newmark (proyecto nacional Voter’s Edge)
+- Fondo Pick One
+- Condado de San Mateo: Oficina del tasador y del registro civil
+- Condado de Santa Clara: Registro electoral
+- Fondo Tides Civic Innovation
+- Orlin y Onnolee Trapp
 - Kathleen Weisenberg
-- Anonymous
+- Anónimo
 
-[Join these and other donors by supporting Voter’s Edge California today!](https://donatenow.networkforgood.org/votersedge)
+[¡Únase hoy mismo a estos y otros donantes y apoye a Voter’s Edge California! ](https://donatenow.networkforgood.org/votersedge)
 
-## Meet the Voter’s Edge California Team
+## Conozca al equipo de Voter’s Edge California
 
-A diverse group of talents and personalities, from both the League of Women Voters Education Fund (LWVCEF) and MapLight, combine to make Voter’s Edge California possible - let’s meet the team!
+Un grupo diverso de talentos y personalidades, tanto de la League of Women Voters Education Fund (LWVCEF) como de MapLight, se combinan para hacer que Voter’s Edge California sea posible. ¡Conozcamos al equipo!
 
-**From the LWVCEF:** | **From MapLight:**
+**De la LWVCEF:** | **De MapLight:**
 --- | --- 
-LWVCEF Senior Director of Civic Engagement: _Dora Rose_ | Voting Information Director: _Michael Canning_
-LWVCEF Membership & Technology Manager: _Sharon Stone_ | Technical Director: Leon Smith
-Senior Advisor: _Roberta Hollimon_ | Software Engineer & Database Administrator: _Mike Krejci_
-Senior Advisor: _Carol Watts_ | Lead Designer & Front-End Engineer: _Chacha Sikes_
-Senior Programmer: _Carl Hage_ | Program Associates: _Elliott Day & Isaac Agree_
-Data Coordinator: _Greg Fowler_ | Researcher: _Joanna Nix_
-Northern CA Liaison: _Bonnie Hamlin_ | Program Assistant: _Chelsea Miller_
-Southern CA Liaison: _Brianna Conser_ | Software Engineer: _Shane Dosch_
-Board Liaison: _Kathy Armstrong_ | MapLight President & Co-Founder: _Daniel Newman_
-LWVCEF President: _Helen Hutchison_ | _[Learn more](http://maplight.org/content/staff) about the Voter’s Edge team and the rest of the MapLight crew!_
-LWVCEF Executive Director: _Melissa Breach_ |             
+Directora principal de Compromiso Civil de LWVCEF: _Dora Rose_ | Director de Información Electoral: _Michael Canning_
+Gerente de Membresías y Tecnología de LWVCEF: _Sharon Stone_ | Director técnico: Leon Smith
+Asesora principal: _Roberta Hollimon_ | Ingeniero de sistemas y administrador de base de datos: _Mike Krejci_
+Asesora principal: _Carol Watts_ | Diseñadora principal e ingeniera inicial: _Chacha Sikes_
+Programador principal: _Carl Hage_ | Socios del programa: _Elliott Day e Isaac Agree_
+Coordinador de datos: _Greg Fowler_ | Investigadora: _Joanna Nix_
+Enlace con el norte de California: _Bonnie Hamlin_ | Asistente del programa: _Chelsea Miller_
+Enlace con el sur de California: _Brianna Conser_ | Ingeniero en sistemas: _Shane Dosch_
+Enlace con la junta: _Kathy Armstrong_ | Presidente y cofundador de MapLight: _Daniel Newman_
+Presidente de LWVCEF: _Helen Hutchison_ | _¡Conozca más(http://maplight.org/content/staff) sobre el equipo de Voter’s Edge y el resto del personal de MapLight!_
+Directora ejecutiva de LWVCEF: _Melissa Breach_ | 
 
-**County Coordinators:** County Coordinators and other volunteers are vital to the success of Voter’s Edge California. These volunteers work tirelessly to ensure Voter’s Edge California offers an abundance of accurate, high-quality information to voters.
+**Coordinadores de condados:** los coordinadores de condados y otros voluntarios son vitales para el éxito de Voter’s Edge California. Estos voluntarios trabajan sin descanso garantizar que Voter’s Edge California ofrezca en abundancia información precisa y de alta calidad a los electores.
 
-* **Alameda County Coordinator:** _Bonnie Hamlin_
+- **Coordinadora del condado de Alameda:**_ Bonnie Hamlin_
 
-* **Butte County Coordinator:** _Jane Wanderer_
+- **Coordinadora del condado de Butte:**_ Jane Wanderer_
 
-* **Contra Costa County Coordinator:** _Marion Shostrom_
+- **Coordinadora del condado de Contra Costa:**_ Marion Shostrom_
 
-* **El Dorado County Coordinator:** _Elaine Lyman_
+- **Coordinadora del condado de El Dorado:**_ Elaine Lyman_
 
-* **Fresno County Coordinator:** _Jacquie Canfield_
+- **Coordinadora del condado de Fresno:**_ Jacquie Canfield_
 
-* **Humboldt County:** _Currently Vacant_
+- **Condado de Humboldt:**_ actualmente vacante_
 
-* **Imperial County Coordinator:** _Myles Pomeroy_
+- **Coordinador del condado de Imperial:**_ Myles Pomeroy_
 
-* **Kern County Coordinator:** _Lois Watson_
+- **Coordinadora del condado de Kern:**_ Lois Watson_
 
-* **Los Angeles County Coordinators:** _Linda Herman & Pat Kromka & Roz Tyson_
+- **Coordinadoras del condado de Los Ángeles:**_ Linda Herman, Pat Kromka y Roz Tyson_
 
-* **Marin County Coordinator:** _Veda Flores_
+- **Coordinadora del condado de Marin:**_ Veda Flores_
 
-* **Mendocino County Coordinator:** _Pat Dunbar_
+- **Coordinadora del condado de Mendocino:**_ Pat Dunbar_
 
-* **Monterey County Coordinator:** _Dennis Mar_
+- **Coordinadora del condado de Monterey:**_ Dennis Mar_
 
-* **Napa County Coordinator:** _Kim Farmer_
+- **Coordinadora del condado de Napa:**_ Kim Farmer_
 
-* **Orange County Coordinator:** _Petti Van Rekom_
+- **Coordinadora del condado de Orange:**_ Petti Van Rekom_
 
-* **Placer County Coordinator:** _Lynne Roberts_
+- **Coordinadora del condado de Placer:**_ Lynne Roberts_
 
-* **Riverside County Coordinator:** _Joan Donahue_
+- **Coordinadora del condado de Riverside:**_ Joan Donahue_
 
-* **Sacramento County Coordinator:** _Louise Einspahr_
+- **Coordinadora del condado de Sacramento:**_ Louise Einspahr_
 
-* **San Bernardino County Coordinator:** _Jill Vassilakos_
+- **Coordinadora del condado de San Bernardino:**_ Jill Vassilakos_
 
-* **San Diego County Coordinator:** _Rachel McDonald_
+- **Coordinadora del condado de San Diego:**_ Rachel McDonald_
 
-* **San Francisco County Coordinator:** _Sara Kunitake_
+- **Coordinadora del condado de San Francisco:**_ Sara Kunitake_
 
-* **San Joaquin County Coordinator:** _Vickie Markarian_
+- **Coordinadora del condado de San Joaquín:**_ Vickie Markarian_
 
-* **San Luis Obispo County Coordinators:** _Ann Havlik & Alice Bunker_
+- **Coordinadoras del condado de San Luis Obispo:**_ Ann Havlik y Alice Bunker_
 
-* **San Mateo County Coordinator:** _Kathee Tyson_
+- **Coordinadora del condado de San Mateo:**_ Kathee Tyson_
 
-* **Santa Barbara County Coordinator:** _Bonnie Lassen_
+- **Coordinadora del condado de Santa Bárbara:**_ Bonnie Lassen_
 
-* **Santa Clara County Coordinators:** _Greg Fowler & Julie Lovins_
+- **Coordinadores del condado de Santa Clara:**_ Greg Fowler y Julie Lovins_
 
-* **Santa Cruz County:** _Currently Vacant_
+- **Condado de Santa Cruz:**_ actualmente vacante_
 
-* **Sonoma County Coordinator:** _Sally Patterson_
+- **Coordinadora del condado de Sonoma:**_ Sally Patterson_
 
-* **Stanislaus County Coordinator:** _Mary Giventer_
+- **Coordinadora del condado de Stanislaus:**_ Mary Giventer_
 
-* **Tulare County Coordinator:** _Denise Nelson_
+- **Coordinadora del condado de Tulare:**_ Denise Nelson_
 
-* **Ventura County:** _Currently Vacant_
+- **Coordinador del condado de Ventura:**_ actualmente vacante_
