@@ -1,6 +1,6 @@
 ---
-título: Acerca de Voter’s Edge California
-publicado: verdadero
+title: Acerca de Voter’s Edge California
+published: true
 ---
 
 
