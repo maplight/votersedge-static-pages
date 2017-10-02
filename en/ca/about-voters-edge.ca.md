@@ -41,7 +41,7 @@ We provide journalists and citizens with transparency tools that connect data on
 
 [Visit us to learn more](http://maplight.org/content/about-maplight) about MapLight and our work.
 
-### About the League of Women Voters of California Edcuation Fund
+### About the League of Women Voters of California Education Fund
 
 The League of Women Voters of California Education Fund conducts voter service and civic education activities. We are a 501(c)(3) corporation, a nonpartisan nonprofit educational organization, which:
 
@@ -49,7 +49,7 @@ The League of Women Voters of California Education Fund conducts voter service a
 - Studies key community issues at all government levels in an unbiased manner.
 - Enables people to seek positive solutions to public policy issues through education and conflict management.
 
-Get more information [about us](https://cavotes.org/about).
+Get more information [about us](https://cavotes.org/about-ef).
 
 Find [your local League of Women Voters](https://cavotes.org/local).
 
