@@ -70,7 +70,7 @@ We are deeply grateful to the following foundations and individuals whose contri
 - McCormick Foundation 
 - Craig Newmark Philanthropic Fund (national Voter’s Edge project)
 
-[Join these and other donors by supporting Voter’s Edge Illinois today!](https://donatenow.networkforgood.org/votersedge)
+[Join these and other donors by supporting Voter’s Edge Illinois today!](https://secure.qgiv.com/for/votedg/)
 
 ---
 

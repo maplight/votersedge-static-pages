@@ -61,7 +61,7 @@ We are deeply grateful to the following foundations and individuals whose contri
 - John S. and James L. Knight Foundation (national Voter’s Edge project)
 - Craig Newmark Philanthropic Fund (national Voter’s Edge project)
 
-[Join these and other donors by supporting Voter’s Edge New York today!](https://donatenow.networkforgood.org/votersedge)
+[Join these and other donors by supporting Voter’s Edge New York today!](https://secure.qgiv.com/for/votedg/)
 
 ---
 

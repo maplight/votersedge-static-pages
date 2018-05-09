@@ -71,7 +71,7 @@ Agradecemos profundamente a las siguientes fundaciones y personas cuyas contribu
 - John S. and James L. Knight Foundation (proyecto nacional Voter’s Edge)
 - Fundación McCormick 
 - Fondo Filantrópico Craig Newmark (proyecto nacional Voter’s Edge)
-[¡Únase hoy mismo a estos y otros donantes y apoye a Voter’s Edge Illinois!] (https://donatenow.networkforgood.org/votersedge)
+[¡Únase hoy mismo a estos y otros donantes y apoye a Voter’s Edge Illinois!] (https://secure.qgiv.com/for/votedg/)
 
 ---
 

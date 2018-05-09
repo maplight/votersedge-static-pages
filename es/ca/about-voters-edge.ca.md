@@ -114,7 +114,7 @@ Agradecemos profundamente a las siguientes fundaciones y personas cuyas contribu
 - Kathleen Weisenberg
 - Anónimo
 
-[¡Únase hoy mismo a estos y otros donantes y apoye a Voter’s Edge California! ](https://donatenow.networkforgood.org/votersedge)
+[¡Únase hoy mismo a estos y otros donantes y apoye a Voter’s Edge California! ](https://secure.qgiv.com/for/votedg/)
 
 ## Conozca al equipo de Voter’s Edge California
 

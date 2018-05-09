@@ -63,7 +63,7 @@ Agradecemos profundamente a las siguientes fundaciones y personas cuyas contribu
 - Fundación Kaphan (proyecto nacional Voter’s Edge)
 - John S. and James L. Knight Foundation (proyecto nacional Voter’s Edge)
 - Fondo Filantrópico Craig Newmark (proyecto nacional Voter’s Edge)
-[¡Únase hoy mismo a estos y otros donantes y apoye a Voter’s Edge Nueva York!] (https://donatenow.networkforgood.org/votersedge)
+[¡Únase hoy mismo a estos y otros donantes y apoye a Voter’s Edge Nueva York!] (https://secure.qgiv.com/for/votedg/)
 
 ---
 

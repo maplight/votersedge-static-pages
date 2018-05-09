@@ -84,7 +84,7 @@ We are deeply grateful to the following foundations and individuals whose contri
 - Kathleen Weisenberg (Voter’s Edge California)
 - Anonymous (Voter’s Edge California)  
 
-[Join these and other donors by supporting Voter’s Edge today!](https://donatenow.networkforgood.org/votersedge)
+[Join these and other donors by supporting Voter’s Edge today!](https://secure.qgiv.com/for/votedg/)
 
 ---
 
