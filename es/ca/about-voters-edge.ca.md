@@ -140,7 +140,9 @@ Directora ejecutiva de LWVCEF: _Melissa Breach_ |
 
 - **Coordinadora del condado de Butte:**_ Jane Wanderer_
 
-- **Coordinadora del condado de Contra Costa:**_ Marion Shostrom_
+- **Coordinadora del condado de Calaveras:**_ Brenda McHenry_
+
+- **Coordinadora del condado de Contra Costa:**_ Marian Shostrom_
 
 - **Coordinadora del condado de El Dorado:**_ Elaine Lyman_
 
@@ -148,50 +150,54 @@ Directora ejecutiva de LWVCEF: _Melissa Breach_ |
 
 - **Condado de Humboldt:**_ actualmente vacante_
 
-- **Coordinador del condado de Imperial:**_ Myles Pomeroy_
+- **Coordinador del condado de Imperial:**_ Julie Ann Sih_
 
-- **Coordinadora del condado de Kern:**_ Lois Watson_
+- **Condado de Kern:**_ actualmente vacante_
 
-- **Coordinadoras del condado de Los Ángeles:**_ Linda Herman, Pat Kromka y Roz Tyson_
+- **Coordinadora del condado de Los Ángeles:**_ Sharon Stone_
 
 - **Coordinadora del condado de Marin:**_ Veda Flores_
 
 - **Coordinadora del condado de Mendocino:**_ Pat Dunbar_
 
-- **Coordinadora del condado de Monterey:**_ Dennis Mar_
+- **Coordinadora del condado de Monterey:**_ Robin Tokmakian_
 
 - **Coordinadora del condado de Napa:**_ Kim Farmer_
 
+- **Coordinadora del condado de Nevada:**_ Andrew Muse-Fisher_
+
 - **Coordinadora del condado de Orange:**_ Petti Van Rekom_
 
-- **Coordinadora del condado de Placer:**_ Lynne Roberts_
+- **Coordinadora del condado de Placer:**_ Barbara Smith_
 
-- **Coordinadora del condado de Riverside:**_ Joan Donahue_
+- **Condado de Riverside:**_ actualmente vacante_
 
-- **Coordinadora del condado de Sacramento:**_ Louise Einspahr_
+- **Coordinadora del condado de Sacramento:**_ Claudia Bonsignore_
 
 - **Coordinadora del condado de San Bernardino:**_ Jill Vassilakos_
 
-- **Coordinadora del condado de San Diego:**_ Rachel McDonald_
+- **Coordinadora del condado de San Diego:**_ Julie Ann Sih_
 
-- **Coordinadora del condado de San Francisco:**_ Sara Kunitake_
+- **Coordinadora del condado de San Francisco:**_ Trinh Phan_
 
-- **Coordinadora del condado de San Joaquín:**_ Vickie Markarian_
+- **Coordinadora del condado de San Joaquín:**_ Bea Lingenfelter_
 
-- **Coordinadoras del condado de San Luis Obispo:**_ Ann Havlik y Alice Bunker_
+- **Coordinadora del condado de San Luis Obispo:**_ Ann Havlik_
 
 - **Coordinadora del condado de San Mateo:**_ Kathee Tyson_
 
 - **Coordinadora del condado de Santa Bárbara:**_ Bonnie Lassen_
 
-- **Coordinadores del condado de Santa Clara:**_ Greg Fowler y Julie Lovins_
+- **Coordinadora del condado de Santa Clara:**_ Roberta Hollimon_
 
-- **Condado de Santa Cruz:**_ actualmente vacante_
+- **Coordinadora del condado de Santa Cruz:**_ Cecilie Schulze_
 
-- **Coordinadora del condado de Sonoma:**_ Sally Patterson_
+- **Coordinadora del condado de Shasta:**_ Emily Davis_
+
+- **Coordinadora del condado de Sonoma:**_ Marie Wardell_
 
 - **Coordinadora del condado de Stanislaus:**_ Mary Giventer_
 
-- **Coordinadora del condado de Tulare:**_ Denise Nelson_
+- **Coordinadora del condado de Tulare:**_ Dale Simmons_
 
-- **Coordinador del condado de Ventura:**_ actualmente vacante_
+- **Coordinador del condado de Ventura:**_ Sage Intner_
