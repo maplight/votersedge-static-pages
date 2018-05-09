@@ -118,7 +118,7 @@ We are deeply grateful to the following foundations and individuals whose contri
 - Kathleen Weisenberg
 - Anonymous  
 
-[Join these and other donors by supporting Voter’s Edge California today!](https://donatenow.networkforgood.org/votersedge)
+[Join these and other donors by supporting Voter’s Edge California today!](https://secure.qgiv.com/for/votedg/)
 
 ## Meet the Voter’s Edge California Team
 
@@ -126,16 +126,14 @@ A diverse group of talents and personalities, from both the League of Women Vote
 
 **From the LWVCEF:** | **From MapLight:**
 --- | --- 
-LWVCEF Senior Director of Civic Engagement: _Dora Rose_ | Voting Information Director: _Michael Canning_
+LWVCEF Deputy Director: _Dora Rose_ | Program Manager: _Allie Jaarsma_
 LWVCEF Membership & Technology Manager: _Sharon Stone_ | Technical Director: Leon Smith
 Senior Advisor: _Roberta Hollimon_ | Software Engineer & Database Administrator: _Mike Krejci_
-Senior Advisor: _Carol Watts_ | Lead Designer & Front-End Engineer: _Chacha Sikes_
-Senior Programmer: _Carl Hage_ | Program Associates: _Elliott Day & Isaac Agree_
-Data Coordinator: _Greg Fowler_ | Researcher: _Joanna Nix_
-Northern CA Liaison: _Bonnie Hamlin_ | Program Assistant: _Chelsea Miller_
-Southern CA Liaison: _Brianna Conser_ | Software Engineer: _Shane Dosch_
+Senior Advisor: _Carol Watts_ | Product Manager: _Skippy Williams_
+Senior Programmer: _Carl Hage_ | Data Director: _Laura Curlin_
+Liaisons: _Bonnie Hamlin, Julie Ann Sih, and Jane Wanderer_ | Researcher: _Chad Outler_
 Board Liaison: _Kathy Armstrong_ | MapLight President & Co-Founder: _Daniel Newman_
-LWVCEF President: _Helen Hutchison_ | _[Learn more](http://maplight.org/content/staff) about the Voter’s Edge team and the rest of the MapLight crew!_
+LWVCEF President: _Helen Hutchison_ | _[Learn more](https://maplight.org/about/) about the Voter’s Edge team and the rest of the MapLight crew!_
 LWVCEF Executive Director: _Melissa Breach_ |             
 
 **County Coordinators:** County Coordinators and other volunteers are vital to the success of Voter’s Edge California. These volunteers work tirelessly to ensure Voter’s Edge California offers an abundance of accurate, high-quality information to voters.
@@ -144,7 +142,9 @@ LWVCEF Executive Director: _Melissa Breach_ |
 
 * **Butte County Coordinator:** _Jane Wanderer_
 
-* **Contra Costa County Coordinator:** _Marion Shostrom_
+* **Calaveras County Coordinator:** _Brenda McHenry_
+
+* **Contra Costa County Coordinator:** _Marian Shostrom_
 
 * **El Dorado County Coordinator:** _Elaine Lyman_
 
@@ -152,50 +152,54 @@ LWVCEF Executive Director: _Melissa Breach_ |
 
 * **Humboldt County:** _Currently Vacant_
 
-* **Imperial County Coordinator:** _Myles Pomeroy_
+* **Imperial County Coordinator:** _Julie Ann Sih_
 
-* **Kern County Coordinator:** _Lois Watson_
+* **Kern County:** _Currently Vacant_
 
-* **Los Angeles County Coordinators:** _Linda Herman & Pat Kromka & Roz Tyson_
+* **Los Angeles County Coordinator:** _Sharon Stone_
 
 * **Marin County Coordinator:** _Veda Flores_
 
 * **Mendocino County Coordinator:** _Pat Dunbar_
 
-* **Monterey County Coordinator:** _Dennis Mar_
+* **Monterey County Coordinator:** _Robin Tokmakian_
 
 * **Napa County Coordinator:** _Kim Farmer_
 
+* **Nevada County Coordinator:** _Andrew Muse-Fisher_
+
 * **Orange County Coordinator:** _Petti Van Rekom_
 
-* **Placer County Coordinator:** _Lynne Roberts_
+* **Placer County Coordinator:** _Barbara Smith_
 
-* **Riverside County Coordinator:** _Joan Donahue_
+* **Riverside County Coordinator:** _Currently Vacant_
 
-* **Sacramento County Coordinator:** _Louise Einspahr_
+* **Sacramento County Coordinator:** _Claudia Bonsignore_
 
 * **San Bernardino County Coordinator:** _Jill Vassilakos_
 
-* **San Diego County Coordinator:** _Rachel McDonald_
+* **San Diego County Coordinator:** _Julie Ann Sih_
 
-* **San Francisco County Coordinator:** _Sara Kunitake_
+* **San Francisco County Coordinator:** _Trinh Phan_
 
-* **San Joaquin County Coordinator:** _Vickie Markarian_
+* **San Joaquin County Coordinator:** _Bea Lingenfelter_
 
-* **San Luis Obispo County Coordinators:** _Ann Havlik & Alice Bunker_
+* **San Luis Obispo County Coordinator:** _Ann Havlik_
 
 * **San Mateo County Coordinator:** _Kathee Tyson_
 
 * **Santa Barbara County Coordinator:** _Bonnie Lassen_
 
-* **Santa Clara County Coordinators:** _Greg Fowler & Julie Lovins_
+* **Santa Clara County Coordinators:** _Roberta Holliman_
 
-* **Santa Cruz County:** _Currently Vacant_
+* **Santa Cruz County Coordinator:** _Cecilie Schulze_
 
-* **Sonoma County Coordinator:** _Sally Patterson_
+* **Shasta County Coordinator:** _Emily Davis_
+
+* **Sonoma County Coordinator:** _Marie Wardell_
 
 * **Stanislaus County Coordinator:** _Mary Giventer_
 
-* **Tulare County Coordinator:** _Denise Nelson_
+* **Tulare County Coordinator:** _Dale Simmons_
 
-* **Ventura County:** _Currently Vacant_
+* **Ventura County Coordinator:** _Sage Intner_
