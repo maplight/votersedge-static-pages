@@ -43,7 +43,7 @@ The candidate data appearing on Voter’s Edge California can come from three so
 
 **_I agree that the content submitted to VEC may be published for this election and retained in a permanent public archive._**
 
-Content submitted by candidates is not checked for accuracy and spelling and grammatical errors are not corrected by Voter’s Edge California. Content is reviewed to ensure that it does not refer to opponents. Voter’s Edge California does not take any responsibility for the style, content, accuracy or truthfulness of the information provided by candidates.  As common carriers with respect to this data, we do not edit spelling, grammar, or in any way alter the language provided by participating candidates (other than in the context of Spanish language translation). 
+Content submitted by candidates is not checked for accuracy and spelling and grammatical errors are not corrected by Voter’s Edge California. Content is reviewed to ensure that it does not refer to opponents. Voter’s Edge California does not take any responsibility for the style, content, accuracy or truthfulness of the information provided by candidates. As common carriers with respect to this data, we do not edit spelling, grammar, or in any way alter the language provided by participating candidates; however, we do provide Spanish translations of some content areas for federal and state candidates, including profession, top three priorities, education history, employment history, and public service.
 
 Content linked to by candidates, such as their campaign websites, social media, or videos are not reviewed. If you should observe content on Voter’s Edge California that you believe violates our terms of participation, please let us know.
 
