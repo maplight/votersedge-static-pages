@@ -37,9 +37,9 @@ The candidate data appearing on Voter’s Edge California can come from three so
 
 **2. Directly from the candidates:** Candidates are invited to participate by submitting important data about their candidacies directly to Voter’s Edge California. In order to submit content, candidates must agree to the following terms:
 
-**_The content shall not, in any way, make reference to other candidates for this office or to another candidate's qualifications, character, or activities. Moreover, the content shall not contain any demonstrably false, slanderous, or libelous statements or any obscene or profane language, statements or insinuations. _**
+**_The content shall not, in any way, make reference to other candidates for this office or to another candidate's qualifications, character, or activities. Moreover, the content shall not contain any demonstrably false, slanderous, or libelous statements or any obscene or profane language, statements or insinuations._**
 
-**_I accept responsibility for the truth and accuracy of the content submitted to VEC by myself, the candidate, or by my designated preparer. _**
+**_I accept responsibility for the truth and accuracy of the content submitted to VEC by myself, the candidate, or by my designated preparer._**
 
 **_I agree that the content submitted to VEC may be published for this election and retained in a permanent public archive._**
 
