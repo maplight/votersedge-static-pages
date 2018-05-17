@@ -85,15 +85,10 @@ Voter’s Edge California cuenta con el financiamiento de personas y fundaciones
 Agradecemos profundamente a las siguientes fundaciones y personas cuyas contribuciones hacen que Voter’s Edge California sea posible:
 
 - Condado de Alameda: Registro electoral
-- Fundación Rita Allen (proyecto nacional Voter’s Edge)
-- Fondo Bright Horizon 
-- Matt y Cindy Cutts (proyecto nacional Voter’s Edge)
 - Bonnie y Earl Hamlin
-- William and Flora Hewlett Foundation (proyecto nacional Voter’s Edge)
 - The James Irvine Foundation
-- Fundación Kaphan (proyecto nacional Voter’s Edge)
+- Fundación Kaphan
 - Ellen Kitamura
-- John S. and James L. Knight Foundation (proyecto nacional Voter’s Edge)
 - League of Women Voters del área de Eden
 - League of Women Voters del área de Los Altos/Mountain View
 - League of Women Voters de Los Ángeles
@@ -105,8 +100,6 @@ Agradecemos profundamente a las siguientes fundaciones y personas cuyas contribu
 - League of Women Voters de Santa Bárbara
 - League of Women Voters del suroeste del valle de Santa Clara
 - La honorable Becky Morgan
-- Fondo Filantrópico Craig Newmark (proyecto nacional Voter’s Edge)
-- Fondo Pick One
 - Condado de San Mateo: Oficina del tasador y del registro civil
 - Condado de Santa Clara: Registro electoral
 - Fondo Tides Civic Innovation
@@ -123,7 +116,7 @@ Un grupo diverso de talentos y personalidades, tanto de la League of Women Voter
 **De la LWVCEF:** | **De MapLight:**
 --- | --- 
 Directora principal de Compromiso Civil de LWVCEF: _Dora Rose_ | Director de Información Electoral: _Michael Canning_
-Gerente de Membresías y Tecnología de LWVCEF: _Sharon Stone_ | Director técnico: Leon Smith
+Gerente de Membresías y Tecnología de LWVCEF: _Sharon Stone_ | Director técnico: _Leon Smith_
 Asesora principal: _Roberta Hollimon_ | Ingeniero de sistemas y administrador de base de datos: _Mike Krejci_
 Asesora principal: _Carol Watts_ | Diseñadora principal e ingeniera inicial: _Chacha Sikes_
 Programador principal: _Carl Hage_ | Socios del programa: _Elliott Day e Isaac Agree_
@@ -136,68 +129,68 @@ Directora ejecutiva de LWVCEF: _Melissa Breach_ |
 
 **Coordinadores de condados:** los coordinadores de condados y otros voluntarios son vitales para el éxito de Voter’s Edge California. Estos voluntarios trabajan sin descanso garantizar que Voter’s Edge California ofrezca en abundancia información precisa y de alta calidad a los electores.
 
-- **Coordinadora del condado de Alameda:**_ Bonnie Hamlin_
+- **Coordinadora del condado de Alameda:** _Bonnie Hamlin_
 
-- **Coordinadora del condado de Butte:**_ Jane Wanderer_
+- **Coordinadora del condado de Butte:** _Jane Wanderer_
 
-- **Coordinadora del condado de Calaveras:**_ Brenda McHenry_
+- **Coordinadora del condado de Calaveras:** _Brenda McHenry_
 
-- **Coordinadora del condado de Contra Costa:**_ Marian Shostrom_
+- **Coordinadora del condado de Contra Costa:** _Marian Shostrom_
 
-- **Coordinadora del condado de El Dorado:**_ Elaine Lyman_
+- **Coordinadora del condado de El Dorado:** _Elaine Lyman_
 
-- **Coordinadora del condado de Fresno:**_ Jacquie Canfield_
+- **Coordinadora del condado de Fresno:** _Jacquie Canfield_
 
-- **Condado de Humboldt:**_ actualmente vacante_
+- **Condado de Humboldt:** _actualmente vacante_
 
-- **Coordinador del condado de Imperial:**_ Julie Ann Sih_
+- **Coordinador del condado de Imperial:** _Julie Ann Sih_
 
-- **Condado de Kern:**_ actualmente vacante_
+- **Condado de Kern:** _actualmente vacante_
 
-- **Coordinadora del condado de Los Ángeles:**_ Sharon Stone_
+- **Coordinadora del condado de Los Ángeles:** _Sharon Stone_
 
-- **Coordinadora del condado de Marin:**_ Veda Flores_
+- **Coordinadora del condado de Marin:** _Veda Flores_
 
-- **Coordinadora del condado de Mendocino:**_ Pat Dunbar_
+- **Coordinadora del condado de Mendocino:** _Pat Dunbar_
 
-- **Coordinadora del condado de Monterey:**_ Robin Tokmakian_
+- **Coordinadora del condado de Monterey:** _Robin Tokmakian_
 
-- **Coordinadora del condado de Napa:**_ Kim Farmer_
+- **Coordinadora del condado de Napa:** _Kim Farmer_
 
-- **Coordinadora del condado de Nevada:**_ Andrew Muse-Fisher_
+- **Coordinadora del condado de Nevada:** _Andrew Muse-Fisher_
 
-- **Coordinadora del condado de Orange:**_ Petti Van Rekom_
+- **Coordinadora del condado de Orange:**  _Petti Van Rekom_
 
-- **Coordinadora del condado de Placer:**_ Barbara Smith_
+- **Coordinadora del condado de Placer:** _Barbara Smith_
 
-- **Condado de Riverside:**_ actualmente vacante_
+- **Condado de Riverside:** _actualmente vacante_
 
-- **Coordinadora del condado de Sacramento:**_ Claudia Bonsignore_
+- **Coordinadora del condado de Sacramento:** _Claudia Bonsignore_
 
-- **Coordinadora del condado de San Bernardino:**_ Jill Vassilakos_
+- **Coordinadora del condado de San Bernardino:** _Jill Vassilakos_
 
-- **Coordinadora del condado de San Diego:**_ Julie Ann Sih_
+- **Coordinadora del condado de San Diego:** _Julie Ann Sih_
 
-- **Coordinadora del condado de San Francisco:**_ Trinh Phan_
+- **Coordinadora del condado de San Francisco:** _Trinh Phan_
 
-- **Coordinadora del condado de San Joaquín:**_ Bea Lingenfelter_
+- **Coordinadora del condado de San Joaquín:** _Bea Lingenfelter_
 
-- **Coordinadora del condado de San Luis Obispo:**_ Ann Havlik_
+- **Coordinadora del condado de San Luis Obispo:** _Ann Havlik_
 
-- **Coordinadora del condado de San Mateo:**_ Kathee Tyson_
+- **Coordinadora del condado de San Mateo:** _Kathee Tyson_
 
-- **Coordinadora del condado de Santa Bárbara:**_ Bonnie Lassen_
+- **Coordinadora del condado de Santa Bárbara:** _Bonnie Lassen_
 
-- **Coordinadora del condado de Santa Clara:**_ Roberta Hollimon_
+- **Coordinadora del condado de Santa Clara:** _Roberta Hollimon_
 
-- **Coordinadora del condado de Santa Cruz:**_ Cecilie Schulze_
+- **Coordinadora del condado de Santa Cruz:** _Cecilie Schulze_
 
-- **Coordinadora del condado de Shasta:**_ Emily Davis_
+- **Coordinadora del condado de Shasta:** _Emily Davis_
 
-- **Coordinadora del condado de Sonoma:**_ Marie Wardell_
+- **Coordinadora del condado de Sonoma:** _Marie Wardell_
 
-- **Coordinadora del condado de Stanislaus:**_ Mary Giventer_
+- **Coordinadora del condado de Stanislaus:** _Mary Giventer_
 
-- **Coordinadora del condado de Tulare:**_ Dale Simmons_
+- **Coordinadora del condado de Tulare:** _Dale Simmons_
 
-- **Coordinador del condado de Ventura:**_ Sage Intner_
+- **Coordinador del condado de Ventura:** _Sage Intner_

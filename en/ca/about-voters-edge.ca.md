@@ -89,15 +89,10 @@ Voter’s Edge California is funded by individuals and foundations who support o
 We are deeply grateful to the following foundations and individuals whose contributions make Voter’s Edge California possible:
 
 - Alameda County: Registrar of Voters
-- Rita Allen Foundation (national Voter’s Edge project)
-- Bright Horizon Fund 
-- Matt and Cindy Cutts (national Voter’s Edge project)
 - Bonnie and Earl Hamlin
-- William and Flora Hewlett Foundation (national Voter’s Edge project)
 - The James Irvine Foundation
-- The Kaphan Foundation (national Voter’s Edge project)
+- The Kaphan Foundation
 - Ellen Kitamura
-- John S. and James L. Knight Foundation (national Voter’s Edge project)
 - League of Women Voters of Eden Area
 - League of Women Voters of Los Altos/Mountain View Area
 - League of Women Voters of Los Angeles
@@ -109,11 +104,9 @@ We are deeply grateful to the following foundations and individuals whose contri
 - League of Women Voters of Santa Barbara
 - League of Women Voters of Southwest Santa Clara Valley
 - The Honorable Becky Morgan
-- Craig Newmark Philanthropic Fund (national Voter’s Edge project)
-- The Pick One Fund
 - San Mateo County: Office of Assessor-Clerk-Recorder
 - Santa Clara County: Registrar of Voters
-- Tides Civic Innovation Fund
+- Silicon Valley Community Foundation
 - Orlin and Onnolee Trapp
 - Kathleen Weisenberg
 - Anonymous  
@@ -127,7 +120,7 @@ A diverse group of talents and personalities, from both the League of Women Vote
 **From the LWVCEF:** | **From MapLight:**
 --- | --- 
 LWVCEF Deputy Director: _Dora Rose_ | Program Manager: _Allie Jaarsma_
-LWVCEF Membership & Technology Manager: _Sharon Stone_ | Technical Director: Leon Smith
+LWVCEF Membership & Technology Manager: _Sharon Stone_ | Technical Director: _Leon Smith_
 Senior Advisor: _Roberta Hollimon_ | Software Engineer & Database Administrator: _Mike Krejci_
 Senior Advisor: _Carol Watts_ | Product Manager: _Skippy Williams_
 Senior Programmer: _Carl Hage_ | Data Director: _Laura Curlin_
