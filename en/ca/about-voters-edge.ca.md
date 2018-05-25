@@ -88,28 +88,33 @@ Voter’s Edge California is funded by individuals and foundations who support o
 
 We are deeply grateful to the following foundations and individuals whose contributions make Voter’s Edge California possible:
 
-- Alameda County: Registrar of Voters
-- Bonnie and Earl Hamlin
 - The James Irvine Foundation
+- The Silicon Valley Community Foundation
 - The Kaphan Foundation
-- Ellen Kitamura
-- League of Women Voters of Eden Area
+- Santa Clara County: Registrar of Voters
+- San Mateo County: Office of Assessor-Clerk-Recorder
+- Marin County: Registrar of Voters
+- The Honorable Becky Morgan
+- Orlin and Onnolee Trapp
+- John Matthews
+- Bonnie and Earl Hamlin
+- Katherine Armstrong
+- Mark Leonard
+- League of Women Voters of San Jose/Santa Clara
+- Suzanne Stassevitch
+- League of Women Voters of Alameda
 - League of Women Voters of Los Altos/Mountain View Area
-- League of Women Voters of Los Angeles
 - League of Women Voters of Marin County
+- League of Women Voters of North County San Diego
 - League of Women Voters of Oakland
 - League of Women Voters of Palo Alto
 - League of Women Voters of Sacramento County
-- League of Women Voters of San Jose/Santa Clara
+- League of Women Voters of San Diego
 - League of Women Voters of Santa Barbara
-- League of Women Voters of Southwest Santa Clara Valley
-- The Honorable Becky Morgan
-- San Mateo County: Office of Assessor-Clerk-Recorder
-- Santa Clara County: Registrar of Voters
-- Silicon Valley Community Foundation
-- Orlin and Onnolee Trapp
-- Kathleen Weisenberg
-- Anonymous  
+- League of Women Voters of Santa Monica
+- League of Women Voters of Sonoma County
+- League of Women Voters of South San Mateo County
+- League of Women Voters of Southwest Santa Clara Valley  
 
 [Join these and other donors by supporting Voter’s Edge California today!](https://secure.qgiv.com/for/votedg/)
 
@@ -119,15 +124,15 @@ A diverse group of talents and personalities, from both the League of Women Vote
 
 **From the LWVCEF:** | **From MapLight:**
 --- | --- 
-LWVCEF Deputy Director: _Dora Rose_ | Program Manager: _Allie Jaarsma_
-LWVCEF Membership & Technology Manager: _Sharon Stone_ | Technical Director: _Leon Smith_
+Deputy Director: _Dora Rose_ | Program Manager: _Allie Jaarsma_
+Membership & Technology Manager: _Sharon Stone_ | Technical Director: _Leon Smith_
 Senior Advisor: _Roberta Hollimon_ | Software Engineer & Database Administrator: _Mike Krejci_
 Senior Advisor: _Carol Watts_ | Product Manager: _Skippy Williams_
 Senior Programmer: _Carl Hage_ | Data Director: _Laura Curlin_
 Liaisons: _Bonnie Hamlin, Julie Ann Sih, and Jane Wanderer_ | Researcher: _Chad Outler_
 Board Liaison: _Kathy Armstrong_ | MapLight President & Co-Founder: _Daniel Newman_
-LWVCEF President: _Helen Hutchison_ | _[Learn more](https://maplight.org/about/) about the Voter’s Edge team and the rest of the MapLight crew!_
-LWVCEF Executive Director: _Melissa Breach_ |             
+President: _Helen Hutchison_ | _[Learn more](https://maplight.org/about/) about the Voter’s Edge team and the rest of the MapLight crew!_
+Executive Director: _Melissa Breach_ |             
 
 **County Coordinators:** County Coordinators and other volunteers are vital to the success of Voter’s Edge California. These volunteers work tirelessly to ensure Voter’s Edge California offers an abundance of accurate, high-quality information to voters.
 
@@ -188,6 +193,8 @@ LWVCEF Executive Director: _Melissa Breach_ |
 * **Santa Cruz County Coordinator:** _Cecilie Schulze_
 
 * **Shasta County Coordinator:** _Emily Davis_
+
+* **Solano County Coordinator:** _Gayle Vaughan_
 
 * **Sonoma County Coordinator:** _Marie Wardell_
 

@@ -84,28 +84,33 @@ Los miembros de la Junta Asesora de Español de Voter’s Edge ayudan a MapLight
 Voter’s Edge California cuenta con el financiamiento de personas y fundaciones que apoyan nuestra labor al brindar a los votantes una única fuente de información imparcial y sin afiliación partidista que les ayuda a tomar decisiones que se adapten mejor a sus intereses y valores particulares.
 Agradecemos profundamente a las siguientes fundaciones y personas cuyas contribuciones hacen que Voter’s Edge California sea posible:
 
-- Condado de Alameda: Registro electoral
-- Bonnie y Earl Hamlin
 - The James Irvine Foundation
-- Fundación Kaphan
-- Ellen Kitamura
-- League of Women Voters del área de Eden
+- The Silicon Valley Community Foundation
+- The Kaphan Foundation
+- Condado de Santa Clara: Registro electoral
+- Condado de San Mateo: Oficina del tasador y del registro civil
+- Condado de Marin: Registro electoral
+- La honorable Becky Morgan
+- Orlin y Onnolee Trapp
+- John Matthews
+- Bonnie y Earl Hamlin
+- Katherine Armstrong
+- Mark Leonard
+- League of Women Voters de San Jose/Santa Clara
+- Suzanne Stassevitch
+- League of Women Voters de Alameda
 - League of Women Voters del área de Los Altos/Mountain View
-- League of Women Voters de Los Ángeles
-- League of Women Voters del condado de Marin
+- League of Women Voters del condado de Marin 
+- League of Women Voters de North County San Diego
 - League of Women Voters de Oakland
 - League of Women Voters de Palo Alto
-- League of Women Voters del condado de Sacramento
-- League of Women Voters de San José/Santa Clara
-- League of Women Voters de Santa Bárbara
-- League of Women Voters del suroeste del valle de Santa Clara
-- La honorable Becky Morgan
-- Condado de San Mateo: Oficina del tasador y del registro civil
-- Condado de Santa Clara: Registro electoral
-- Fondo Tides Civic Innovation
-- Orlin y Onnolee Trapp
-- Kathleen Weisenberg
-- Anónimo
+- League of Women Voters del condado de Sacramento 
+- League of Women Voters de San Diego
+- League of Women Voters de Santa Barbara
+- League of Women Voters de Santa Monica
+- League of Women Voters del condado de Sonoma
+- League of Women Voters de South San Mateo County
+- League of Women Voters del suroeste del valle de Santa Clara  
 
 [¡Únase hoy mismo a estos y otros donantes y apoye a Voter’s Edge California! ](https://secure.qgiv.com/for/votedg/)
 
@@ -115,17 +120,15 @@ Un grupo diverso de talentos y personalidades, tanto de la League of Women Voter
 
 **De la LWVCEF:** | **De MapLight:**
 --- | --- 
-Directora principal de Compromiso Civil de LWVCEF: _Dora Rose_ | Director de Información Electoral: _Michael Canning_
-Gerente de Membresías y Tecnología de LWVCEF: _Sharon Stone_ | Director técnico: _Leon Smith_
+Subdirectora: _Dora Rose_ | Gerente del programa: _Allie Jaarsma_
+Gerente de Membresías y Tecnología: _Sharon Stone_ | Director técnico: _Leon Smith_
 Asesora principal: _Roberta Hollimon_ | Ingeniero de sistemas y administrador de base de datos: _Mike Krejci_
-Asesora principal: _Carol Watts_ | Diseñadora principal e ingeniera inicial: _Chacha Sikes_
-Programador principal: _Carl Hage_ | Socios del programa: _Elliott Day e Isaac Agree_
-Coordinador de datos: _Greg Fowler_ | Investigadora: _Joanna Nix_
-Enlace con el norte de California: _Bonnie Hamlin_ | Asistente del programa: _Chelsea Miller_
-Enlace con el sur de California: _Brianna Conser_ | Ingeniero en sistemas: _Shane Dosch_
+Asesora principal: _Carol Watts_ | Gerente de producto: _Skippy Williams_
+Programador principal: _Carl Hage_ | Directora de datos: _Laura Curlin_
+Enlaces: _Bonnie Hamlin, Julie Ann Sih, and Jane Wanderer_ | Investigador: _Chad Outler_
 Enlace con la junta: _Kathy Armstrong_ | Presidente y cofundador de MapLight: _Daniel Newman_
-Presidente de LWVCEF: _Helen Hutchison_ | _¡Conozca más(http://maplight.org/content/staff) sobre el equipo de Voter’s Edge y el resto del personal de MapLight!_
-Directora ejecutiva de LWVCEF: _Melissa Breach_ | 
+Presidenta: _Helen Hutchison_ | _¡Conozca más(http://maplight.org/content/staff) sobre el equipo de Voter’s Edge y el resto del personal de MapLight!_
+Directora ejecutiva: _Melissa Breach_ | 
 
 **Coordinadores de condados:** los coordinadores de condados y otros voluntarios son vitales para el éxito de Voter’s Edge California. Estos voluntarios trabajan sin descanso garantizar que Voter’s Edge California ofrezca en abundancia información precisa y de alta calidad a los electores.
 
@@ -157,7 +160,7 @@ Directora ejecutiva de LWVCEF: _Melissa Breach_ |
 
 - **Coordinadora del condado de Napa:** _Kim Farmer_
 
-- **Coordinadora del condado de Nevada:** _Andrew Muse-Fisher_
+- **Coordinador del condado de Nevada:** _Andrew Muse-Fisher_
 
 - **Coordinadora del condado de Orange:**  _Petti Van Rekom_
 
@@ -187,10 +190,12 @@ Directora ejecutiva de LWVCEF: _Melissa Breach_ |
 
 - **Coordinadora del condado de Shasta:** _Emily Davis_
 
+- **Coordinadora del condado de Solano:** _Gayle Vaughan_
+
 - **Coordinadora del condado de Sonoma:** _Marie Wardell_
 
 - **Coordinadora del condado de Stanislaus:** _Mary Giventer_
 
-- **Coordinadora del condado de Tulare:** _Dale Simmons_
+- **Coordinador del condado de Tulare:** _Dale Simmons_
 
-- **Coordinador del condado de Ventura:** _Sage Intner_
+- **Coordinadora del condado de Ventura:** _Sage Intner_
